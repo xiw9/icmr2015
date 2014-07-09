@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="The Annual ACM International Conference on Multimedia Retrieval (ICMR)">
@@ -20,7 +19,6 @@
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
   <title>ICMR 2015 | International Conference on Multimedia Retrieval</title>
-
 </head>
 <body>
   <div class="navbar-wrapper">
