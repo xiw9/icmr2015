@@ -122,6 +122,10 @@ span.glyphicon-chevron-up {
   /*height: 50%;*/
   background-color: #777;
 }
+.ord-header{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 /*
 .carousel-inner > .item > img {
   position: absolute;
@@ -142,7 +146,7 @@ span.glyphicon-chevron-up {
 ------------------------- */
 
 .featurette-divider {
-  margin: 40px 0; /* Space out the Bootstrap <hr> more */
+  margin: 20px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
