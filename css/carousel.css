@@ -23,11 +23,22 @@ span.glyphicon-chevron-up {
     font-size: 2.5em;
     color: #fff;
 }
-
-.homepage .panel{
-  height: 210px;
+@media (min-width: 992px) {
+  .homepage .panel{
+    height: 210px;
+  }
+  .homepage .panel-wide{
+    height: 160px;
+  }
 }
-
+@media (min-width: 768px) {
+  .homepage .panel{
+    height: 240px;
+  }
+  .homepage .panel-wide{
+    height: 160px;
+  }
+}
 .panel{
   border-radius:0px;
 }
@@ -117,6 +128,7 @@ span.glyphicon-chevron-up {
 .carousel {
   /*margin-top: 51px;
   height: 500px;*/
+  margin-top: 50px;
   margin-bottom: 60px;
 }
 .carousel-caption-background{

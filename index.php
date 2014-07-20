@@ -67,7 +67,7 @@
     <div class="row">
       <div class="col-md-12">
 
-      <div class="panel panel-primary" style="height: 160px">
+      <div class="panel panel-primary panel-wide">
         <div class="panel-heading">
           <h3 class="panel-title">Sponsors</h3>
         </div>

@@ -26,7 +26,7 @@
             <p>The center was completed and officially opened for business in August 1999, covering a construction area of 110,000 m<sup>2</sup>. As the new landmark of Shanghai, the center was appraised as one of the 10 classic buildings over the 50 years since the founding of the P.R. China.</p>
             <h4>Location</h4>
             <p>
-            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=shanghai+international+Convention+Center+&amp;sll=31.240912,121.495185&amp;sspn=0.029427,0.066047&amp;ie=UTF8&amp;hq=shanghai+international+Convention+Center&amp;hnear=&amp;ll=31.240912,121.495185&amp;spn=0.029427,0.066047&amp;output=embed"></iframe>
+            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=shanghai+international+Convention+Center+&amp;sll=31.240912,121.495185&amp;sspn=0.029427,0.066047&amp;ie=UTF8&amp;hq=shanghai+international+Convention+Center&amp;hnear=&amp;ll=31.240912,121.495185&amp;spn=0.029427,0.066047&amp;output=embed"></iframe>
             </p>
             <hr>
             <a name="fudan"></a>
@@ -38,7 +38,7 @@
             <p>Over the past hundred years, the school has made outstanding contributions to the country by developing talent, innovating in science and technology, carrying forward civilization, and serving society. Students and teachers of Fudan always keep in mind the school motto “Rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice,” maintain the school spirit of “civilized, healthy, united, rousing,” practice the school traditions of being “hard working, rigorous, result-oriented, and innovative,” and develop the Fudan spirit of “patriotic service, academic independence, a diversity of approaches, and pursuit of excellence.” They make great contributions to the liberation and development of the people, the construction and development of the nation, and the civilization and progress of society.</p>          
             <h4>Location</h4>
             <p>
-            <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Fudan+University+&amp;sll=31.29742,121.503618,17&amp;sspn=0.029427,0.066047&amp;ie=UTF8&amp;hq=Fudan+University&amp;hnear=&amp;ll=31.29742,121.503618,17&amp;spn=0.029427,0.066047&amp;output=embed"></iframe>
+            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Fudan+University+&amp;sll=31.29742,121.503618,17&amp;sspn=0.029427,0.066047&amp;ie=UTF8&amp;hq=Fudan+University&amp;hnear=&amp;ll=31.29742,121.503618,17&amp;spn=0.029427,0.066047&amp;output=embed"></iframe>
             </p>     
           </div>
        
