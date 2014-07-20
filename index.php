@@ -46,24 +46,24 @@
           <div class="panel-body">
             <p><a href="conference_venue#convention">Shanghai International Convention Center</a><br>
               2727 Binjiang Ave, Pudong, Shanghai<br>
-              Main conference.</p>
+              Main conference</p>
             <p><a href="conference_venue#fudan">Fudan University</a><br>
               220 Handan Rd, Yangpu, Shanghai<br>
-             Tutorials and workshops.</p>
+             Tutorials and workshops</p>
           </div>
         </div>
-      </div><!-- /.col-lg-4 -->
+      </div>
       <div class="col-md-8">
         <div class="panel panel-primary">
           <div class="panel-heading">
             <h3 class="panel-title">Recently Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR) will be held from June 23-26, 2015 in Shanghai, China</p>
+            <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR) will be held from June 23-26, 2015 in Shanghai, China.</p>
           </div>
         </div>      
-      </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+      </div>
+    </div>
     <div class="row">
       <div class="col-md-12">
 
