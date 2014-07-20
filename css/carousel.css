@@ -24,6 +24,10 @@ span.glyphicon-chevron-up {
     color: #fff;
 }
 
+.homepage .panel{
+  height: 210px;
+}
+
 .panel{
   border-radius:0px;
 }

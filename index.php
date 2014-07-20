@@ -8,7 +8,7 @@
 <?php include 'php/navbar.php' ?>
 <?php include 'php/carousel.php' ?>
 
-  <div class="container">
+  <div class="container homepage">
     <div class="row">
       <div class="col-md-8">
         <div class="panel panel-primary">
@@ -27,11 +27,11 @@
             <h3 class="panel-title">Important Dates</h3>
           </div>
           <div class="panel-body">
-            <p><strong>Paper Submission:</strong> <br>
+            <p>Paper Submission: <br>
               January 15, 2015 </p>
-            <p><strong>Notification of Acceptance:</strong> <br>
+            <p>Notification of Acceptance:<br>
               March 15, 2015 </p>
-            <p><strong>Camera-Ready Papers Due:</strong> <br>
+            <p>Camera-Ready Papers Due: <br>
               April 5, 2015 </p>
           </div>
         </div>
@@ -41,15 +41,15 @@
       <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Time and Place</h3>
+            <h3 class="panel-title">Place</h3>
           </div>
           <div class="panel-body">
-            <p>Paper Submission: <br>
-              January 15, 2015 </p>
-            <p>Notification of Acceptance: <br>
-              March 15, 2015 </p>
-            <p>Camera-Ready Papers Due: <br>
-              April 5, 2015 </p>
+            <p><a href="conference_venue#convention">Shanghai International Convention Center</a><br>
+              2727 Binjiang Ave, Pudong, Shanghai<br>
+              Main conference.</p>
+            <p><a href="conference_venue#fudan">Fudan University</a><br>
+              220 Handan Rd, Yangpu, Shanghai<br>
+             Tutorials and workshops.</p>
           </div>
         </div>
       </div><!-- /.col-lg-4 -->
@@ -59,12 +59,7 @@
             <h3 class="panel-title">Recently Updates</h3>
           </div>
           <div class="panel-body">
-            <p>Paper Submission: <br>
-              January 15, 2015 </p>
-            <p>Notification of Acceptance: <br>
-              March 15, 2015 </p>
-            <p>Camera-Ready Papers Due: <br>
-              April 5, 2015 </p>
+            <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR) will be held from June 23-26, 2015 in Shanghai, China</p>
           </div>
         </div>      
       </div><!-- /.col-lg-4 -->
@@ -72,7 +67,7 @@
     <div class="row">
       <div class="col-md-12">
 
-      <div class="panel panel-primary">
+      <div class="panel panel-primary" style="height: 160px">
         <div class="panel-heading">
           <h3 class="panel-title">Sponsors</h3>
         </div>
