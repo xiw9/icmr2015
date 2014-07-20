@@ -17,7 +17,6 @@
             <h1 class="panel-title">Call for Contributions</h1>
           </div>
           <div class="panel-body" >
-
             <p>ICMR 2015 is seeking original high quality submissions addressing innovative research in the broad field of multimedia retrieval. Contributions addressing the challenges of large-scale search and user behavior analysis are especially welcome.
             </p>
             <h3>Topics of Interest (not limited to)</h3>

@@ -15,17 +15,20 @@
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="/">Home</a></li>
-            <li><a href="cfp">Call for contributions</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Contributions<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="cfp">Call for Papers</a></li>
+              </ul>
+            </li>
             <li><a href="organization">Organization</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
+                <li><a href="venue">Conference Venue</a></li>
                 <li><a href="shanghai">About Shanghai</a></li>
-                <li><a href="locations">Key Locations</a></li>
-                <li><a href="transportation">Transportation</a></li>
               </ul>
             </li>
-            <li><a href="about">About</a></li>
           </ul>
         </div>
       </div>

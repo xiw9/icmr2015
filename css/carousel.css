@@ -24,6 +24,13 @@ span.glyphicon-chevron-up {
     color: #fff;
 }
 
+.panel{
+  border-radius:0px;
+}
+.panel-heading{
+  border-top-right-radius:0px;
+  border-top-left-radius:0px;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
