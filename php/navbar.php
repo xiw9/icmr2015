@@ -35,9 +35,6 @@
             </li>
             <li class="dropdown disabled">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops<span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li>TBD</li>
-              </ul>
             </li>
             <li class="disabled"><a href="organization">Organization</a></li>
             <li class="dropdown">

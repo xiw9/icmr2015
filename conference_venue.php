@@ -26,8 +26,7 @@
             <p>The center was completed and officially opened for business in August 1999, covering a construction area of 110,000 m<sup>2</sup>. As the new landmark of Shanghai, the center was appraised as one of the 10 classic buildings over the 50 years since the founding of the P.R. China.</p>
             <h4>Location</h4>
             <p>
-            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="
-            https://www.google.com/maps/embed/v1/place?key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ&amp;q=Shanghai+International+Convention+Center,Shanghai+China"></iframe>
+            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Shanghai%20International%20Convention%20Center%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
             </p>
             <hr>
             <a name="fudan"></a>
@@ -39,8 +38,7 @@
             <p>Over the past hundred years, the school has made outstanding contributions to the country by developing talent, innovating in science and technology, carrying forward civilization, and serving society. Students and teachers of Fudan always keep in mind the school motto “Rich in knowledge and tenacious of purposes, inquiring with earnestness and reflecting with self-practice,” maintain the school spirit of “civilized, healthy, united, rousing,” practice the school traditions of being “hard working, rigorous, result-oriented, and innovative,” and develop the Fudan spirit of “patriotic service, academic independence, a diversity of approaches, and pursuit of excellence.” They make great contributions to the liberation and development of the people, the construction and development of the nation, and the civilization and progress of society.</p>          
             <h4>Location</h4>
             <p>
-            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="
-            https://www.google.com/maps/embed/v1/place?key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ&amp;q=Fudan+University,Shanghai+China"></iframe>
+            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Fudan%20University%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
             </p>     
           </div>
        
