@@ -23,8 +23,8 @@
                 <li><a href="call_for_demonstrations">Demonstrations</a></li>
                 <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
                 <li><a href="call_for_phd_showcase">PhD Student Showcase</a></li>
-                <li><a href="#" class="disabled">Workshops</a></li>
-                <li><a href="#" class="disabled">Special Sessions</a></li>
+                <li class="disabled"><a href="#">Workshops</a></li>
+                <li class="disabled"><a href="#">Special Sessions</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -33,7 +33,13 @@
                 <li><a href="submission_instructions">Submission Instructions</a></li>
               </ul>
             </li>
-            <li><a href="organization" class="disabled">Organization</a></li>
+            <li class="dropdown disabled">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li>TBD</li>
+              </ul>
+            </li>
+            <li class="disabled"><a href="organization">Organization</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">

@@ -4,7 +4,7 @@
   <meta name="author" content="BigVid Lab, Fudan University">
   <meta name="keywords" content="Computer Science, Multimedia Retrieval">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="shortcut icon" href="img/favicon.ico" />
+  <link rel="shortcut icon" href="img/favicon.png" />
   <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/united/bootstrap.min.css" rel="stylesheet">
   <link href="css/carousel.css" rel="stylesheet">
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

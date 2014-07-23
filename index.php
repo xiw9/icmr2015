@@ -38,6 +38,16 @@
       </div>
     </div>
     <div class="row">
+      <div class="col-md-8">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Recently Updates</h3>
+          </div>
+          <div class="panel-body">
+            <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR 2015) will be held from June 23-26, 2015 in Shanghai, China.</p>
+          </div>
+        </div>      
+      </div>
       <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
@@ -52,16 +62,6 @@
              Tutorials and workshops</p>
           </div>
         </div>
-      </div>
-      <div class="col-md-8">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h3 class="panel-title">Recently Updates</h3>
-          </div>
-          <div class="panel-body">
-            <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR) will be held from June 23-26, 2015 in Shanghai, China.</p>
-          </div>
-        </div>      
       </div>
     </div>
     <div class="row">

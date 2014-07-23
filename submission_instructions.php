@@ -30,6 +30,8 @@
             <a href="http://www.acm.org/sigs/volunteer_resources/conference_manual/6-5proc/" target="_blank">Formatting instructions for other tools</a>
             </li>
             </ul>
+            <h3>Abstract and Keywords</h3>
+            <p>The abstract and the keywords form the primary source for assigning papers to reviewers. So make sure that they form a concise and complete summary of your paper with sufficient information to let someone who doesn’t read the full paper know what it is about .</p>
             <h3>Complying with double-blind review</h3>
             <p>In a "Double-blind Review" process, authors should not know the names of the reviewers of their papers, and reviewers should not know the names of the authors. Please prepare your paper in a way that preserves anonymity of the authors.</p>
             <ul>
@@ -39,6 +41,9 @@
             <li>Check supplemental material (e.g., titles in the video clips, or supplementary documents) for information that may identify the authors identity.</li>
             <li>Avoid providing links to websites that identify the authors.</li>
             </ul>
+            <h3>Submissions</h3>
+            <p>Submissions should be made through the <a>EasyChair conference website (TBD).</a></p>
+
           </div>
         </div>  
       </div>
