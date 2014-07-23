@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <?php include 'php/header.php' ?>
-  <title>Conference Venue | ACM ICMR 2015 | Shanghai, China</title>
+  <title>Conference Venues | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
   <?php include 'php/navbar.php' ?>
@@ -14,7 +14,7 @@
       <div class="col-md-9">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">Conference Venue</h1>
+            <h1 class="panel-title">Conference Venues</h1>
           </div>
           <div class="panel-body" >
             <a name="convention"></a>

@@ -18,7 +18,13 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Contributions<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="call_for_paper">Call for Papers</a></li>
+                <li><a href="call_for_paper">Full Papers</a></li>
+                <li><a href="call_for_short_paper">Short Papers</a></li>
+                <li><a href="call_for_demonstrations">Demonstrations</a></li>
+                <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
+                <li><a href="call_for_phd_showcase">PhD Student Showcase</a></li>
+                <li><a href="#" class="disabled">Workshops</a></li>
+                <li><a href="#" class="disabled">Special Sessions</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -27,11 +33,11 @@
                 <li><a href="submission_instructions">Submission Instructions</a></li>
               </ul>
             </li>
-            <li><a href="organization">Organization</a></li>
+            <li><a href="organization" class="disabled">Organization</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="conference_venue">Conference Venue</a></li>
+                <li><a href="conference_venue">Conference Venues</a></li>
                 <li><a href="about_shanghai">About Shanghai</a></li>
               </ul>
             </li>

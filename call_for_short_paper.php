@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <?php include 'php/header.php' ?>
-  <title>Call for Full Papers | ACM ICMR 2015 | Shanghai, China</title>
+  <title>Call for Short Papers | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
   <?php include 'php/navbar.php' ?>
@@ -14,11 +14,10 @@
       <div class="col-md-9">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">Call for Full Papers</h1>
+            <h1 class="panel-title">Call for Short Papers</h1>
           </div>
           <div class="panel-body" >
-            <p>ICMR 2015 is seeking original high quality submissions addressing innovative research in the broad field of multimedia retrieval. Contributions addressing the challenges of large-scale search and user behavior analysis are especially welcome.
-            </p>
+            <p>In addition to full papers, ICMR 2015 is inviting short paper submissions: original contributions incorporating latest results, 4 pages long in ACM format,  addressing innovative research in the broad field of multimedia retrieval. We wish to incorporate  innovative contributions addressing the main problem of search and retrieval but also the related and equally important issues of multimedia content management, user interaction, and community-based management.</p>
             <h3>Topics of Interest (not limited to)</h3>
             <ul>
               <li>Content and context based indexing, search and retrieval of multimedia data</li>
@@ -46,11 +45,11 @@
               <li> Camera-Ready Papers Due: April 5, 2015 </li>
             </ul>
             <h3>Double-Blind Review</h3>
-            <p>The ICMR uses a double-blind review process for full paper selection. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the authors. Please prepare your paper in a way that preserves anonymity of the authors.</p>
+            <p>The ICMR uses a double-blind review process for short paper selection. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the authors. Please prepare your paper in a way that preserves anonymity of the authors.</p>
             <h3>Abstract and Keywords</h3>
             <p>The abstract and the keywords form the primary source for assigning papers to reviewers. So make sure that they form a concise and complete summary of your paper with sufficient information to let someone who doesn’t read the full paper know what it is about .</p>
-            <h3>Maximum Length of a Paper</h3>
-            <p>Each full paper should not be longer than <em>8 pages.</em></p>
+           <h3>Maximum Length of a Paper</h3>
+            <p>Each short paper should not be longer than <em>4 pages.</em></p>
 
           </div>
         </div>  
