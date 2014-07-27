@@ -4,13 +4,20 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  background-color: #e2efff;
+  background-color: #eeeeee;
 }
 footer{
   padding-top: 30px;
   padding-bottom: 10px;
-  background: #0d56a6;
+  background: #222222;
 }
+
+.featurette-divider {
+  margin: 20px 0; /* Space out the Bootstrap <hr> more */
+  background-color: #eeeeee;
+  border-color: #eeeeee;
+}
+
 .footer{
   color: #fff;
 }
@@ -123,8 +130,9 @@ span.glyphicon-chevron-up {
 .carousel {
   /*margin-top: 51px;
   height: 500px;*/
-  margin-top: 50px;
+  margin-top: 48px;
   margin-bottom: 60px;
+  border-bottom: 1px solid #000;
 }
 .carousel-caption-background{
   background-color:rgba(20, 20, 20, 0.4);
@@ -141,9 +149,9 @@ span.glyphicon-chevron-up {
   background-color: #777;
 }
 .ord-header{
-  margin-top: 50px;
+  margin-top: 48px;
   margin-bottom: 40px;
-  border-bottom: 1px solid #04356C;
+  border-bottom: 1px solid #000;
 }
 /*
 .carousel-inner > .item > img {
@@ -162,10 +170,6 @@ span.glyphicon-chevron-up {
 
 /* Featurettes
 ------------------------- */
-
-.featurette-divider {
-  margin: 20px 0; /* Space out the Bootstrap <hr> more */
-}
 
 /* Thin out the marketing headings */
 .featurette-heading {
