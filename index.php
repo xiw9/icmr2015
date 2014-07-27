@@ -67,11 +67,11 @@
     <div class="row">
       <div class="col-md-12">
 
-      <div class="panel panel-primary panel-wide">
+      <div>
         <div class="panel-heading">
-          <h3 class="panel-title">Sponsors</h3>
+          <h3>Sponsors</h3>
         </div>
-        <div class="panel-body" >
+        <div>
           <p class="text-center">
           <img src="img/acm_logo.gif" style="height: 80px; padding-right: 20px;">
           <img src="img/sigmm.jpg" style="height: 60px; padding-right: 20px;">
