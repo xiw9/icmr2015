@@ -7,13 +7,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="item active">
-        <img src="img/header-1.jpg" alt="Scenery of Shanghai">
-      </div>
-      <div class="item">
-        <img src="img/header-2.jpg" alt="Scenery of Shanghai" >
+        <img src="img/header-2.jpg" alt="Scenery of Shanghai">
       </div>
       <div class="item">
         <img src="img/header-3.jpg" alt="Shanghai International Convention Center" >
+      </div>
+      <div class="item">
+        <img src="img/header-1.jpg" alt="Scenery of Shanghai" >
       </div>
     </div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>

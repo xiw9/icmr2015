@@ -1,20 +1,15 @@
-/* CUSTOM STYLES
--------------------------------------------------- */
-
 
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
 body {
-  background-color: #fcf2ef;
-  /*background-image:url(../img/paper.png);*/
+  background-color: #e2efff;
 }
 footer{
   padding-top: 30px;
   padding-bottom: 10px;
-  background: #dd4814;
-  /*background-image:url(../img/paper-d.png);*/
+  background: #0d56a6;
 }
 .footer{
   color: #fff;
@@ -147,7 +142,8 @@ span.glyphicon-chevron-up {
 }
 .ord-header{
   margin-top: 50px;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #04356C;
 }
 /*
 .carousel-inner > .item > img {
