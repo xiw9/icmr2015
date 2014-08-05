@@ -50,13 +50,14 @@
 		  <h4>Panel Chairs</h4>
 		  <p>Tat-Seng Chua, NUS, Singapore</p>
 		  <p>Lexing Xie, ANU, Australia</p>
-		 
-		</div>
-		<div class="col-md-6">
+		  <hr>	
 		  <h4>Doctoral Symposium Chairs</h4>
 		  <p>Xiao-Yong Wei, Sichuan University, China</p>
 		  <p>Subh Bhattacharya, Siemens Research, USA</p>
-		  <hr>
+	 
+		</div>
+		<div class="col-md-6">
+
 		  <h4>Tutorial Chairs</h4>
 		  <p>Marco Bertini, University of Florence, Italy</p>
 		  <p>Junsong Yuan, NTU, Singapore</p>  
