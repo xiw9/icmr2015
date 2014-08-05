@@ -48,7 +48,9 @@
 		  <h3>Panel Chairs</h3>
 		  <p>Tat-Seng Chua, NUS, Singapore</p>
 		  <p>Lexing Xie, ANU, Australia</p>
-		  
+		 
+		</div>
+		<div class="col-md-6">
 		  <h3>Doctoral Symposium Chairs</h3>
 		  <p>Xiao-Yong Wei, Sichuan University, China</p>
 		  <p>Subh Bhattacharya, Siemens Research, USA</p>
@@ -56,8 +58,6 @@
 		  <h3>Tutorial Chairs</h3>
 		  <p>Marco Bertini, University of Florence, Italy</p>
 		  <p>Junsong Yuan, NTU, Singapore</p>  
-		</div>
-		<div class="col-md-6">
 		  
 		  <h3>Demo Chairs</h3>
 		  <p>Benoit Huet, Eurecom, France</p>
