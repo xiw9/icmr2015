@@ -1,6 +1,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="The Annual ACM International Conference on Multimedia Retrieval (ICMR 2015), Shanghai, China">
+  <meta name="description" content="The Annual ACM International Conference on Multimedia Retrieval (ICMR 2015), Shanghai, China, June 23-26, 2015">
   <meta name="author" content="BigVid Lab, Fudan University">
   <meta name="keywords" content="Computer Science, Multimedia Retrieval">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">

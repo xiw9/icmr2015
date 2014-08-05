@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <?php include 'php/header.php' ?>
-  <title>ACM ICMR 2015 | Shanghai, China</title>
+  <title>ACM ICMR 2015 | Shanghai, China, June 23-26, 2015</title>
 </head>
 <body>
 <?php include 'php/navbar.php' ?>
@@ -13,11 +13,12 @@
       <div class="col-md-8">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">About ICMR 2015</h1>
+            <h1 class="panel-title">ICMR 2015</h1>
           </div>
           <div class="panel-body">
             <p>Effectively and efficiently retrieving information based on user needs is one of the most exciting areas in multimedia research. The Annual ACM International Conference on Multimedia Retrieval (ICMR) offers a great opportunity for exchanging leading-edge multimedia retrieval ideas among researchers, practitioners and other potential users of multimedia retrieval systems.</p>
             <p>This conference, puts together the long-lasting experience of former ACM CIVR and ACM MIR series, is set up to illuminate the state of the arts in multimedia (text, image, video and audio) retrieval.</p>
+            <p>ICMR 2015 will be held from <em>June 23-26, 2015</em> in Shanghai, China.</p>
           </div>
         </div>
       </div>
@@ -41,9 +42,10 @@
       <div class="col-md-8">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Recently Updates</h3>
+            <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
+            <p>[08/05/2014] The ICMR 2015 website launched.</p>
             <p>[11/23/2013] The annual ACM International Conference on Multimedia Retrieval (ICMR 2015) will be held from June 23-26, 2015 in Shanghai, China.</p>
           </div>
         </div>      

@@ -17,7 +17,6 @@
             <h1 class="panel-title">Call for Doctoral Symposium</h1>
           </div>
           <div class="panel-body" >
-            <h3>Objective</h3>
             <p>The ICMR 2015 Doctoral Symposium plans to bring together Ph.D. students working on topics related to multimedia and information retrieval. The Doctoral Symposium will take place during the main conference in oral presentation format. The goal is to provide a forum for Ph.D. students to present ongoing research in a collaborative environment and to share ideas with other renowned and experienced researchers. Participants will discuss their research ideas and results, and they will receive constructive feedback from an audience consisting of peers as well as more senior people. It will be an excellent opportunity for developing person-to-person networks to the benefit of the community and Ph.D. students in their future careers.</p>
             <h3>Eligibility</h3>
             <p>Prospective student attendees should already have a clear direction for research, and possibly have published some results. Preference will be given to students who have advanced to Ph.D. candidacy.</p>

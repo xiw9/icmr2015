@@ -42,7 +42,7 @@
             <li>Avoid providing links to websites that identify the authors.</li>
             </ul>
             <h3>Submissions</h3>
-            <p>Submissions should be made through the <a>EasyChair conference website (TBD).</a></p>
+            <p>Submissions should be made through the <a>EasyChair conference website (TBA).</a></p>
 
           </div>
         </div>  
