@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <?php include 'php/header.php' ?>
-    <title>Organization | ACM ICMR 2015 | Shanghai, China</title>
+    <title>Organization Committee | ACM ICMR 2015 | Shanghai, China</title>
   </head>
   <body>
     <?php include 'php/navbar.php' ?>
@@ -14,82 +14,80 @@
 	<div class="col-md-9">
           <div class="panel panel-primary">
             <div class="panel-heading">
-              <h1 class="panel-title">Organization</h1>
+              <h1 class="panel-title">Organization Committee</h1>
             </div>
             <div class="panel-body" >
               <div class="row">
-		<div class="col-md-6">
-                  <h4>Conference Co-Chairs</h4>
-                  <p><a href="http://vireo.cs.cityu.edu.hk/">Chong-Wah Ngo</a>, City University of Hong Kong, China</p> 
+
+          <h4>General Chairs</h4>
+          <p><a href="http://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a>, City University of Hong Kong, China</p> 
 		  <p><a href="http://www.cs.cmu.edu/~alex/">Alex Hauptmann</a>, Carnegie Mellon University, USA</p>
-		  <p><a href="http://scholar.google.com/citations?user=DTbhX6oAAAAJ&hl=en">Xiangyang Xue</a>, Fudan University, Shanghai, China</p>
+		  <p>Xiangyang Xue, Fudan University, China</p>
 		  <hr>
-		  <h4>Technical Program Co-Chairs</h4>
+		  <h4>Technical Program Chairs</h4>
 		  <p><a href="http://www.ceessnoek.info/">Cees Snoek</a>, Unversity of Amsterdam, The Netherlands</p>
 		  <p><a href="http://www.svcl.ucsd.edu/~nuno/">Nuno Vasconcelos</a>, University of California, San Diego, USA</p>
-		  <p><a href="http://www.yugangjiang.info/">Yu-Gang Jiang</a>, Fudan University, Shanghai, China</p>
+		  <p><a href="http://www.yugangjiang.info/">Yu-Gang Jiang</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Brave New Idea Chairs</h4>
-		  <p>Jibe Luo, University of Rochester, USA</p>
-		  <p>Marcel Worring, University of Amsterdam, The Netherlands</p>
+		  <p><a href="http://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>, University of Rochester, USA</p>
+		  <p><a href="http://www.science.uva.nl/~worring/">Marcel Worring</a>, University of Amsterdam, The Netherlands</p>
 		  <hr>
 		  <h4>Practitioner Chairs</h4>
-		  <p>R. Manmatha, <a href="http://a9.com/">A9.com</a>, USA</p>
-		  <p>Yiannis Kompatsiaris, CERTH/ITI, Greece</p>
+		  <p><a href="http://ciir.cs.umass.edu/~manmatha/">R. Manmatha</a>, A9.com, USA</p>
+		  <p><a href="http://www.iti.gr/iti/people/Ioannis_Kompatsiaris.html">Yiannis Kompatsiaris</a>, CERTH/ITI, Greece</p>
 		  <p>Dong Wang, Central Research Lab, Huawei Technologies, China</p>
 		  <hr>
 		  <h4>Special Session Chairs</h4>
-		  <p>Winston Hsu, National Taiwan University</p>
-		  <p>Nicu Sebe, University of Trento, Italy</p>
-		  <p>Jinhui Tang, Nanjing University of Science and Technology, China</p>
+		  <p><a href="http://www.csie.ntu.edu.tw/~winston/">Winston Hsu</a>, National Taiwan University</p>
+		  <p><a href="http://disi.unitn.it/~sebe/">Nicu Sebe</a>, University of Trento, Italy</p>
+		  <p><a href="https://sites.google.com/site/tangjh1981/">Jinhui Tang</a>, Nanjing University of Science and Technology, China</p>
 		  <hr>
 		  <h4>Workshop Chairs</h4>
-		  <p>Shin'ichi Satoh, NII, Japan</p>
-		  <p>Qi Tian, UTSA, USA</p>
+		  <p><a href="http://research.nii.ac.jp/~satoh/">Shin'ichi Satoh</a>, NII, Japan</p>
+		  <p><a href="http://www.cs.utsa.edu/~qitian/">Qi Tian</a>, University of Texas at San Antonio, USA</p>
 		  <hr>
 		  <h4>Panel Chairs</h4>
-		  <p>Tat-Seng Chua, NUS, Singapore</p>
-		  <p>Lexing Xie, ANU, Australia</p>
+		  <p><a href="http://www.comp.nus.edu.sg/~chuats/">Tat-Seng Chua</a>, National University of Singapore, Singapore</p>
+		  <p><a href="http://users.cecs.anu.edu.au/~xlx/">Lexing Xie</a>, Australian National University, Australia</p>
 		  <hr>	
 		  <h4>Doctoral Symposium Chairs</h4>
-		  <p>Xiao-Yong Wei, Sichuan University, China</p>
-		  <p>Subh Bhattacharya, Siemens Research, USA</p>
+		  <p><a href="http://www.cs.cityu.edu.hk/~xiaoyong/">Xiao-Yong Wei</a>, Sichuan University, China</p>
+		  <p><a href="http://www.ee.columbia.edu/~subh/">Subh Bhattacharya</a>, Siemens Research, USA</p>
 	 
-		</div>
-		<div class="col-md-6">
 
 		  <h4>Tutorial Chairs</h4>
-		  <p>Marco Bertini, University of Florence, Italy</p>
-		  <p>Junsong Yuan, NTU, Singapore</p>  
+		  <p><a href="http://www.unifi.it/p-doc2-2013-200006-B-3f2a3d32362a2a.html">Marco Bertini</a>, University of Florence, Italy</p>
+		  <p><a href="http://www.ntu.edu.sg/home/jsyuan/">Junsong Yuan</a>, Nanyang Technological University, Singapore</p>  
 		  <hr>
 		  <h4>Demo Chairs</h4>
-		  <p>Benoit Huet, Eurecom, France</p>
+		  <p><a href="http://www.eurecom.fr/~huet/">Benoit Huet</a>, Eurecom, France</p>
 		  <p>Yantao Zheng, Google, USA</p>
 		  <hr>
 		  <h4>Publicity Chairs</h4>
-		  <p>Ling Guan, Ryerson University, Canada</p>
-		  <p>Richang Hong, Hefei University of Technology, China</p>
-		  <p>Vasileios Mezaris, Center for Research and Technology Hellas, Greece</p>
+		  <p><a href="http://www.ee.ryerson.ca/people/Guan.html">Ling Guan</a>, Ryerson University, Canada</p>
+		  <p><a href="http://ci.hfut.edu.cn/index/teacherinfo/tid/466/">Richang Hong</a>, Hefei University of Technology, China</p>
+		  <p><a href="http://www.iti.gr/~bmezaris/">Vasileios Mezaris</a>, Center for Research and Technology Hellas, Greece</p>
 		  <hr>
 		  <h4>Sponsorship Chairs</h4>
-		  <p>Peng Cui, Tsinghua University, China</p>
-		  <p>Wu Xiao, Southwest Jiaotong University, China</p>
+		  <p><a href="http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/">Peng Cui</a>, Tsinghua University, China</p>
+		  <p><a href="http://www.cs.cityu.edu.hk/~wuxiao/">Wu Xiao</a>, Southwest Jiaotong University, China</p>
 		  <hr>
 		  <h4>Publication Chairs</h4>
-		  <p>Xirong Li, Renmin University, China</p>
-		  <p>Xiangdong Zhou, Fudan University, China</p>
+		  <p><a href="http://info.ruc.edu.cn/t/en/246">Xirong Li</a>, Renmin University, China</p>
+		  <p><a href="http://homepage.fudan.edu.cn/xdzhou/en/">Xiangdong Zhou</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Finance Chair</h4>
-		  <p>Hong Lu, Fudan University, China</p>
+		  <p><a href="http://homepage.fudan.edu.cn/honglu/">Hong Lu</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Local Chairs</h4>
-		  <p>Feng Wang, East China Normal University, China</p>
-		  <p>Hanli Wang, Tongji University, China</p>
-		  <p>Cheng Jin, Fudan University, China</p>
+		  <p><a href="http://faculty.ecnu.edu.cn/s/2103/t/24167/main.jspy">Feng Wang</a>, East China Normal University, China</p>
+		  <p><a href="http://www.tongji.edu.cn/~hanliwang/">Hanli Wang</a>, Tongji University, China</p>
+		  <p><a href="http://homepage.fudan.edu.cn/chengjin/en/">Cheng Jin</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Web Chair</h4>
-		  <p>Xi Wang, Fudan University, Shanghai, China</p>
-		</div>
+		  <p>Xi Wang, Fudan University, China</p>
+		
               </div>  
 	    </div>
 	  </div>
