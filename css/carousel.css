@@ -22,7 +22,7 @@ span.glyphicon-chevron-up {
 }
 @media (min-width: 992px) {
   .homepage .panel{
-    height: 200px;
+    height: 220px;
   }
   .homepage .panel-wide{
     height: 160px;
@@ -30,7 +30,7 @@ span.glyphicon-chevron-up {
 }
 @media (min-width: 768px) {
   .homepage .panel{
-    height: 230px;
+    height: 250px;
   }
   .homepage .panel-wide{
     height: 160px;
