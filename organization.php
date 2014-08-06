@@ -17,7 +17,6 @@
               <h1 class="panel-title">Organization Committee</h1>
             </div>
             <div class="panel-body" >
-              <div class="row">
 
           <h4>General Chairs</h4>
           <p><a href="http://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a>, City University of Hong Kong, China</p> 
@@ -36,7 +35,7 @@
 		  <h4>Practitioner Chairs</h4>
 		  <p><a href="http://ciir.cs.umass.edu/~manmatha/">R. Manmatha</a>, A9.com, USA</p>
 		  <p><a href="http://www.iti.gr/iti/people/Ioannis_Kompatsiaris.html">Yiannis Kompatsiaris</a>, CERTH/ITI, Greece</p>
-		  <p>Dong Wang, Central Research Lab, Huawei Technologies, China</p>
+		  <p>Dong Wang, Aviation Industry Corporation of China</p>
 		  <hr>
 		  <h4>Special Session Chairs</h4>
 		  <p><a href="http://www.csie.ntu.edu.tw/~winston/">Winston Hsu</a>, National Taiwan University</p>
@@ -44,7 +43,7 @@
 		  <p><a href="https://sites.google.com/site/tangjh1981/">Jinhui Tang</a>, Nanjing University of Science and Technology, China</p>
 		  <hr>
 		  <h4>Workshop Chairs</h4>
-		  <p><a href="http://research.nii.ac.jp/~satoh/">Shin'ichi Satoh</a>, NII, Japan</p>
+		  <p><a href="http://research.nii.ac.jp/~satoh/">Shin'ichi Satoh</a>, National Institute of Informatics, Japan</p>
 		  <p><a href="http://www.cs.utsa.edu/~qitian/">Qi Tian</a>, University of Texas at San Antonio, USA</p>
 		  <hr>
 		  <h4>Panel Chairs</h4>
@@ -54,7 +53,7 @@
 		  <h4>Doctoral Symposium Chairs</h4>
 		  <p><a href="http://www.cs.cityu.edu.hk/~xiaoyong/">Xiao-Yong Wei</a>, Sichuan University, China</p>
 		  <p><a href="http://www.ee.columbia.edu/~subh/">Subh Bhattacharya</a>, Siemens Research, USA</p>
-	 
+	 	  <hr>
 
 		  <h4>Tutorial Chairs</h4>
 		  <p><a href="http://www.unifi.it/p-doc2-2013-200006-B-3f2a3d32362a2a.html">Marco Bertini</a>, University of Florence, Italy</p>
@@ -71,7 +70,7 @@
 		  <hr>
 		  <h4>Sponsorship Chairs</h4>
 		  <p><a href="http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/">Peng Cui</a>, Tsinghua University, China</p>
-		  <p><a href="http://www.cs.cityu.edu.hk/~wuxiao/">Wu Xiao</a>, Southwest Jiaotong University, China</p>
+		  <p><a href="http://www.cs.cityu.edu.hk/~wuxiao/">Xiao Wu</a>, Southwest Jiaotong University, China</p>
 		  <hr>
 		  <h4>Publication Chairs</h4>
 		  <p><a href="http://info.ruc.edu.cn/t/en/246">Xirong Li</a>, Renmin University, China</p>
@@ -88,7 +87,6 @@
 		  <h4>Web Chair</h4>
 		  <p>Xi Wang, Fudan University, China</p>
 		
-              </div>  
 	    </div>
 	  </div>
 	</div>
