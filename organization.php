@@ -56,7 +56,7 @@
 	 	  <hr>
 
 		  <h4>Tutorial Chairs</h4>
-		  <p><a href="http://www.unifi.it/p-doc2-2013-200006-B-3f2a3d32362a2a.html">Marco Bertini</a>, University of Florence, Italy</p>
+		  <p>Marco Bertini, University of Florence, Italy</p>
 		  <p><a href="http://www.ntu.edu.sg/home/jsyuan/">Junsong Yuan</a>, Nanyang Technological University, Singapore</p>  
 		  <hr>
 		  <h4>Demo Chairs</h4>
@@ -65,7 +65,7 @@
 		  <hr>
 		  <h4>Publicity Chairs</h4>
 		  <p><a href="http://www.ee.ryerson.ca/people/Guan.html">Ling Guan</a>, Ryerson University, Canada</p>
-		  <p><a href="http://ci.hfut.edu.cn/index/teacherinfo/tid/466/">Richang Hong</a>, Hefei University of Technology, China</p>
+		  <p>Richang Hong, Hefei University of Technology, China</p>
 		  <p><a href="http://www.iti.gr/~bmezaris/">Vasileios Mezaris</a>, Center for Research and Technology Hellas, Greece</p>
 		  <hr>
 		  <h4>Sponsorship Chairs</h4>
@@ -73,8 +73,8 @@
 		  <p><a href="http://www.cs.cityu.edu.hk/~wuxiao/">Xiao Wu</a>, Southwest Jiaotong University, China</p>
 		  <hr>
 		  <h4>Publication Chairs</h4>
-		  <p><a href="http://info.ruc.edu.cn/t/en/246">Xirong Li</a>, Renmin University, China</p>
-		  <p><a href="http://homepage.fudan.edu.cn/xdzhou/en/">Xiangdong Zhou</a>, Fudan University, China</p>
+		  <p><a href="http://staff.science.uva.nl/~xirong/index.php?n=Main.Biography">Xirong Li</a>, Renmin University, China</p>
+		  <p><a href="http://homepage.fudan.edu.cn/xdzhou/en/bio/">Xiangdong Zhou</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Finance Chair</h4>
 		  <p><a href="http://homepage.fudan.edu.cn/honglu/">Hong Lu</a>, Fudan University, China</p>
