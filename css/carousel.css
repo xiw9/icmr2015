@@ -31,7 +31,16 @@ span.glyphicon-chevron-up {
 
 @media (min-width: 992px) {
   .homepage .panel{
-    height: 260px;
+    height: 270px;
+  }
+  .homepage .panel-wide{
+    height: 160px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .homepage .panel{
+    height: 250px;
   }
   .homepage .panel-wide{
     height: 160px;
