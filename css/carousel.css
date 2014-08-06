@@ -1,8 +1,3 @@
-
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
 body {
   background-color: #eeeeee;
 }
@@ -13,7 +8,7 @@ footer{
 }
 
 .featurette-divider {
-  margin: 20px 0; /* Space out the Bootstrap <hr> more */
+  margin: 20px 0; 
   background-color: #eeeeee;
   border-color: #eeeeee;
 }
@@ -27,7 +22,7 @@ span.glyphicon-chevron-up {
 }
 @media (min-width: 992px) {
   .homepage .panel{
-    height: 210px;
+    height: 200px;
   }
   .homepage .panel-wide{
     height: 160px;
@@ -35,7 +30,7 @@ span.glyphicon-chevron-up {
 }
 @media (min-width: 768px) {
   .homepage .panel{
-    height: 240px;
+    height: 230px;
   }
   .homepage .panel-wide{
     height: 160px;
@@ -49,10 +44,6 @@ span.glyphicon-chevron-up {
   border-top-left-radius:0px;
 }
 
-/* CUSTOMIZE THE NAVBAR
--------------------------------------------------- */
-
-/* Special class on .container surrounding .navbar, used for positioning it into place. */
 .navbar-wrapper {
   position: absolute;
   top: 0;
@@ -63,7 +54,6 @@ span.glyphicon-chevron-up {
   filter: alpha(opacity=95);*/
 }
 
-/* Flip around the padding for proper display in narrow viewports */
 .navbar-wrapper .container {
   padding-left: 0;
   padding-right: 0;
@@ -123,10 +113,6 @@ span.glyphicon-chevron-up {
     left: -6px;
 }
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Carousel base class */
 .carousel {
   /*margin-top: 51px;
   height: 500px;*/
@@ -138,12 +124,11 @@ span.glyphicon-chevron-up {
   background-color:rgba(20, 20, 20, 0.4);
   padding: 5px 15px 5px 15px ;
 }
-/* Since positioning the image, we need to help out the caption */
+
 .carousel-caption {
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
 .carousel .item {
   /*height: 50%;*/
   background-color: #777;
@@ -168,20 +153,13 @@ span.glyphicon-chevron-up {
 }
 
 
-/* Featurettes
-------------------------- */
 
-/* Thin out the marketing headings */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -1px;
 }
 
-
-
-/* RESPONSIVE CSS
--------------------------------------------------- */
 
 @media (min-width: 768px) {
 
