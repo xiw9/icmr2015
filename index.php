@@ -13,7 +13,7 @@
       <div class="col-md-8">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">ICMR 2015 | June 23-26, 2015</h1>
+            <h1 class="panel-title">ICMR 2015 | June 23-26, Shanghai, China</h1>
           </div>
           <div class="panel-body">
             <p>Effectively and efficiently retrieving information based on user needs is one of the most exciting areas in multimedia research. The Annual ACM International Conference on Multimedia Retrieval (ICMR) offers a great opportunity for exchanging leading-edge multimedia retrieval ideas among researchers, practitioners and other potential users of multimedia retrieval systems.</p>
