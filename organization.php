@@ -33,8 +33,8 @@
 		  <p><a href="http://www.science.uva.nl/~worring/">Marcel Worring</a>, University of Amsterdam, The Netherlands</p>
 		  <hr>
 		  <h4>Practitioner Chairs</h4>
-		  <p><a href="http://ciir.cs.umass.edu/~manmatha/">R. Manmatha</a>, A9.com, USA</p>
 		  <p><a href="http://www.iti.gr/iti/people/Ioannis_Kompatsiaris.html">Yiannis Kompatsiaris</a>, CERTH/ITI, Greece</p>
+		  <p><a href="http://ciir.cs.umass.edu/~manmatha/">R. Manmatha</a>, A9.com, USA</p>
 		  <p>Dong Wang, Aviation Industry Corporation of China</p>
 		  <hr>
 		  <h4>Special Session Chairs</h4>
