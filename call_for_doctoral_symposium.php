@@ -21,7 +21,7 @@
             <h3>Eligibility</h3>
             <p>Prospective student attendees should already have a clear direction for research, and possibly have published some results. Preference will be given to students who have advanced to Ph.D. candidacy.</p>
             <h3>Review Process and Publication</h3>
-            <p>Review is single-blind. Selections will be based on a 4 page abstract, singly authored by the student wishing to attend. Submissions will be reviewed by the members of the Doctoral Symposium Committee. Accepted proposals will the be published as a 1-page publication in the proceedings (part of the ACM Digital Library).</p>
+            <p>Review is single-blind. Selections will be based on a 4 page abstract, singly authored by the student wishing to attend. Submissions will be reviewed by the members of the Doctoral Symposium Committee. Accepted proposals will be published as a 1-page publication in the proceedings (part of the ACM Digital Library).</p>
             <p>Doctoral students who submit to the Doctoral Symposium are encouraged to submit a paper on their research to the main conference. However, acceptance for participation in the Symposium will be based solely on the abstract written ad hoc for the event. All abstracts will be reviewed with respect to overall quality of presentation, potential for future impact of the research on the field, and expected benefit to the other doctoral students attending the Doctoral Symposium.</p>
             <h3>Submissions</h3>
             Applications to the Doctoral Symposium should include a 4-page abstract summarizing the applicant’s dissertation research. The abstract should include:</p>
