@@ -17,8 +17,7 @@
           </div>
           <div class="panel-body">
             <p>Effectively and efficiently retrieving information based on user needs is one of the most exciting areas in multimedia research. The Annual ACM International Conference on Multimedia Retrieval (ICMR) offers a great opportunity for exchanging leading-edge multimedia retrieval ideas among researchers, practitioners and other potential users of multimedia retrieval systems.</p>
-            <p>This annual conference, putting together the long-lasting experiences of the former ACM CIVR and ACM MIR series, was set up in 2011 to illuminate the state of the arts in multimedia (text, image, video and audio) retrieval. The previous years of ICMR were held in Trento, Italy (2011), Hong Kong, China (2012), Dallas, USA (2013), and Glasgow, UK (2014).
-</p>
+            <p>This annual conference, putting together the long-lasting experiences of the former ACM CIVR and ACM MIR series, was set up in 2011 to illuminate the state of the arts in multimedia (text, image, video and audio) retrieval. The previous years of ICMR were held in Trento, Italy (2011), Hong Kong, China (2012), Dallas, USA (2013), and Glasgow, UK (2014). <a href="history">ICMR History.</a></p>
           </div>
         </div>
       </div>
