@@ -65,7 +65,7 @@
 		  <hr>
 		  <h4>Publicity Chairs</h4>
 		  <p><a href="http://www.ee.ryerson.ca/people/Guan.html">Ling Guan</a>, Ryerson University, Canada</p>
-		  <p>Richang Hong, Hefei University of Technology, China</p>
+		  <p><a href="https://sites.google.com/site/homeofrichanghong/">Richang Hong</a>, Hefei University of Technology, China</p>
 		  <p><a href="http://www.iti.gr/~bmezaris/">Vasileios Mezaris</a>, Center for Research and Technology Hellas, Greece</p>
 		  <hr>
 		  <h4>Sponsorship Chairs</h4>

@@ -23,8 +23,6 @@
                 <li><a href="call_for_demonstrations">Demonstrations</a></li>
                 <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
                 <li><a href="call_for_phd_showcase">PhD Student Showcase</a></li>
-                <li class="disabled"><a href="#">Workshop Proposals</a></li>
-                <li class="disabled"><a href="#">Special Session Proposals</a></li>
               </ul>
             </li>
             <li class="dropdown">

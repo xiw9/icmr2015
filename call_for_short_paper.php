@@ -21,22 +21,26 @@
             <h3>Topics of Interest (not limited to)</h3>
             <ul>
               <li>Content and context based indexing, search and retrieval of multimedia data</li>
-              <li>Multimedia content search and browsing on the Web</li>
+              <li>Multimodal content analysis and retrieval</li>
+              <li>Deep learning for multimedia retrieval</li>
               <li>Advanced descriptors and similarity metrics for audio, image, video and 3D data</li>
-              <li>Multimedia content analysis and understanding</li>
-              <li>Semantic retrieval of visual content</li>
-              <li>Learning and relevance feedback in media retrieval</li>
+              <li>Complex multimedia event detection and recounting</li>
+              <li>Learning and relevance feedback in multimedia retrieval</li>
               <li>Query models, paradigms, and languages for multimedia retrieval</li>
-              <li>Multimodal media search</li>
+              <li>Hashing and indexing algorithms for large-scale retrieval</li>
+              <li>Cross-media retrieval</li>
+              <li>Fine-grained visual search</li>
               <li>Human perception based multimedia retrieval</li>
               <li>Studies of information-seeking behavior among image/video users</li>
               <li>Affective/emotional interaction or interfaces for image/video retrieval</li>
               <li>HCI issues in multimedia retrieval</li>
-              <li>Evaluation of multimedia retrieval systems</li>
-              <li>High performance multimedia indexing algorithms</li>
+              <li>Crowdsourcing in multimedia retrieval</li>
               <li>Community-based multimedia content management</li>
-              <li>Applications of Multimedia Retrieval</li>
+              <li>Internet of multimedia things</li>
               <li>Image/video summarization and visualization</li>
+              <li>Mobile visual search</li>
+              <li>Applications of multimedia retrieval</li>
+              <li>Evaluation of multimedia retrieval systems</li>
             </ul>
             <h3>Important Dates</h3>
             <ul>
