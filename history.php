@@ -17,35 +17,33 @@
             <h1 class="panel-title">ICMR History</h1>
           </div>
           <div class="panel-body" >
-            <ul>
-              <li>ICMR 2014: Glasgow, UK</li>
-              <li>ICMR 2013: Dallas, Texas, USA</li>
-              <li>ICMR 2012: Hong Kong, China</li>
-              <li>ICMR 2011: Trento, Italy</li>
-            </ul>
-            <ul>   
-              <li>CIVR 2010: Xi’an, China</li>
-              <li>CIVR 2009: Santorini Island, Greece</li>
-              <li>CIVR 2008: Niagara Falls, Canada</li>
-              <li>CIVR 2007: Amsterdam, The Netherlands</li>
-              <li>CIVR 2006: Tempe Arizona, USA</li>
-              <li>CIVR 2005: Singapore</li>
-              <li>CIVR 2004: Dublin, Ireland</li>
-              <li>CIVR 2003: Urbana-Champaign, IL, USA</li>
-              <li>CIVR 2002: London, UK</li>
-            </ul>
-            <ul>  
-              <li>MIR 2010: Philadelphia, PA, USA</li>
-              <li>MIR 2008: Vancouver, BC, Canada</li>
-              <li>MIR 2007: Augsburg, Bavaria, Germany</li>
-              <li>MIR 2006: California, USA</li>
-              <li>MIR 2005: Singapore</li>
-              <li>MIR 2004: New York, NY, USA</li>
-              <li>MIR 2003: Berkeley, CA, USA</li>
-              <li>MIR 2002: Juan-les-Pins, France</li>
-              <li>MIR 2001: Ottawa, Canada</li>
-              <li>MIR 2000: Los Angeles, USA</li>
-            </ul>
+            The Annual ACM International Conference on Multimedia Retrieval (ICMR), puts together the long-lasting experiences of the former ACM CIVR and ACM MIR series, was set up in 2011 to illuminate the state of the arts in multimedia (text, image, video and audio) retrieval.
+            <hr>
+              <p>ICMR 2014: Glasgow, UK</p>
+              <p>ICMR 2013: Dallas, Texas, USA</p>
+              <p>ICMR 2012: Hong Kong, China</p>
+              <p>ICMR 2011: Trento, Italy</p>
+            <hr>   
+              <p>CIVR 2010: Xi’an, China</p>
+              <p>CIVR 2009: Santorini Island, Greece</p>
+              <p>CIVR 2008: Niagara Falls, Canada</p>
+              <p>CIVR 2007: Amsterdam, The Netherlands</p>
+              <p>CIVR 2006: Tempe Arizona, USA</p>
+              <p>CIVR 2005: Singapore</p>
+              <p>CIVR 2004: Dublin, Ireland</p>
+              <p>CIVR 2003: Urbana-Champaign, IL, USA</p>
+              <p>CIVR 2002: London, UK</p>
+            <hr> 
+              <p>MIR 2010: Philadelphia, PA, USA</p>
+              <p>MIR 2008: Vancouver, BC, Canada</p>
+              <p>MIR 2007: Augsburg, Bavaria, Germany</p>
+              <p>MIR 2006: California, USA</p>
+              <p>MIR 2005: Singapore</p>
+              <p>MIR 2004: New York, NY, USA</p>
+              <p>MIR 2003: Berkeley, CA, USA</p>
+              <p>MIR 2002: Juan-les-Pins, France</p>
+              <p>MIR 2001: Ottawa, Canada</p>
+              <p>MIR 2000: Los Angeles, USA</p>
           </div>
         </div>  
       </div>
