@@ -51,7 +51,7 @@
 		  <p><a href="http://users.cecs.anu.edu.au/~xlx/">Lexing Xie</a>, Australian National University, Australia</p>
 		  <hr>	
 		  <h4>Doctoral Symposium Chairs</h4>
-		  <p><a href="http://www.ee.columbia.edu/~subh/">Subhabrata Bhattacharya</a>, Siemens Corporate Research, USA</p>
+		  <p><a href="http://www.cs.ucf.edu/~subh/">Subhabrata Bhattacharya</a>, Siemens Corporate Research, USA</p>
 		  <p><a href="http://www.cs.cityu.edu.hk/~xiaoyong/">Xiao-Yong Wei</a>, Sichuan University, China</p>
 	 	  <hr>
 
