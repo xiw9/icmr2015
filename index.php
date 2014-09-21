@@ -44,7 +44,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[09/21/2014] A pdf flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>
+            <p>[09/21/2014] A PDF flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>
             <p>[08/05/2014] Website launched.</p>
           </div>
         </div>      
