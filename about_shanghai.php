@@ -24,8 +24,8 @@
             <p>It is a popular tourist destination renowned for its historical landmarks such as The Bund, City God Temple and Yu Garden as well as the extensive Lujiazui skyline and major museums including the Shanghai Museum and the China Art Museum.</p>
             <h3>Transport</h3>
             <p>Shanghai has an extensive public transport system, largely based on metros, buses and taxis. Payment of all these public transportation tools can be made by using the Shanghai Public Transportation Card.</p>
-            <p>The city has two commercial airportsit Shanghai Pudong International Airport and Shanghai Hongqiao International Airport. Pudong Airport is the main international airport, while Hongqiao Airport mainly operates domestic flights with limited short-haul international flights.</p>
-            <p>Taxis are plentiful in Shanghai. The base fare is currently ¥14 which covers the first 3 km. Additional kilometers cost ¥2.4 each. </p>
+            <p>The city has two commercial airports: Pudong International Airport and Hongqiao International Airport. Pudong Airport is the main international airport, while Hongqiao Airport mainly operates domestic flights with limited short-haul international flights.</p>
+            <p>Taxis are plentiful in Shanghai. The base fare is currently ¥14 (USD 2.5) which covers the first 3 km. Additional kilometers cost ¥2.4 each. </p>
 
             <h3>More information can be found at: </h3>
               <ul>
