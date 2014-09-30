@@ -24,6 +24,7 @@
                 <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
                 <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>
                 <li><a href="call_for_special_session">Special Session Proposals </a></li>
+                <li><a href="call_for_workshop">Workshop Proposals </a></li>
               </ul>
             </li>
             <li class="dropdown">
