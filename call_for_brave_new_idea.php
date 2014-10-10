@@ -36,7 +36,7 @@
             <p>Camera-Ready Papers Due: April 5, 2015</p>
             <h3>Review</h3>
             <p>ICMR 2015 uses a single-blind review process for brave new idea paper selection. Authors should provide author names and affiliations in their manuscript.</p>
-            <h2>Length of a BNI Paper</h2>
+            <h3>Length of a BNI Paper</h3>
             <p>Each BNI paper should be between 4 and 8 pages.</p>
           </div>
         </div>  
