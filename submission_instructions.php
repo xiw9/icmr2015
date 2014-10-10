@@ -32,7 +32,7 @@
             </ul>
             <h3>Abstract and Keywords</h3>
             <p>The abstract and the keywords form the primary source for assigning papers to reviewers. So make sure that they form a concise and complete summary of your paper with sufficient information to let someone who doesn’t read the full paper know what it is about .</p>
-            <h3>Complying with double-blind review</h3>
+            <h3>Complying with double-blind review (full and short paper only)</h3>
             <p>In a "Double-blind Review" process, authors should not know the names of the reviewers of their papers, and reviewers should not know the names of the authors. Please prepare your paper in a way that preserves anonymity of the authors.</p>
             <ul>
             <li>Do not put your names under the title.</li>
