@@ -20,6 +20,7 @@
               <ul class="dropdown-menu" role="menu">
                 <li><a href="call_for_paper">Full Papers</a></li>
                 <li><a href="call_for_short_paper">Short Papers</a></li>
+                <li><a href="call_for_brave_new_idea">Brave New Idea Papers</a></li>
                 <li><a href="call_for_demonstrations">Demonstrations</a></li>
                 <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
                 <li><a href="call_for_special_session">Special Session Proposals </a></li>
