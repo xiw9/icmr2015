@@ -70,13 +70,15 @@
 
       <div>
         <div class="panel-heading">
-          <h3>Sponsors</h3>
+          <h3>Sponsors and Partners</h3>
         </div>
         <div>
           <p class="text-center">
           <img src="img/acm_logo.gif" style="height: 80px; padding-right: 20px;">
           <img src="img/sigmm.jpg" style="height: 60px; padding-right: 20px;">
           <img src="img/fudan.png" style="height: 80px; padding-right: 20px;">
+          <img src="img/sponsor-samsung.png" style="height: 70px; padding-right: 20px;">
+
           </p>
         </div>
       </div>  
