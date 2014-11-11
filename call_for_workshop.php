@@ -32,8 +32,8 @@
             <h3>Review</h3>
             <p>Workshop proposals will be reviewed by ICMR 2015 Workshop Chairs based on three criteria: a) the likely interest of the workshop to ICMR attendees, b) the breadth and depth of the topic, c) the expertise and credential of the organizer(s)</p>
             <h3>Important Dates</h3>
-            <p>Proposal Submission Deadline: November 15, 2014</p>
-            <p>Proposal Acceptance: December 1, 2014</p>
+            <p>Proposal Submission Deadline: December 1, 2014</p>
+            <p>Proposal Acceptance: December 15, 2014</p>
             <p>Workshop Paper Submission Deadline: February 1, 2015</p>
             <p>Workshop Camera Ready: <em>April 5, 2015</em></p>
             <p>Workshop Day: <em>June 23, 2015</em></p>
