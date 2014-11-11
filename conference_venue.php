@@ -26,7 +26,7 @@
             <p>The center was completed and officially opened for business in August 1999, covering a construction area of 110,000 m<sup>2</sup>. As the new landmark of Shanghai, the center was appraised as one of the 10 classic buildings over the 50 years since the founding of the P.R. China.</p>
             <h4>Location</h4>
             <p>
-            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Shanghai%20International%20Convention%20Center%20Natatorium%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
+            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Shanghai%20International%20Conference%20Center%20Natatorium%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
             </p>
             <hr>
             <a name="fudan"></a>
