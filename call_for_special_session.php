@@ -17,7 +17,7 @@
             <h1 class="panel-title">Call for Special Session Proposals</h1>
           </div>
           <div class="panel-body" >
-            <p>ICMR 2014 will include some Special Sessions for innovative and frontier topics in the field of multimedia retrieval. Each Special Session will include around 5 papers. A proposal for the Special Sessions should include:</p>
+            <p>ICMR 2015 will include some Special Sessions for innovative and frontier topics in the field of multimedia retrieval. Each Special Session will include around 5 papers. A proposal for the Special Sessions should include:</p>
             <ul>
               <li>Title of proposed session</li>
               <li>An introduction stating the importance of the topic and the rationale for the proposed session</li>
