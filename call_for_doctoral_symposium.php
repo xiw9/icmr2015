@@ -39,7 +39,12 @@
             <li><em>A statement by their advisor saying how the student would benefit by attending the Symposium. Advisors should also specifically state whether the student has written, or is close to completing, a thesis proposal (or equivalent), and when they expect the student would defend their dissertation if they progress at a typical rate.</em></li>
             </ul>
             <p>Submissions must be written in English and submitted in the ACM Conference style (for LaTeX, use the “Option 2″ style). The paper should be no more than 4 pages in length including all figures and references. The first page must contain the title of the paper, full author name, affiliation and contact details, an abstract of up to 250 words, ACM Computing Reviews categories, and up to 3 keywords describing the topic areas. Information about categories and keywords can be found in the ACM Web pages on the computing classification system and in the LaTeX and Word templates.</p>
-
+           <h3>Important Dates</h3>
+            <ul>
+              <li> Paper Submission: January 15, 2015 </li>
+              <li> Notification of Acceptance: March 15, 2015 </li>
+              <li> Camera-Ready Papers Due: April 5, 2015 </li>
+            </ul>
           </div>
         </div>  
       </div>
