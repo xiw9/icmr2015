@@ -77,8 +77,10 @@
           <img src="img/acm_logo.gif" style="height: 80px; padding-right: 20px;">
           <img src="img/sigmm.jpg" style="height: 60px; padding-right: 20px;">
           <img src="img/fudan.png" style="height: 80px; padding-right: 20px;">
+          </p>
+          <p class="text-center">
           <img src="img/sponsor-samsung.png" style="height: 70px; padding-right: 20px;">
-
+          <img src="img/sponsor-google.png" style="height: 70px; padding-right: 20px;">
           </p>
         </div>
       </div>  
