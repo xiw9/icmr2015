@@ -44,6 +44,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
+            <p>[12/15/2014] Submission page is <a href="https://easychair.org/conferences/?conf=icmr2015">open</a>.</p>
             <p>[09/21/2014] A PDF flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>
             <p>[08/05/2014] Website launched.</p>
           </div>
@@ -74,11 +75,11 @@
         </div>
         <div>
           <p class="text-center">
-          <img src="img/acm_logo.gif" style="height: 80px; padding-right: 20px;">
-          <img src="img/sigmm.jpg" style="height: 60px; padding-right: 20px;">
+          <img src="img/acm_logo.gif" style="height: 75px; padding-right: 20px;">
+          <img src="img/sigmm.jpg" style="height: 55px; padding-right: 20px;">
           <img src="img/fudan.png" style="height: 80px; padding-right: 20px;">
-          <img src="img/sponsor-samsung.png" style="height: 70px; padding-right: 20px;">
-
+          <img src="img/sponsor-samsung.png" style="height: 65px; padding-right: 20px;">
+          <img src="img/sponsor-google.png" style="height: 70px;">
           </p>
         </div>
       </div>  
