@@ -21,8 +21,8 @@
             <p>All papers must be formatted according to ACM proceedings style. Latex and word templates for this format can be downloaded from the following links:</p>
             <ul>
             <li>Latex files (<a href="http://www.acm.org/sigs/publications/sig-alternate.tex" target="_blank">Sample file</a>,
-            <a href="http://www.acm.org/sigs/publications/sig-alternate.cls" target="_blank">Style file</a>, <a href="http://www.acm.org/sigs/publications/sig-alternate.pdf" target="_blank">PDF sample file</a>
-            <a href="http://www.acm.org/sigs/publications/sigproc.bib" target="_blank">Bib Sample file</a>, and <a href="http://www.acm.org/sigs/publications/flies.eps" target="_blank">Graph sample file</a>)</li>
+            <a href="http://www.acm.org/sigs/publications/sig-alternate.cls" target="_blank">Style file</a>, <a href="http://www.acm.org/sigs/publications/sig-alternate.pdf" target="_blank">PDF sample file</a>, 
+            <a href="http://www.acm.org/sigs/publications/sigproc.bib" target="_blank">Bib Sample file</a> and <a href="http://www.acm.org/sigs/publications/flies.eps" target="_blank">Graph sample file</a>)</li>
             <li>            
             <a href="http://www.acm.org/sigs/publications/pubform.doc" target="_blank">Word files</a>
             </li>
