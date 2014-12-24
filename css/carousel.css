@@ -98,7 +98,7 @@ span.glyphicon-chevron-up {
     visibility: visible;
 }
 
-.dropdown:hover .dropdown-menu {
+.dropdown:hover>.dropdown-menu {
     display: block;
 }
 

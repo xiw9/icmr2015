@@ -17,8 +17,6 @@
             <h1 class="panel-title">Geo-Multimedia Analytics and Retrieval</h1>
           </div>
           <div class="panel-body" >
-            <h3>Abstract
-            </h3>
             <p>Location based multimedia big data holds greatest potential for fundamentally
 changing how information is fast and effectively accessed and presented; how knowledge is
 sufficiently learned and extracted; and how business (e.g., branding and customer relationship
