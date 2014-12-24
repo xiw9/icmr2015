@@ -23,7 +23,16 @@
                 <li><a href="call_for_brave_new_idea">Brave New Idea Papers</a></li>
                 <li><a href="call_for_demonstrations">Demonstrations</a></li>
                 <li><a href="call_for_doctoral_symposium">Doctoral Symposium</a></li>
-                <li><a href="call_for_special_session">Special Session Proposals </a></li>
+                <li><a href="call_for_special_session"> Proposals </a></li>
+                <li class="dropdown-submenu">
+                  <a tabindex="-1" href="#">Special Sessions</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="special_session_geo_multimedia">Geo-Multimedia Analytics and Retrieval</a></li>
+                    <li><a href="#">Weakly Supervised Learning for Big Multimedia Analysis</a></li>
+                    <li><a href="#">Event Detection and Time Synchronization in Social Multimedia</a></li>
+                    <li><a href="#">Person Search and Verification from Rich Media Data</a></li>
+                  </ul>
+                </li>
                 <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>
                 <li><a href="call_for_workshop">Workshop Proposals </a></li>
               </ul>
