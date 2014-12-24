@@ -20,7 +20,6 @@
 <p>With the explosive dissemination of diverse video capturing devices and mobile networks, we have entered an era where the staggering amount of multimedia data has far surpassed human ability to process all of it manually. </p>
 <p>This Special Session will focus on new algorithms and systems that aim at finding persons according to their appearances, identities, attributes, and activities in such media streams. We encourage submissions that surpass traditional person re-identification systems and tackle the new challenge (or opportunity) presented by the availability of rich multimodal data in this space by using: novel representations, learning paradigms, multi-modal frameworks, algorithms designed to work at scale. </p>
 <p>We also welcome novel collections that could be used to further spur research and measure performance of intelligent systems for  person search and verification with different application backgrounds, e.g., intelligent surveillance, image/video content-based retrieval, social relation mining, cross-media retrieval.</p>
-<p>Given the inherently multi-modal and large scale nature of this problem, we view the ACM International Conference on Multimedia Retrieval 2015 as the perfect venue to organize a Special Session on "Person Search and Verification from Rich Media Data". </p>
             <h3>Scope and Topics</h3>
             <ul>
 <li>Person verification from image and video

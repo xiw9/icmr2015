@@ -44,26 +44,6 @@ types of weak supervision in semantic modeling, e.g., interactive image renderin
 socially-aware image search. The primary objective of this special session fosters
 focused attention on the latest research progress in this interesting area.
 </p>
-<p>Recently, big multimedia data is a hot research topic in both academia and industry
-(A new conference IEEE BIGMM was launched recently). How to effectively handle the
-large amount of multimedia data is a challenging problem. Weakly supervised
-learning is an optimal framework to understanding the semantics of the big
-multimedia data. Thus, more and more researches are dedicated to transform the
-previous "supervised" learning algorithms to the "weakly-supervised" versions. Every
-year, lots of papers concerning the "weakly-supervised learning" are published at top
-venues, including ACM Multimedia, CVPR, ICCV, and ICME. Thus, we believe our
-special session can provide a good platform to invite researchers in this area to share
-their new ideas and research progress.
-</p>
-<p>Our special session is different from many previous "weakly supervised"-like
-special sessions/special issues/workshops in three aspects: 1) Our session not only
-emphasize transferring image-level semantics into region-level. We focus on weakly
-supervised mechanisms transferring coarser-level semantics into finer-level, e.g.,
-transferring video-level semantics into frame pixel-level. 2) We encourage submission
-concerning new types of weak supervision, such as supervision from social media. 3)
-Besides theories and models of weakly supervised learning, we plan to invite some
-submissions about real-world weakly supervised learning systems.
-</p>
 <h3>Special session scope</h3>
 <ul>
 <li>Visual recognition, video summary, and annotation with weak supervision</li>
@@ -90,7 +70,10 @@ submissions about real-world weakly supervised learning systems.
 <p>Dr. Yi Yang, The University of Queensland </p>
 <p>Dr. Liqiang Nie, National University of Singapore </p>
 <p>Dr. Yi Yu, National University of Singapore </p>
-
+<h3>Submission</h3>
+<p>Deadline: Jan 15th 2015</p>
+<p>Please submit your work using <a href="https://easychair.org/conferences/?conf=icmr2015">the EasyChair conference website</a>.</p>
+ 
           </div>
         </div>  
       </div>

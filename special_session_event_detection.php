@@ -35,6 +35,7 @@ address the above challenges and support the event-based organization of the con
 represents a significant step towards making multimedia browsing and search possible, as well as
 social media understanding, in ways that are more efficient and more natural to the users.
 </p>
+<h3>Scope and Topics</h3>
 <p>This Special Session aims to attract and present the latest developments and results on the
 discovery of social and personal events from web multimedia content; the detection and retrieval
 of user-contributed media collections that are related to such events; the time-synchronization of
