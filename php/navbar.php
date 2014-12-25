@@ -26,10 +26,10 @@
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="#">Special Sessions</a>
                   <ul class="dropdown-menu">
-                    <li><a href="special_session_geo_multimedia">Geo-Multimedia Analytics and Retrieval</a></li>
-                    <li><a href="special_session_weakly_supervised">Weakly Supervised Learning for Big Multimedia Analysis</a></li>
                     <li><a href="special_session_event_detection">Event Detection and Time Synchronization in Social Multimedia</a></li>
+                    <li><a href="special_session_geo_multimedia">Geo-Multimedia Analytics and Retrieval</a></li>
                     <li><a href="special_session_person_search">Person Search and Verification from Rich Media Data</a></li>
+                    <li><a href="special_session_weakly_supervised">Weakly Supervised Learning for Big Multimedia Analysis</a></li>
                   </ul>
                 </li>
                 <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>

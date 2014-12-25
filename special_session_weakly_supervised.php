@@ -44,7 +44,7 @@ types of weak supervision in semantic modeling, e.g., interactive image renderin
 socially-aware image search. The primary objective of this special session fosters
 focused attention on the latest research progress in this interesting area.
 </p>
-<h3>Special session scope</h3>
+<h3>Scope and Topics</h3>
 <ul>
 <li>Visual recognition, video summary, and annotation with weak supervision</li>
 <li>Integration and ensemble of multimedia classifiers with weak supervision</li>
