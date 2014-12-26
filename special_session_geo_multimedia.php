@@ -59,9 +59,9 @@ Relevant topics include, but are not limited to, the following:
 <li>New applications (e.g., data management system and user modeling)</li>
             </ul>
 <h3>Organizers</h3>
-<p>Prof. Xueming Qian, Xi'an Jiaotong University, Xi'An, China.</p>
-<p>Prof. Jialie Shen, Singapore Management University, Singapore.</p>
-<p>Prof. Y.Raymond Fu, Northeastern University, Boston, USA.</p>
+<p>Xueming Qian, Xi'an Jiaotong University, Xi'An, China.</p>
+<p>Jialie Shen, Singapore Management University, Singapore.</p>
+<p>Y. Raymond Fu, Northeastern University, Boston, USA.</p>
 <h3>Submission</h3>
 <p>Deadline: Jan 15th 2015</p>
 <p>Please submit your work using <a href="https://easychair.org/conferences/?conf=icmr2015">the EasyChair conference website</a>.</p>

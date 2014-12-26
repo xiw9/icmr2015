@@ -42,9 +42,9 @@
 <li>Other related applications on weakly supervised learning.</li>
 </ul>
 <h3>Organizers</h3>
-<p>Dr. Luming Zhang, National University of Singapore </p>
-<p>Dr. Yi Yang, The University of Queensland </p>
-<p>Dr. Liqiang Nie, National University of Singapore </p>
+<p>Luming Zhang, National University of Singapore </p>
+<p>Yi Yang, The University of Queensland </p>
+<p>Liqiang Nie, National University of Singapore </p>
 
 <h3>Submission</h3>
 <p>Deadline: Jan 15th 2015</p>
