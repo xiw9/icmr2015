@@ -56,11 +56,11 @@ summarization and storyboarding. More specifically, the topics of the special se
 <li>Storyboarding and other novel event-based applications</li>
 </ul>
 <h3>Organizers</h3>
-<p>Prof. Nicola Conci, University of Trento, Italy</p>
-<p>Dr. Vasileios Mezaris, Centre for Research and Technology Hellas, Greece</p>
-<p>Prof. Francesco De Natale, University of Trento, Italy</p>
-<p>Dr. Symeon Papadopoulos, Centre for Research and Technology Hellas, Greece</p>
-<p>Dr. Georgios Petkos, Centre for Research and Technology Hellas, Greece</p>
+<p>Nicola Conci, University of Trento, Italy</p>
+<p>Vasileios Mezaris, Centre for Research and Technology Hellas, Greece</p>
+<p>Francesco De Natale, University of Trento, Italy</p>
+<p>Symeon Papadopoulos, Centre for Research and Technology Hellas, Greece</p>
+<p>Georgios Petkos, Centre for Research and Technology Hellas, Greece</p>
 
 <h3>Submission</h3>
 <p>Deadline: Jan 22th 2015</p>

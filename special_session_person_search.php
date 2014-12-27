@@ -52,11 +52,11 @@
 </li>
 </ul>
 <h3>Organizers</h3>
-<p>Liang Lin, Professor, Sun Yat-Sen University, China
+<p>Liang Lin, Sun Yat-Sen University, China
 </p>
-<p>Michele Merler, Research Staff Member, IBM T. J. Watson Research Center
+<p>Michele Merler, IBM T. J. Watson Research Center
 </p>
-<p>Liangliang Cao, Research Staff Member, IBM T. J. Watson Research Center
+<p>Liangliang Cao, IBM T. J. Watson Research Center
 </p>
 <h3>Submission</h3>
 <p>Deadline: Jan 15th 2015</p>
