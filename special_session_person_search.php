@@ -59,7 +59,7 @@
 <p>Liangliang Cao, IBM T. J. Watson Research Center
 </p>
 <h3>Submission</h3>
-<p>Deadline: Jan 15th 2015</p>
+<p>Deadline: Jan 22th 2015</p>
 <p>Please submit your work using <a href="https://easychair.org/conferences/?conf=icmr2015">the EasyChair conference website</a>.</p>
           </div>
         </div>  
