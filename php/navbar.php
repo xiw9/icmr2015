@@ -33,8 +33,14 @@
                   </ul>
                 </li>
                 <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>
-                <li><a href="call_for_workshop">Workshop Proposals </a></li>
-              </ul>
+                <li class="dropdown-submenu">
+                  <a tabindex="-1" href="#">Workshops</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="CCCMR2015">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
+                    <li><a href="EMR2015">Environmental Multimedia Retrieval</a></li>
+                    <li><a href="PAMUR2015">Personality and Affect in Multimedia Retrieval</a></li>
+                  </ul>
+                </li>              </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors<span class="caret"></span></a>
