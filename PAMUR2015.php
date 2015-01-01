@@ -59,10 +59,11 @@ manuscripts.
 <p>Alexandra Branzan Albu, University of Victoria </p>
 
 <h3>Important Dates</h3>
-<p>Submission deadline: 22. March 2015 </p>
-<p>Notification of acceptance: 22. April 2015 </p>
-<p>Camera­ready version: 10. May 2015</p>
-<p>Please submit your work using <a href="https://easychair.org/conferences/?conf=pamur2015">the EasyChair conference website (https://easychair.org/conferences/?conf=pamur2015)</a>.</p>
+<p>Deadline for paper submission: February 1st, 2015</p>
+<p>Notification of acceptance: March 15th, 2015</p>
+<p>Camera Ready Paper and Registration: April 5th, 2015</p>
+<h3>Submission</h3>
+<p>Please submit your work using <a href="https://easychair.org/conferences/?conf=pamur2015">the EasyChair conference website</a>.</p>
 
           </div>
         </div>  

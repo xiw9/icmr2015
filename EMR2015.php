@@ -31,22 +31,6 @@ retrieval and semantic interpretation of environmental multimedia data, as well 
 services, visualization and decision support environmental applications for environmental multimedia.
 </p>
 <h3>Call for papers</h3>
-<p>The recent advancements in digital technologies allow for the generation of large amounts of
-multimedia environmental data, such as meteorological measurements and nature observations. Since
-the monitoring of environmental information is critical both for human activities (e.g. agriculture) and
-for the sustainability of the planet (e.g. global warming), it is of great interest to research and develop
-techniques for the analysis and retrieval of environmental multimedia. Of particular interest is the
-monitoring of marine ecosystems, which is of critical importance for gaining a better understanding of
-the effects of climate change and other anthropogenic influences on marine environments.
-</p>
-<p>The goal of EMR workshop is threefold. First, the workshop aims at presenting the most recent
-methods for the extraction interpretation, retrieval, fusion and visualization of environmental
-information encoded in multimedia data. Second, it aims at bringing together practitioners and
-researchers, both from multimedia and environmental domain, to share ideas and experiences in
-designing and implementing novel multimedia analysis techniques and tools for environmental
-applications. Third, the workshop aims at evaluating the maturity and efficiency of the multimedia
-retrieval techniques for realistic environmental applications.
-</p>
 <p>Research topics of interest for this workshop include, but are not limited to:
 </p>
 <ul>
@@ -68,6 +52,14 @@ retrieval techniques for realistic environmental applications.
 <li>Underwater scene understanding</li>
 <li>Citizen science, Voluntary Geographic Information and Environmental Multimedia</li>
 </ul>
+<p>Submissions  must  be original and not submitted to or accepted by any other conference or 
+journal.  They   should  be  prepared  according   to  the  ICMR  2015  format  (ACM  style)  and 
+must  not  exceed  6  pages.  The  reviewing  process  will  be  double  blind.  Therefore,  authors 
+must   conceal  their  identity  (no  author  names,  no  affiliations,  no  acknowledgment  of 
+sponsors,  no  direct  references  to  previous  work).  Each  paper  will  receive  at  least  3 
+reviews  by  recognized  experts  in  the  field.  Please  use   EasyChair  to  submit  your 
+manuscripts.
+</p>
 <h3>Organizers</h3>
 <p>Stefanos Vrochidis, Centre for Research and Technology Hellas, Information Technologies Institute </p>
 <p>Kostas Karatzas, Aristotle University of Thessaloniki </p>
@@ -77,9 +69,10 @@ retrieval techniques for realistic environmental applications.
 
 <h3>Important Dates</h3>
 <p>Deadline for paper submission: February 1st, 2015</p>
-<p>Notification of acceptance: March 1st, 2015</p>
+<p>Notification of acceptance: March 15th, 2015</p>
 <p>Camera Ready Paper and Registration: April 5th, 2015</p>
-<p>Please submit your work using <a href="">(to be announced soon)</a>.</p>
+<h3>Submission</h3>
+<p>Paper submission link will be provided soon.</p>
 
           </div>
         </div>  

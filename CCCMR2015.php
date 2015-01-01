@@ -51,12 +51,6 @@ paramount importance to improve the performance of recommender systems, and
 provide us new advances including new approaches and directions on multimedia
 recommendation.
  </p>
- <p>
-  The objective of this special issue is therefore to provide a forum for researchers in
-multimedia recommendation and multimedia retrieval to review pressing needs,
-discuss challenging research issues, and showcase the state-of-the-art research and
-multimedia recommender systems in the modern Internet environment.
- </p>
 <h3>Call for papers</h3>
 <p>The workshop topics include, but are not limited to: 
 </p>
@@ -75,12 +69,24 @@ multimedia recommender systems in the modern Internet environment.
 <li>HCI and presence for multimedia recommendation</li>
 <li>Mobile Multimedia recommender systems</li>
 </ul>
-
+<p>Submissions  must  be original and not submitted to or accepted by any other conference or 
+journal.  They   should  be  prepared  according   to  the  ICMR  2015  format  (ACM  style)  and 
+must  not  exceed  6  pages.  The  reviewing  process  will  be  double  blind.  Therefore,  authors 
+must   conceal  their  identity  (no  author  names,  no  affiliations,  no  acknowledgment  of 
+sponsors,  no  direct  references  to  previous  work).  Each  paper  will  receive  at  least  3 
+reviews  by  recognized  experts  in  the  field.  Please  use   EasyChair  to  submit  your 
+manuscripts.
+</p>
 <h3>Organizers</h3>
 <p>Peng Cui, Tsinghua University, China</p>
 <p>Benoit Huet, EURECOM, France  </p>
 
-<p>Please submit your work using <a href="">(to be announced soon)</a>.</p>
+<h3>Important Dates</h3>
+<p>Deadline for paper submission: February 1st, 2015</p>
+<p>Notification of acceptance: March 15th, 2015</p>
+<p>Camera Ready Paper and Registration: April 5th, 2015</p>
+<h3>Submission</h3>
+<p>Paper submission link will be provided soon.</p>
 
  
           </div>
