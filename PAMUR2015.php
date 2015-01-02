@@ -37,7 +37,7 @@ systems.
 <li>mood regulation through MM  </li>
 <li>evaluation of subjective satisfaction </li>
 <li>human factors for MR and recommendation </li>
-<li>datasets for affect&#8208;and personality&#8208;related retrieval and recommendation </li>
+<li>datasets for affective&#8208;and personality&#8208;related retrieval and recommendation </li>
 </ul>
 <p>We  seek opportunities  to  invite  the most outstanding  accepted papers  to  a journal special issue related 
 to the field.  
