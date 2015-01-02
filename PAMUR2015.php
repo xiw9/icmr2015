@@ -53,7 +53,7 @@ manuscripts.
 
 <h3>Organizers</h3>
 <p>Marko Tkalčič, Johannes Kepler University, Linz, Austria </p>
-<p>Yi ­Hsuan Yang, Academia Sinica, Taipei, Taiwan  </p>
+<p>Yi&#8208;Hsuan Yang, Academia Sinica, Taipei, Taiwan  </p>
 <p>Markus Schedl, Johannes Kepler University, Linz, Austria </p>
 <p>Lexing Xie, Australian National University, Australia  </p>
 
