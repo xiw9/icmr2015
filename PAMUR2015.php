@@ -31,13 +31,13 @@ systems.
 <li>acquisition of  personality and affect for MR </li>
 <li>relationship between personality and MM content through user preferences </li>
 <li>personalized and contextualized retrieval or recommendation </li>
-<li>affective­ and personality­based MM similarity measures </li>
-<li>affective­ and personality­based user interfaces for MR </li>
+<li>affective&#8208;and personality&#8208;based MM similarity measures </li>
+<li>affective&#8208;and personality&#8208;based user interfaces for MR </li>
 <li>information visualization of affect and personality data </li>
 <li>mood regulation through MM  </li>
 <li>evaluation of subjective satisfaction </li>
 <li>human factors for MR and recommendation </li>
-<li>datasets for affect­ and personality­related retrieval and recommendation </li>
+<li>datasets for affect&#8208;and personality&#8208;related retrieval and recommendation </li>
 </ul>
 <p>We  seek opportunities  to  invite  the most outstanding  accepted papers  to  a journal special issue related 
 to the field.  
@@ -58,7 +58,7 @@ manuscripts.
 <p>Lexing Xie, Australian National University, Australia  </p>
 
 <h3>Important Dates</h3>
-<p>Deadline for paper submission: February 1st, 2015</p>
+<p>Deadline for paper submission: February 10th, 2015</p>
 <p>Notification of acceptance: March 15th, 2015</p>
 <p>Camera Ready Paper and Registration: April 5th, 2015</p>
 <h3>Submission</h3>
