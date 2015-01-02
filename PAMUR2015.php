@@ -31,13 +31,13 @@ systems.
 <li>acquisition of  personality and affect for MR </li>
 <li>relationship between personality and MM content through user preferences </li>
 <li>personalized and contextualized retrieval or recommendation </li>
-<li>affective&#8208;and personality&#8208;based MM similarity measures </li>
-<li>affective&#8208;and personality&#8208;based user interfaces for MR </li>
+<li>affective&#8208; and personality&#8208;based MM similarity measures </li>
+<li>affective&#8208; and personality&#8208;based user interfaces for MR </li>
 <li>information visualization of affect and personality data </li>
 <li>mood regulation through MM  </li>
 <li>evaluation of subjective satisfaction </li>
 <li>human factors for MR and recommendation </li>
-<li>datasets for affective&#8208;and personality&#8208;related retrieval and recommendation </li>
+<li>datasets for affective&#8208; and personality&#8208;related retrieval and recommendation </li>
 </ul>
 <p>We  seek opportunities  to  invite  the most outstanding  accepted papers  to  a journal special issue related 
 to the field.  
