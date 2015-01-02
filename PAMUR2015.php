@@ -56,7 +56,6 @@ manuscripts.
 <p>Yi­Hsuan Yang, Academia Sinica, Taipei, Taiwan  </p>
 <p>Markus Schedl, Johannes Kepler University, Linz, Austria </p>
 <p>Lexing Xie, Australian National University, Australia  </p>
-<p>Alexandra Branzan Albu, University of Victoria </p>
 
 <h3>Important Dates</h3>
 <p>Deadline for paper submission: February 1st, 2015</p>

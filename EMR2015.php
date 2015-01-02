@@ -72,7 +72,7 @@ manuscripts.
 <p>Notification of acceptance: March 15th, 2015</p>
 <p>Camera Ready Paper and Registration: April 5th, 2015</p>
 <h3>Submission</h3>
-<p>Paper submission link will be provided soon.</p>
+<p>Please submit your work using <a href="https://easychair.org/conferences/?conf=emr2015">the EasyChair conference website</a>.</p>
 
           </div>
         </div>  
