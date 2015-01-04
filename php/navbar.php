@@ -32,14 +32,6 @@
                     <li><a href="special_session_weakly_supervised">Weakly Supervised Learning for Big Multimedia Analysis</a></li>
                   </ul>
                 </li>
-                <li class="dropdown-submenu">
-                  <a tabindex="-1" href="#">Workshops</a>
-                  <ul class="dropdown-menu">
-                    <li><a href="CCCMR2015">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
-                    <li><a href="EMR2015">Environmental Multimedia Retrieval</a></li>
-                    <li><a href="PAMUR2015">Personality and Affect in Multimedia Retrieval</a></li>
-                  </ul>
-                </li>
                 <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>
               </ul>
             </li>
@@ -47,6 +39,14 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="submission_instructions">Submission Instructions</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="CCCMR2015">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
+                <li><a href="http://mklab.iti.gr/emr2015/">Environmental Multimedia Retrieval</a></li>
+                <li><a href="PAMUR2015">Personality and Affect in Multimedia Retrieval</a></li>
               </ul>
             </li>
             <li><a href="organization">Organization</a></li>
