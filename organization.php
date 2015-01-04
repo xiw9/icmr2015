@@ -24,7 +24,7 @@
 		  <p>Xiangyang Xue, Fudan University, China</p>
 		  <hr>
 		  <h4>Technical Program Chairs</h4>
-		  <p><a href="http://www.ceessnoek.info/">Cees Snoek</a>, Unversity of Amsterdam, The Netherlands</p>
+		  <p><a href="http://www.ceessnoek.info/">Cees Snoek</a>, University of Amsterdam and Qualcomm Research Netherlands</p>
 		  <p><a href="http://www.svcl.ucsd.edu/~nuno/">Nuno Vasconcelos</a>, University of California, San Diego, USA</p>
 		  <p><a href="http://www.yugangjiang.info/">Yu-Gang Jiang</a>, Fudan University, China</p>
 		  <hr>
