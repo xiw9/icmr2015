@@ -26,7 +26,7 @@
             </ol>
             <p>All demo submissions will be peer-reviewed to ensure maximum quality and accepted demo papers will be included in the conference proceedings. The best demos in each category will be awarded and announced during the Social Event. Short introductory presentations of each demo will be given before the demo session.</p>
             <h3>Paper Format</h3>
-            <p>Papers must be formatted according to the ACM conference style. Papers of type 1 are allowed a maximum of 4 pages in 9 point font. Papers of type 2 should not exceed 2 pages in 9 point font. While submitting the paper, please make sure that the names and affiliations of the authors are included in the document.</p>
+            <p>Papers must be formatted according to the ACM conference style. Papers of type 1 are allowed a maximum of 4 pages in 9 point font. Papers of type 2 should not exceed 2 pages in 9 point font. In the event of a type 2 submission for which the research paper is rejected but the demo paper is accepted, the authors will be allowed (under shepherding) to extend the demo paper from 2 to 4 pages. While submitting the paper, please make sure that the names and affiliations of the authors are included in the document.</p>
            <h3>Important Dates</h3>
             <ul>
               <li> Paper Submission: January 15, 2015 </li>
