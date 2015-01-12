@@ -58,7 +58,7 @@
             <p>All deadlines are 11:59pm, Baker Time Zone</p>
             <ul>
               <li> Submission of tutorial proposals: <del>January 16, 2015</del>
-              January 25, 2015 </li>
+              <b>January 25, 2015</b> </li>
               <li> Acceptance date: February 16th, 2015 </li>
               <li> Tutorials: June 23rd, 2015 </li>
             </ul>
