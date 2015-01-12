@@ -44,7 +44,8 @@
             </ul>
             <h3>Important Dates</h3>
             <ul>
-              <li> Paper Submission: January 15, 2015 </li>
+              <li> Paper Submission: <del>January 15, 2015</del>
+              January 25, 2015</li>
               <li> Notification of Acceptance: March 15, 2015 </li>
               <li> Camera-Ready Papers Due: April 5, 2015 </li>
             </ul>

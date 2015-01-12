@@ -28,7 +28,8 @@
           </div>
           <div class="panel-body">
             <p>Paper Submission: <br>
-              <del>January 15, 2015</del> January 25, 2015 </p>
+              <del>January 15, 2015</del><br> 
+              January 25, 2015 </p>
             <p>Notification of Acceptance:<br>
               March 15, 2015 </p>
             <p>Camera-Ready Papers Due: <br>

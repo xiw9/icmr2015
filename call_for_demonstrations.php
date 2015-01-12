@@ -29,7 +29,8 @@
             <p>Papers must be formatted according to the ACM conference style. Papers of type 1 are allowed a maximum of 4 pages in 9 point font. Papers of type 2 should not exceed 2 pages in 9 point font. In the event of a type 2 submission for which the research paper is rejected but the demo paper is accepted, the authors will be allowed (under shepherding) to extend the demo paper from 2 to 4 pages. While submitting the paper, please make sure that the names and affiliations of the authors are included in the document.</p>
            <h3>Important Dates</h3>
             <ul>
-              <li> Paper Submission: January 15, 2015 </li>
+              <li> Paper Submission: <del>January 15, 2015</del>
+              January 25, 2015 </li>
               <li> Notification of Acceptance: March 15, 2015 </li>
               <li> Camera-Ready Papers Due: April 5, 2015 </li>
             </ul>

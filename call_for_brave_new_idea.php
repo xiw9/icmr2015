@@ -31,7 +31,8 @@
                 to the criteria indicated above, and not within the regular ICMR
                 long paper track.</p>
             <h3>Important Dates</h3>
-            <p>Paper Submission: January 15, 2015</p>
+            <p>Paper Submission: <del>January 15, 2015</del>
+              January 25, 2015 </p>
             <p>Notification of Acceptance: March 15, 2015</p>
             <p>Camera-Ready Papers Due: April 5, 2015</p>
             <h3>Review</h3>
