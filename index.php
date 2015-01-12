@@ -28,7 +28,7 @@
           </div>
           <div class="panel-body">
             <p>Paper Submission: <br>
-              January 15, 2015 </p>
+              <del>January 15, 2015</del> January 25, 2015 </p>
             <p>Notification of Acceptance:<br>
               March 15, 2015 </p>
             <p>Camera-Ready Papers Due: <br>
@@ -44,6 +44,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
+            <p>[01/12/2015] Paper submission deadline extended to <b>January 25, 2015</b>.</p>
             <p>[12/15/2014] Submission site is <a href="https://easychair.org/conferences/?conf=icmr2015">open</a>.</p>
             <p>[09/21/2014] A PDF flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>
             <p>[08/05/2014] Website launched.</p>
