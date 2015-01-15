@@ -44,7 +44,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="CCCMR2015">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
+                <li><a href="http://media.cs.tsinghua.edu.cn/~multimedia/CCCMR/" target="_blank">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
                 <li><a href="http://mklab.iti.gr/emr2015/" target="_blank">Environmental Multimedia Retrieval</a></li>
                 <li><a href="PAMUR2015">Personality and Affect in Multimedia Retrieval</a></li>
               </ul>
