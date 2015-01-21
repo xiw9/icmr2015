@@ -63,7 +63,7 @@ summarization and storyboarding. More specifically, the topics of the special se
 <p>Georgios Petkos, Centre for Research and Technology Hellas, Greece</p>
 
 <h3>Submission</h3>
-<p>Deadline: Jan 22th 2015</p>
+<p>Deadline: January 25, 2015, 11:59 PM PST</p>
 <p>Please submit your work using <a href="https://easychair.org/conferences/?conf=icmr2015">the EasyChair conference website</a>.</p>
 
           </div>

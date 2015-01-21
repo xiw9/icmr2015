@@ -63,7 +63,7 @@ Relevant topics include, but are not limited to, the following:
 <p>Jialie Shen, Singapore Management University, Singapore.</p>
 <p>Y. Raymond Fu, Northeastern University, Boston, USA.</p>
 <h3>Submission</h3>
-<p>Deadline: Jan 22th 2015</p>
+<p>Deadline: January 25, 2015, 11:59 PM PST</p>
 <p>Please submit your work using <a href="https://easychair.org/conferences/?conf=icmr2015">the EasyChair conference website</a>.</p>
           </div>
         </div>  
