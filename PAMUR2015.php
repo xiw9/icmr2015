@@ -57,6 +57,29 @@ manuscripts.
 <p>Markus Schedl, Johannes Kepler University, Linz, Austria </p>
 <p>Lexing Xie, Australian National University, Australia  </p>
 
+<h3>Programme Committee</h3>
+<p>Yoann Baveye, Technicolor & Ecole Centrale de Lyon, France</p>
+<p>Ivan Cantador, Universidad Autónoma de Madrid, Spain</p>
+<p>Yan-Ying Chen, FX PAL,Palo Alto, USA</p>
+<p>Eduardo Coutinho, Swiss Center for Affective Sciences, Geneva, Switzerland</p>
+<p>Marco de Gemmis, University Aldo Moro, Bari, Italy</p>
+<p>Hatice Gunes, Queen Mary University, London, UK</p>
+<p>Shengbo Guo, Samsung Media Solution Center America, San Jose, USA</p>
+<p>Perfecto Herrera, Universitat Pompeu Fabra, Barcelona, Spain</p>
+<p>Bogdan Ionescu, University Politehnica of Bucharest, Romania</p>
+<p>Michael Lew, University of Leiden, the Netherlands</p>
+<p>Jens Madsen, Danmarks Tekniske Universitet, Denmark</p>
+<p>Rui Pedro Paiva, Universidade de Coimbra, Portugal</p>
+<p>Matevž Pesek, University of Ljubljana, Slovenia</p>
+<p>Björn Schuller, TU Munich, Germany</p>
+<p>Man Kwan Shan, National Chengchi University, China</p>
+<p>Mohammad Soleymani, Imperial College London, UK</p>
+<p>Sebastian Stober, University of Western Ontario, Canada</p>
+<p>Markus Strohmaier, University of Koblenz-Landau, Germany</p>
+<p>Jia-Ching Wang, National Central University, Taiwan</p>
+<p>Deshun Yang, Peking University, China</p>
+<p>Yong Zheng, DePaul University, Chicago, IL USA</p>
+
 <h3>Important Dates</h3>
 <p>Deadline for paper submission: February 10th, 2015</p>
 <p>Notification of acceptance: March 15th, 2015</p>
