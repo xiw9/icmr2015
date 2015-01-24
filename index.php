@@ -28,9 +28,9 @@
           </div>
           <div class="panel-body">
             <p>Paper Submission: <br>
-              Jan. 25, 2015, 11:59pm PST <br>
+              <b>Jan. 25, 2015, 11:59pm PST</b> <br>
               (Full, Short, Special Session)<br>
-              Feb. 15, 2015, 11:59pm PST <br>
+              <b>Feb. 15, 2015, 11:59pm PST</b> <br>
               (Brave New Idea, Demo, Doctoral Symposium)</p>
             <p>Notification of Acceptance:<br>
               March 15, 2015 </p>
