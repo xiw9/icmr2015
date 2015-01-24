@@ -32,9 +32,9 @@
               (Full, Short, Special Session)<br>
               <b>Feb. 15, 2015, 11:59pm PST</b> <br>
               (Brave New Idea, Demo, Doctoral Symposium)</p>
-            <p>Notification of Acceptance:<br>
+            <p>Notification of Acceptance:
               March 15, 2015 </p>
-            <p>Camera-Ready Papers Due: <br>
+            <p>Camera-Ready Papers Due:
               April 5, 2015 </p>
           </div>
         </div>
