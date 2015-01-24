@@ -28,8 +28,10 @@
           </div>
           <div class="panel-body">
             <p>Paper Submission: <br>
-              <del>January 15, 2015</del><br> 
-              <b>January 25, 2015, 11:59 PM PST</b> </p>
+              Jan. 25, 2015, 11:59pm PST <br>
+              (Full, Short, Special Session)<br>
+              Feb. 15, 2015, 11:59pm PST <br>
+              (Brave New Idea, Demo, Doctoral Symposium)</p>
             <p>Notification of Acceptance:<br>
               March 15, 2015 </p>
             <p>Camera-Ready Papers Due: <br>
@@ -45,7 +47,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[01/12/2015] Paper submission deadline extended to <b>January 25, 2015</b>.</p>
+            <p>[01/24/2015] Brave New Idea, Demo and Doctoral Symposium deadline extended to <b>Feb 15, 2015</b>.</p>
             <p>[12/15/2014] Submission site is <a href="https://easychair.org/conferences/?conf=icmr2015">open</a>.</p>
             <p>[09/21/2014] A PDF flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>
             <p>[08/05/2014] Website launched.</p>
