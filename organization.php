@@ -17,7 +17,8 @@
               <h1 class="panel-title">Organization Committee</h1>
             </div>
             <div class="panel-body" >
-
+          <h4>Honorary Chair</h4>
+          <p><a href="http://www.jdl.ac.cn/htm-gaowen/en_index.htm">Wen Gao</p>, Peking University, China</p>
           <h4>General Chairs</h4>
           <p><a href="http://www.cs.cityu.edu.hk/~cwngo/">Chong-Wah Ngo</a>, City University of Hong Kong, China</p> 
 		  <p><a href="http://www.cs.cmu.edu/~alex/">Alex Hauptmann</a>, Carnegie Mellon University, USA</p>
