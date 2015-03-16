@@ -12,7 +12,9 @@ footer{
   background-color: #eeeeee;
   border-color: #eeeeee;
 }
-
+pre{
+  font-size: 12px;
+}
 .footer{
   color: #fff;
 }
