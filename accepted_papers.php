@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <?php include 'php/header.php' ?>
-  <title>Accepter Papers | ACM ICMR 2015 | Shanghai, China</title>
+  <title>Accepted Papers | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
   <?php include 'php/navbar.php' ?>
@@ -14,11 +14,11 @@
       <div class="col-md-9">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">Accepter Papers</h1>
+            <h1 class="panel-title">Accepted Papers</h1>
           </div>
           <div class="panel-body" >
             <h3>Full Papers</h3>
-            <pre>1  A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval
+            <pre>1   A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval
 15  Image Classification and Retrieval are ONE
 18  Describing Images with Hierarchical Concepts and Object Class Localization
 23  Supervised Multi-scale Locality Sensitive Hashing
@@ -67,8 +67,8 @@
 249 Latent Factors of Visual Popularity Prediction
 251 Building A Deep Learning System for Video Classification: An In-depth Study           </pre>
           <h3>Short Papers</h3>
-          <pre>3  Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients
-4 Augmented Feature Fusion for Image Retrieval System
+          <pre>3   Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients
+4   Augmented Feature Fusion for Image Retrieval System
 37  Accio: A Data Set for Face Track Retrieval in Movies Across Age
 38  A Two-step Approach to Cross-modal Hashing
 39  Cross-Scenario Eyeglasses Retrieval via EGYPT Model
@@ -102,7 +102,7 @@
 243 Multimodal Learning with Deep Boltzmann Machine for Emotion Prediction in User Generated Videos
 244 Improving Automatic Name-Face Association using Celebrity Images on the Web</pre>
           <h3>Demos</h3>
-          <pre>100  Music Positioning and Annotation For Television Videos
+          <pre>100 Music Positioning and Annotation For Television Videos
 149 KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System
 153 An Improved System For Real-Time Scene Text Recognition
 198 DigInPix: visual named-entities identification in images and videos
