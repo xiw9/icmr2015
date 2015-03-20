@@ -69,9 +69,11 @@
           <h3>Short Papers</h3>
           <pre>3   Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients
 4   Augmented Feature Fusion for Image Retrieval System
+30  Parallel AP Clustering and Re-ranking for Automatic Image-Text Alignment and Large-Scale Web Image Search
 37  Accio: A Data Set for Face Track Retrieval in Movies Across Age
 38  A Two-step Approach to Cross-modal Hashing
 39  Cross-Scenario Eyeglasses Retrieval via EGYPT Model
+52  People News Search via Name-Face Association Analysis
 57  Discovering the Latent Similarities of the KNN Graph by Metric Transformation
 59  Formation period matters: Towards socially consistent group detection via dense subgraph seeking
 60  Memory vectors for particular object retrieval with multiple queries
@@ -80,13 +82,17 @@
 76  Deep Bottleneck Feature for Image Classification
 78  Maximally Visual-Homogeneous Region Detector for Large Scale Image Retrieval
 87  Rapid Clothing Retrieval via Deep Learning of Binary Codes and Hierarchical Search
+93  Information gain study for visual vocabulary construction
 97  Discriminative Latent Feature Space Learning for Cross-Modal Retrieval
 103 Image Retrieval by User-oriented Ranking
 105 Spatial Constraint for Image Location Estimation
+115 Shape-based Object Matching Using Point Context
 117 Large Scale Image Annotation via Deep Representation Learning and Tag Embedding Learning
 124 Probabilistic Matrix Factorization With Semantic And Visual Neighborhoods For Image Tag Completion
+129 Exploiting multiple web resources towards collecting positive training samples for visual concept learning
 134 CRMActive : An Active Learning Based Approach For Effective Video Annotation And Retrieval
 135 Personalized Egocentric Video Summarization for Cultural Experience
+140 EMIF: Towards a Scalable and Effective Indexing Framework for Large Scale Music Retrieval
 142 Specific Person Retrieval via Incomplete Text Description
 146 Combining generic and specific information for cross-modal retrieval
 148 3D Sketch-Based 3D Model Retrieval
@@ -96,7 +102,13 @@
 176 Sketch-based Image Retrieval via Shape Words
 180 Multiple Aesthetic Attribute Assessment by Exploiting Relations Among Aesthetic Attributes
 181 Emotion recognition from users' eeg signals using hierarchical bayesian model with privileged information
+184 Multi-Label Active Learning with Chi-Square Statistics for Image Classification
+188 Multiple Measurements and Joint Dimensionality Reduction for Large Scale Image Search with Short Vectors
+193 Exploring EEG for Object Detection and Retrieval
 221 Kernel Local Descriptors with Implicit Rotation Matching
+229 Semantic Concept Annotation for User Generated Videos Using Soundtracks
+230 Automatic Image Annotation using Deep Learning Representations
+231 “My Day in Review” Visually Summarising Noisy Lifelog Data
 232 Audio-Based Multimedia Event Detection with DNNs and Sparse Sampling
 236 Learning Binary Codes for Hashing via Feature Decomposition
 243 Multimodal Learning with Deep Boltzmann Machine for Emotion Prediction in User Generated Videos
