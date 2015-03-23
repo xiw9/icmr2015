@@ -84,7 +84,7 @@ manuscripts.
 <h3>Important Dates</h3>
 <p>Deadline for paper submission: February 1st, 2015</p>
 <p>Notification of acceptance: March 15th, 2015</p>
-<p>Camera Ready Paper and Registration: April 5th, 2015</p>
+<p>Camera Ready Paper and Registration: April 15th, 2015</p>
 <h3>Submission</h3>
 <p>Paper submission link will be provided soon.</p>
 

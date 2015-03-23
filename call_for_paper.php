@@ -48,7 +48,7 @@
               <li> Paper Submission: <del>January 15, 2015</del>
               <b>January 25, 2015, 11:59 PM PST</b> </li>
               <li> Notification of Acceptance: March 15, 2015 </li>
-              <li> Camera-Ready Papers Due: April 5, 2015 </li>
+              <li> Camera-Ready Papers Due: April 15, 2015 </li>
             </ul>
             <h3>Double-Blind Review</h3>
             <p>The ICMR uses a double-blind review process for full paper selection. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the authors. Please prepare your paper in a way that preserves anonymity of the authors.</p>

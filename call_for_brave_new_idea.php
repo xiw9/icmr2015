@@ -34,7 +34,7 @@
             <p>Paper Submission: <del>January 15, 2015</del>
               <b>Feb. 15, 2015, 11:59 PM PST</b></p>
             <p>Notification of Acceptance: March 15, 2015</p>
-            <p>Camera-Ready Papers Due: April 5, 2015</p>
+            <p>Camera-Ready Papers Due: April 15, 2015</p>
             <h3>Review</h3>
             <p>ICMR 2015 uses a single-blind review process for brave new idea paper selection. Authors should provide author names and affiliations in their manuscript.</p>
             <h3>Length of a BNI Paper</h3>

@@ -32,7 +32,7 @@
               <li> Paper Submission: <del>January 15, 2015</del>
               <b>Feb. 15, 2015, 11:59 PM PST</b> </li>
               <li> Notification of Acceptance: March 15, 2015 </li>
-              <li> Camera-Ready Papers Due: April 5, 2015 </li>
+              <li> Camera-Ready Papers Due: April 15, 2015 </li>
             </ul>
           </div>
         </div>  

@@ -35,7 +35,7 @@
             <p>Notification of Acceptance:
               March 15, 2015 </p>
             <p>Camera-Ready Papers Due:
-              April 5, 2015 </p>
+              April 15, 2015 </p>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[03/15/2015] <a href="accepted_papers">List of accepted full, short and demo papers</a>. Decisions of special session papers will be announced shortly.</p>
+            <p>[03/15/2015] <a href="accepted_papers">List of accepted full, short, demo and special session papers</a>.</p>
             <p>[01/24/2015] Brave New Idea, Demo and Doctoral Symposium deadline extended to <b>Feb. 15, 2015</b>.</p>
             <p>[12/15/2014] Submission site is <a href="https://easychair.org/conferences/?conf=icmr2015">open</a>.</p>
             <p>[09/21/2014] A PDF flyer of call for submissions is available <a href="cfp.pdf">here</a>.</p>

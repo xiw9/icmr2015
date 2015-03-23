@@ -32,7 +32,7 @@
             <p>December 15, 2014: Decision for special session proposals</p>
             <p>January 22, 2015: Special session paper submission</p>
             <p>March 15, 2015:    Notification of acceptance</p>
-            <p>April 5, 2015:     Camera-ready paper due</p>
+            <p>April 15, 2015:     Camera-ready paper due</p>
             <h3>Special Session Chairs</h3>
             <p>Winston Hsu (<a href="mailto:whsu@ntu.edu.tw">whsu@ntu.edu.tw</a>), National Taiwan University</p>
             <p>Nicu Sebe (<a href="mailto:sebe@disi.unitn.it">sebe@disi.unitn.it</a>), University of Trento</p>

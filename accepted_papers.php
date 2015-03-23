@@ -29,9 +29,11 @@
 51  DeepIndex for Accurate and Efficient Image Retrieval
 53  A Novel Visual-Region-Descriptor-based Approach to Sketch-based Image Retrieval
 58  Hierarchical Encoding of Binary Descriptors for Image Matching
+63  Location Prediction of Social Images via Generative Model
 69  Scalable Multimodal Search with Distributed Indexing by Sparse Hashing
 71  Facial Action Unit Classification with Hidden Knowledge under Incomplete Annotation
 73  MInsight in Image Collections by Multimedia Pivot Tables
+74  Social Event Mining in Large Photo Collections
 82  Distribution Regularized Nonnegative Matrix Factorization for Transfer Visual Feature Learning
 83  Robust and Discriminative Concept Factorization for Image Representation
 94  Heterogeneous Semantic Level Features Fusion for Action Recognition
@@ -65,7 +67,8 @@
 247 Discovering Semantic Vocabularies for Cross-Media Retrieval
 248 Bag-of-Fragments: Selecting and encoding video fragments for event detection and recounting
 249 Latent Factors of Visual Popularity Prediction
-251 Building A Deep Learning System for Video Classification: An In-depth Study           </pre>
+251 Building A Deep Learning System for Video Classification: An In-depth Study           
+253 Visual Event Summarization on Social Media using Topic Modelling and Graph-based Ranking Algorithms</pre>
           <h3>Short Papers</h3>
           <pre>3   Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients
 4   Augmented Feature Fusion for Image Retrieval System
@@ -123,6 +126,14 @@
 258 A Sparse Ensemble Learning System For Efficient Semantic Indexing
 260 A Multi-Sensory Gesture-Based Occupational Therapy Environment for Controlling Home Appliances
 261 Incremental Multimodal Query Construction for Video Search</pre>
+          <h3>Special Session Papers</h3>
+          <pre>96  End-to-End Photo-Sketch Generation via Fully Convolutional Representation Learning
+128 Attribute Guided Dictionary Learning
+166 Teaching Video Analytics Based on Human Behavior Mining
+179 Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections
+217 Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation
+223 Harvesting Multiple Sources for User Profile Learning: a Big Data Study
+254 Multi-view Face Detection Using Deep Convolutional Neural Networks          </pre>
           </div>
         </div>  
       </div>

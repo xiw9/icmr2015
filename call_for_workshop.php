@@ -35,7 +35,7 @@
             <p>Proposal Submission Deadline: December 15, 2014</p>
             <p>Proposal Acceptance: December 20, 2014</p>
             <p>Workshop Paper Submission Deadline: February 1, 2015</p>
-            <p>Workshop Camera Ready: <em>April 5, 2015</em></p>
+            <p>Workshop Camera Ready: <em>April 15, 2015</em></p>
             <p>Workshop Day: <em>June 23, 2015</em></p>
 
             <h3>Workshop Co-chairs</h3>
