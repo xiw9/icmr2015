@@ -19,14 +19,14 @@
           <div class="panel-body" >
             <p>Program at a glance</p>
 <table class="table-program table table-hover table-bordered  ">
-<tr class="info"><th>Venue</th><th>Fudan University</th><th colspan="3">International Convention Center</th></tr>
+<tr class="info"><th>Venue</th><th >Fudan University</th><th colspan="3" class="text-center">International Convention Center</th></tr>
  <tr><td>Date</td><td>June 23 Tuesday (Day 0)</td><td>June 24 Wednesday (Day 1)</td><td>June 25 Thursday (Day 2)</td><td>June 26 Friday (Day 3)</td></tr>
  <tr><td>&nbsp;</td><td>Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Main Conference & Practitioner Day</td></tr>
  <tr><td>08:30am</td><td>&nbsp;</td><td>Registration</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>08:45am</td><td>Registration</td><td>Welcome and Introduction</td><td>Registration</td><td>Registration</td></tr>
- <tr><td>09:00am</td><td>TBA</td><td>Keynote 1</td><td>Keynote 2</td><td>Keynote 3 </td></tr>
- <tr><td>09:20am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr><td>09:40am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr><td>09:00am</td><td>TBA</td><td class="active">Keynote 1</td><td class="active">Keynote 2</td><td class="active">Keynote 3 </td></tr>
+ <tr><td>09:20am</td><td>&nbsp;</td><td class="active">&nbsp;</td><td class="active">&nbsp;</td><td class="active">&nbsp;</td></tr>
+ <tr><td>09:40am</td><td>&nbsp;</td><td class="active">&nbsp;</td><td class="active">&nbsp;</td><td class="active">&nbsp;</td></tr>
  <tr><td>10:00am</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
  <tr><td>10:20am</td><td>&nbsp;</td><td>Oral 1: Image Retrieval</td><td>Oral 4: Analytical Methods for MR</td><td>Invited Talks from Chinese Internet Industry</td></tr>
  <tr><td>10:40am</td><td>&nbsp;</td><td>5 papers </td><td>5 papers</td><td>TBA</td></tr>
