@@ -39,11 +39,11 @@
  <tr><td>2:20pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:40pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>3:00pm</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>3:20pm</td><td>&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#poster1">Full Paper Posters & Special Poster Session</a></td></tr>
+ <tr><td>3:20pm</td><td>&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
  <tr><td>3:40pm</td><td>&nbsp;</td><td class="success">4 papers</td><td class="info">TBA</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:00pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:20pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
- <tr><td>4:40pm</td><td>&nbsp;</td><td class="danger"><a href="#poster2">Short Paper Posters & Demos</a></td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
+ <tr><td>4:40pm</td><td>&nbsp;</td><td class="danger"><a href="#postershort">Short Paper Posters</a> & <a href="#demo">Demos</a></td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:00pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">4 papers</td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:20pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:40pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
@@ -56,7 +56,7 @@
 
 <p>Detailed Program:</p>
 <table class="table-program table table-hover table-bordered">
- <tr><th colspan="2"><a name="best">Best Paper Session</th></tr>
+ <tr><th colspan="2"><a name="best"></a>Best Paper Session</th></tr>
  <tr><td>15</td><td>Image Classification and Retrieval are ONE. <br/>Lingxi Xie, Richang Hong, Bo Zhang and Qi Tian.</td></tr>
  <tr><td>74</td><td>Social Event Mining in Large Photo Collections. <br/>Maia Zaharieva, Matthias Zeppelzauer, Manfred Del Fabro and Daniel Schopfhauser.</td></tr>
  <tr><td>136</td><td>Unified YouTube Video Recommendation via Cross-network Collaboration. <br/>Ming Yan, Jitao Sang and Changsheng Xu.</td></tr>
@@ -93,6 +93,69 @@
  <tr><td>179</td><td>Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections. <br/>Lei Meng and Chunyan Miao. </td></tr>
  <tr><td>217</td><td>Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation. <br/>Yingjie Xia, Qianqian Zhu and Wei Wei. </td></tr>
  <tr><td>223</td><td>Harvesting Multiple Sources for User Profile Learning: a Big Data Study. <br/>Aleksandr Farseev, Mohammad Akbari and Tat-Seng Chua. </td></tr>
+ <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters</th></tr>
+ <tr><th colspan="2"><a name="posterss"></a>Short Paper Posters</th></tr> 
+<tr><td>3</td><td>Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients. <br/>Jinhui Chen, Toru Nakashika, Tetsuya Takiguchi and Yasuo Ariki. </td></tr>
+<tr><td>4</td><td>Augmented Feature Fusion for Image Retrieval System. <br/>Yang Zhou, Dan Zeng, Shiliang Zhang and Qi Tian. </td></tr>
+<tr><td>30</td><td>Parallel AP Clustering and Re-ranking for Automatic Image-Text Alignment and Large-Scale Web Image Search. <br/>Jianping Fan. </td></tr>
+<tr><td>37</td><td>Accio: A Data Set for Face Track Retrieval in Movies Across Age. <br/>Esam Ghaleb, Makarand Tapaswi, Ziad Al-Halah, Hazim Kemal Ekenel and Rainer Stiefelhagen. </td></tr>
+<tr><td>38</td><td>A Two-step Approach to Cross-modal Hashing. <br/>Kaiye Wang, Wei Wang, Liang Wang and Ran He. </td></tr>
+<tr><td>39</td><td>Cross-Scenario Eyeglasses Retrieval via EGYPT Model. <br/>Xiaoling Gu, Pai Peng, Mengwen Li, Lidan Shou and Gang Chen. </td></tr>
+<tr><td>52</td><td>People News Search via Name-Face Association Analysis. <br/>Cheng Jin and Yuejie Zhang. </td></tr>
+<tr><td>57</td><td>Discovering the Latent Similarities of the KNN Graph by Metric Transformation. <br/>Zhenzhong Kuang, Zongmin Li, Yujie Liu and Jianping Fan. </td></tr>
+<tr><td>59</td><td>Formation period matters: Towards socially consistent group detection via dense subgraph seeking. <br/>Yanhao Zhang, Lei Qin, Shengping Zhang, Hongxun Yao and Qingming Huang. </td></tr>
+<tr><td>60</td><td>Memory vectors for particular object retrieval with multiple queries. <br/>Ronan Sicre and Hervé Jégou. </td></tr>
+<tr><td>62</td><td>Semantic-aware Hashing for Social Image Retrieval. <br/>Jinhui Tang and Zechao Li. </td></tr>
+<tr><td>67</td><td>Zero-shot Image Categorization via Image Correlation Exploration. <br/>Lianli Gao, Jingkuan Song, Junming Shao, Xiaofeng Zhu and Hengtao Shen. </td></tr>
+<tr><td>76</td><td>Deep Bottleneck Feature for Image Classification. <br/>Yan Song, Mcloughlin Ian and Li-Rong Dai. </td></tr>
+<tr><td>78</td><td>Maximally Visual-Homogeneous Region Detector for Large Scale Image Retrieval. <br/>Gang Wang, Ke Gao, Yongdong Zhang and Jintao Li. </td></tr>
+<tr><td>87</td><td>Rapid Clothing Retrieval via Deep Learning of Binary Codes and Hierarchical Search. <br/>Kevin Lin, Huei-Fang Yang, Kuan-Hsien Liu, Jen-Hao Hsiao and Chu-Song Chen. </td></tr>
+<tr><td>93</td><td>Information gain study for visual vocabulary construction. <br/>Huu Ton Le, Thierry Urruty, Syntyche Gbehounou, Francois Lecellier and Christine Fernandez. </td></tr>
+<tr><td>97</td><td>Discriminative Latent Feature Space Learning for Cross-Modal Retrieval. <br/>Xu Tang, Cheng Deng and Xinbo Gao. </td></tr>
+<tr><td>103</td><td>Image Retrieval by User-oriented Ranking. <br/>Xueming Qian, Dan Lu and Xiaoxiao Liu. </td></tr>
+<tr><td>105</td><td>Spatial Constraint for Image Location Estimation. <br/>Yisi Zhao and Xueming Qian. </td></tr>
+<tr><td>115</td><td>Shape-based Object Matching Using Point Context. <br/>Cong Yang, Christian Feinen, Oliver Tiebe, Kimiaki Shirahama and Marcin Grzegorzek. </td></tr>
+<tr><td>117</td><td>Large Scale Image Annotation via Deep Representation Learning and Tag Embedding Learning. <br/>Yonghao He, Jian Wang, Cuicui Kang, Shiming Xiang and Chunhong Pan. </td></tr>
+<tr><td>124</td><td>Probabilistic Matrix Factorization With Semantic And Visual Neighborhoods For Image Tag Completion. <br/>Dimitrios Rafailidis. </td></tr>
+<tr><td>129</td><td>Exploiting multiple web resources towards collecting positive training samples for visual concept learning. <br/>Olga Papadopoulou and Vasileios Mezaris. </td></tr>
+<tr><td>134</td><td>CRMActive : An Active Learning Based Approach For Effective Video Annotation And Retrieval. <br/>Moitreya Chatterjee and Anton Leuski. </td></tr>
+<tr><td>135</td><td>Personalized Egocentric Video Summarization for Cultural Experience. <br/>Patrizia Varini, Giuseppe Serra and Rita Cucchiara. </td></tr>
+<tr><td>140</td><td>EMIF: Towards a Scalable and Effective Indexing Framework for Large Scale Music Retrieval. <br/>Shen Jialie, Mei Tao, Dacheng Tao, Xuelong Li and Yong Rui. </td></tr>
+<tr><td>142</td><td>Specific Person Retrieval via Incomplete Text Description. <br/>Mang Ye, Chao Liang, Zheng Wang, Qingming Leng, Jun Chen and Jun Liu. </td></tr>
+<tr><td>146</td><td>Combining generic and specific information for cross-modal retrieval. <br/>Thi Quynh Nhi Tran, Hervé Le Borgne and Michel Crucianu. </td></tr>
+<tr><td>148</td><td>3D Sketch-Based 3D Model Retrieval. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Mario Gutierrez, Safiyah Sadiq, Bradley Strylowski, Scott Forster and Natacha Feola. </td></tr>
+<tr><td>151</td><td>Boosting Prediction of Geo-location for Web Images Through Integrating Multiple Knowledge Sources. <br/>Hao Kuang, Shiai Zhu and Abdulmotaleb El Saddik. </td></tr>
+<tr><td>162</td><td>Expression Recognition from Visible Images with the Help of Thermal Images. <br/>Xiaoxiao Shi, Shangfei Wang and Yachen Zhu. </td></tr>
+<tr><td>164</td><td>Multi-facet Learning using Deep Convolutional Neural Network for Person-Related Categories in Photos. <br/>Liangliang Cao, Zhicheng Yan and John R. Smith. </td></tr>
+<tr><td>176</td><td>Sketch-based Image Retrieval via Shape Words. <br/>Changcheng Xiao, Changhu Wang, Liqing Zhang and Lei Zhang. </td></tr>
+<tr><td>180</td><td>Multiple Aesthetic Attribute Assessment by Exploiting Relations Among Aesthetic Attributes. <br/>Zhen Gao, Shangfei Wang and Qiang Ji. </td></tr>
+<tr><td>181</td><td>Emotion recognition from users' eeg signals using hierarchical bayesian model with privileged information. <br/>Zhen Gao and Shangfei Wang. </td></tr>
+<tr><td>184</td><td>Multi-Label Active Learning with Chi-Square Statistics for Image Classification. <br/>Chen Ye, Jian Wu, Victor S. Sheng, Shiquan Zhao, Pengpeng Zhao and Zhiming Cui. </td></tr>
+<tr><td>188</td><td>Multiple Measurements and Joint Dimensionality Reduction for Large Scale Image Search with Short Vectors. <br/>Filip Radenovic, Herve Jegou and Ondrej Chum. </td></tr>
+<tr><td>193</td><td>Exploring EEG for Object Detection and Retrieval. <br/>Eva Mohedano, Amaia Salvador, Sergi Porta, Xavier Giro-I-Nieto, Kevin McGuinness, Graham Healy and Noel O'Connor. </td></tr>
+<tr><td>221</td><td>Kernel Local Descriptors with Implicit Rotation Matching. <br/>Andrei Bursuc, Giorgos Tolias and Herve Jegou. </td></tr>
+<tr><td>229</td><td>Semantic Concept Annotation for User Generated Videos Using Soundtracks. <br/>Qin Jin, Junwei Liang, Xixi He, Gang Yang, Jieping Xu and Xirong Li. </td></tr>
+<tr><td>230</td><td>Automatic Image Annotation using Deep Learning Representations. <br/>Venkatesh N. Murthy, Subhransu Maji and R. Manmatha. </td></tr>
+<tr><td>231</td><td>“My Day in Review” Visually Summarising Noisy Lifelog Data. <br/>Soumyadeb Chowdhury, Philip J. McParlane, Md. Sadek Ferdous and Joemon Jose. </td></tr>
+<tr><td>232</td><td>Audio-Based Multimedia Event Detection with DNNs and Sparse Sampling. <br/>Khalid Ashraf, Benjamin Elizalde, Forrest Iandola, Matthew Moskewicz, Julia Bernd, Gerald Friedland and Kurt Keutzer. </td></tr>
+<tr><td>236</td><td>Learning Binary Codes for Hashing via Feature Decomposition. <br/>Xiao-Jiao Mao, Zhen-Fei Ju and Yu-Bin Yang. </td></tr>
+<tr><td>243</td><td>Multimodal Learning with Deep Boltzmann Machine for Emotion Prediction in User Generated Videos. <br/>Lei Pang and Chong-Wah Ngo. </td></tr>
+<tr><td>244</td><td>Improving Automatic Name-Face Association using Celebrity Images on the Web. <br/>Zhineng Chen, Bailan Feng, Chong-Wah Ngo, Caiyan Jia and Xiangsheng Huang. </td></tr>
+ <tr><th colspan="2"><a name="postershort"></a>Special Poster Session: Person Search and Verification from Rich Media Data</th></tr>
+<tr><td>96</td><td>End-to-End Photo-Sketch Generation via Fully Convolutional Representation Learning. <br/>Liliang Zhang, Liang Lin, Xian Wu, Shengyong Ding and Lei Zhang. </td></tr>
+<tr><td>166</td><td>Teaching Video Analytics Based on Human Behavior Mining. <br/>Jinxian Qin, Hong Lu, Yaqian Zhou and Heqing Ya. </td></tr>
+<tr><td>254</td><td>Multi-view Face Detection Using Deep Convolutional Neural Networks. <br/>Sachin Sudhakar Farfade, Mohammad Saberian and Li-Jia Li. </td></tr>
+ <tr><th colspan="2"><a name="demo"></a>Demos</th></tr> 
+<tr><td>100</td><td>Music Positioning and Annotation For Television Videos. <br/>Gang Yang, Jieping Xu and Xirong Li. </td></tr>
+<tr><td>149</td><td>KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Mario Gutierrez, Safiyah Sadiq, Bradley Strylowski, Scott Forster and Natacha Feola. </td></tr>
+<tr><td>153</td><td>An Improved System For Real-Time Scene Text Recognition. <br/>Haojin Yang, Cheng Wang, Xiaoyin Che, Sheng Luo and Christoph Meinel. </td></tr>
+<tr><td>198</td><td>DigInPix: visual named-entities identification in images and videos. <br/>Pierre Letessier, Nicolas Hervé, Alexis Joly, Hakim Nabi, Mathieu Derval and Olivier Buisson. </td></tr>
+<tr><td>256</td><td>Mobile Media Thumbnailing. <br/>Yingying Chen, Jinqiao Wang, Jing Liu and Hanqing Lu. </td></tr>
+<tr><td>257</td><td>IdeaPanel: A Large Scale Interactive Sketch-based Image Search System. <br/>Changcheng Xiao, Changhu Wang, Liqing Zhang and Lei Zhang. </td></tr>
+<tr><td>258</td><td>A Sparse Ensemble Learning System For Efficient Semantic Indexing. <br/>Sheng Tang, Hui Chen, Yu Li, Jun-Bin Xiao and Jin-Tao Li. </td></tr>
+<tr><td>260</td><td>A Multi-Sensory Gesture-Based Occupational Therapy Environment for Controlling Home Appliances. <br/>Ahmed Khan, Syed Osama Hussain, Ahmad Qamar, Dr. Mohamed Abdur Rahman and Saleh Basalamah. </td></tr>
+<tr><td>261</td><td>Incremental Multimodal Query Construction for Video Search. <br/>Shicheng Xu, Huan Li, Xiaojun Chang, Shoou-I Yu, Xingzhong Du, Xuanchong Li, Lu Jiang, Zexi Mao, Zhenzhong Lan, Susanne Burger and Alexander Hauptmann. </td></tr>
+
 </table>
 
           </div>
