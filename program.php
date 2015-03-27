@@ -192,7 +192,7 @@
       </div>
     </div>
     <hr class="featurette-divider">
-<a href="#" class="back-to-top" style="display: inline;">
+<a href="#" class="back-to-top">
 <i class="fa fa-arrow-up"></i>
 </a>
   </div><!-- /.container -->
