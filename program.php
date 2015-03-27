@@ -93,7 +93,33 @@
  <tr><td>179</td><td>Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections. <br/>Lei Meng and Chunyan Miao. </td></tr>
  <tr><td>217</td><td>Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation. <br/>Yingjie Xia, Qianqian Zhu and Wei Wei. </td></tr>
  <tr><td>223</td><td>Harvesting Multiple Sources for User Profile Learning: a Big Data Study. <br/>Aleksandr Farseev, Mohammad Akbari and Tat-Seng Chua. </td></tr>
- <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters</th></tr>
+ <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters (Oral papers will also be in this session)</th></tr>
+<tr><td>1</td><td>A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval. <br/>Wei-Ta Chu and Feng-Chi Chang. </td></tr>
+<tr><td>18</td><td>Describing Images with Hierarchical Concepts and Object Class Localization. <br/>Yahong Han and Guang Li. </td></tr>
+<tr><td>23</td><td>Supervised Multi-scale Locality Sensitive Hashing. <br/>Li Weng, I-Hong Jhuo, Miaojing Shi, Meng Sun, Wen-Huang Cheng and Laurent Amsaleg. </td></tr>
+<tr><td>53</td><td>A Novel Visual-Region-Descriptor-based Approach to Sketch-based Image Retrieval. <br/>Cheng Jin and Yuejie Zhang. </td></tr>
+<tr><td>63</td><td>Location Prediction of Social Images via Generative Model. <br/>Xiaoming Zhang and Zhoujun Li. </td></tr>
+<tr><td>69</td><td>Scalable Multimodal Search with Distributed Indexing by Sparse Hashing. <br/>André Mourão and Joao Magalhaes. </td></tr>
+<tr><td>73</td><td>Insight in Image Collections by Multimedia Pivot Tables. <br/>Marcel Worring and Dennis Koelma. </td></tr>
+<tr><td>82</td><td>Distribution Regularized Nonnegative Matrix Factorization for Transfer Visual Feature Learning. <br/>Yuchen Guo and Guiguang Ding. </td></tr>
+<tr><td>94</td><td>Heterogeneous Semantic Level Features Fusion for Action Recognition. <br/>Junjie Cai, Michele Merler, Sharath Pankanti and Qi Tian. </td></tr>
+<tr><td>101</td><td>Social Friend Recommendation Based on Network Correlation and Feature Co-Clustering. <br/>Shangrong Huang, Jian Zhang, Shiyang Lu and Xian-Sheng Hua. </td></tr>
+<tr><td>125</td><td>Improving Diversity in Image Search via Supervised Relevance Scoring. <br/>Eleftherios Spyromitros-Xioufis, Symeon Papadopoulos, Alexandru Lucian Ginsca, Adrian Popescu, Yiannis Kompatsiaris and Ioannis Vlahavas. </td></tr>
+<tr><td>126</td><td>Unsupervised Distance Learning by Rank Correlation Measures for Image Retrieval. <br/>Cesar Okada, Daniel C. G. Pedronette and Ricardo Torres. </td></tr>
+<tr><td>130</td><td>Exploring Pooling Strategies based on Idiosyncrasies of Spatio-Temporal Interest Points. <br/>Yuancheng Ye, Xiaodong Yang and Yingli Tian. </td></tr>
+<tr><td>133</td><td>Image-Text Cross-Modal Retrieval via Modality-Specific Feature Learning. <br/>Jian Wang, Yonghao He, Cuicui Kang, Shiming Xiang and Chunhong Pan. </td></tr>
+<tr><td>158</td><td>Location-Based Parallel Tag Completion for Geo-tagged Social Photo Retrieval. <br/>Jiaming Zhang, Shuhui Wang and Qingming Huang. </td></tr>
+<tr><td>161</td><td>Exploiting Spatial Relationship between Scenes for Hierarchical Video Geotagging. <br/>Yifang Yin, Luming Zhang and Roger Zimmermann. </td></tr>
+<tr><td>178</td><td>USING VIEWER’S FACIAL EXPRESSION AND HEART RATE FOR SPORTS VIDEO HIGHLIGHTS DETECTION. <br/>Prithwi Chakraborty, Ligang Zhang, Dian Tjondronegoro and Vinod Chandran. </td></tr>
+<tr><td>189</td><td>A Deep Neural Network for Modeling Music. <br/>Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, Wenqi He, Shangtong Zhang and Ziyuan Wang. </td></tr>
+<tr><td>201</td><td>Robust Seed Detection and Growing with Deep Convolutional Features for Scene Text Detection. <br/>Hailiang Xu and Feng Su. </td></tr>
+<tr><td>214</td><td>Swap Retrieval: Retrieving images of cats when the query shows a dog. <br/>Amir Ghodrati, Xu Jia, Marco Pedersoli and Tinne Tuytelaars. </td></tr>
+<tr><td>224</td><td>Graph Learning on K Nearest Neighbours for Automatic Image Annotation. <br/>Feng Su and Like Xue. </td></tr>
+<tr><td>227</td><td>Scalable organization of collections of motion capture data via quantitative and qualitative analysis. <br/>Songle Chen, Sun Zhengxing and Yan Zhang. </td></tr>
+<tr><td>240</td><td>Content-Based Video Search over 1 Million Videos with 1 Core in 1 Second. <br/>Shoou-I Yu, Lu Jiang, Zhongwen Xu, Yi Yang and Alexander Hauptmann. </td></tr>
+<tr><td>248</td><td>Bag-of-Fragments: Selecting and encoding video fragments for event detection and recounting. <br/>Pascal Mettes, Jan van Gemert, Spencer Cappallo, Thomas Mensink and Cees Snoek. </td></tr>
+<tr><td>251</td><td>Building A Deep Learning System for Video Classification: An In-depth Study. <br/>Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang and Xiangyang Xue. </td></tr>
+
  <tr><th colspan="2"><a name="posterss"></a>Short Paper Posters</th></tr> 
 <tr><td>3</td><td>Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients. <br/>Jinhui Chen, Toru Nakashika, Tetsuya Takiguchi and Yasuo Ariki. </td></tr>
 <tr><td>4</td><td>Augmented Feature Fusion for Image Retrieval System. <br/>Yang Zhou, Dan Zeng, Shiliang Zhang and Qi Tian. </td></tr>
