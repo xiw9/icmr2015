@@ -18,34 +18,33 @@
             <h1 class="panel-title">Program</h1>
           </div>
           <div class="panel-body" >
-            <p>Program at a glance:</p>
-<table class="table-program table table-hover table-bordered  ">
+<table class="table-program table table-bordered  ">
 <tr class="info"><th>Venue</th><th class="text-center">Fudan University</th><th colspan="3" class="text-center">International Convention Center</th></tr>
- <tr><td>Date</td><td>June 23 Tuesday Day 0</td><td>June 24 Wednesday Day 1</td><td>June 25 Thursday Day 2</td><td>June 26 Friday Day 3</td></tr>
+ <tr><td>Date</td><td>June 23 Tuesday</td><td>June 24 Wednesday</td><td>June 25 Thursday</td><td>June 26 Friday</td></tr>
  <tr><td>&nbsp;</td><td>Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Main Conference & Practitioner Day</td></tr>
  <tr><td>08:30am</td><td>&nbsp;</td><td>Registration</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>08:45am</td><td>Registration</td><td>Welcome and Introduction</td><td>Registration</td><td>Registration</td></tr>
- <tr><td>09:00am</td><td>TBA</td><td class="warning">Keynote 1</td><td class="warning">Keynote 2</td><td class="warning">Keynote 3 </td></tr>
+ <tr><td>09:00am</td><td>Details TBA</td><td class="warning">Keynote 1</td><td class="warning">Keynote 2</td><td class="warning">Keynote 3 </td></tr>
  <tr><td>09:20am</td><td>&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>09:40am</td><td>&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>10:00am</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
  <tr><td>10:20am</td><td>&nbsp;</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for MR</a></td><td class="warning">Invited Talks from Chinese Internet Industry</td></tr>
- <tr><td>10:40am</td><td>&nbsp;</td><td class="success">5 papers </td><td class="success">5 papers</td><td class="warning">TBA</td></tr>
+ <tr><td>10:40am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">Details TBA</td></tr>
  <tr><td>11:00am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:20am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:40am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr height="50"><td>12:00pm<br/>--<br/>1:20pm</td><td>&nbsp;</td><td>Lunch</td><td>Lunch</td><td>Lunch</td></tr>
  <tr><td>1:40pm</td><td>&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
- <tr><td>2:00pm</td><td>&nbsp;</td><td class="success">4 papers</td><td class="success">4 papers</td><td class="success">4 papers </td></tr>
+ <tr><td>2:00pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:20pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:40pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>3:00pm</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
  <tr><td>3:20pm</td><td>&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
- <tr><td>3:40pm</td><td>&nbsp;</td><td class="success">4 papers</td><td class="info">TBA</td><td class="danger">&nbsp;</td></tr>
+ <tr><td>3:40pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="info">Details TBA</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:00pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:20pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:40pm</td><td>&nbsp;</td><td class="danger"><a href="#postershort">Short Paper Posters</a> & <a href="#demo">Demos</a></td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
- <tr><td>5:00pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">4 papers</td><td class="danger">&nbsp;</td></tr>
+ <tr><td>5:00pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:20pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:40pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>6:00pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td>Conference Close</td></tr>
@@ -55,7 +54,6 @@
 </table>
 <hr>
 
-<p>Detailed Program:</p>
 <table class="table-program table table-hover table-bordered">
  <tr><th colspan="2"><a name="best"></a>Best Paper Session</th></tr>
  <tr><td>15</td><td>Image Classification and Retrieval are ONE. <br/>Lingxi Xie, Richang Hong, Bo Zhang and Qi Tian.</td></tr>
@@ -94,7 +92,7 @@
  <tr><td>179</td><td>Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections. <br/>Lei Meng and Chunyan Miao. </td></tr>
  <tr><td>217</td><td>Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation. <br/>Yingjie Xia, Qianqian Zhu and Wei Wei. </td></tr>
  <tr><td>223</td><td>Harvesting Multiple Sources for User Profile Learning: a Big Data Study. <br/>Aleksandr Farseev, Mohammad Akbari and Tat-Seng Chua. </td></tr>
- <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters (Oral papers will also be included)</th></tr>
+ <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters (note that all the above oral papers will also be presented in the full paper poster session)</th></tr>
 <tr><td>1</td><td>A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval. <br/>Wei-Ta Chu and Feng-Chi Chang. </td></tr>
 <tr><td>18</td><td>Describing Images with Hierarchical Concepts and Object Class Localization. <br/>Yahong Han and Guang Li. </td></tr>
 <tr><td>23</td><td>Supervised Multi-scale Locality Sensitive Hashing. <br/>Li Weng, I-Hong Jhuo, Miaojing Shi, Meng Sun, Wen-Huang Cheng and Laurent Amsaleg. </td></tr>
@@ -119,8 +117,8 @@
 <tr><td>227</td><td>Scalable organization of collections of motion capture data via quantitative and qualitative analysis. <br/>Songle Chen, Sun Zhengxing and Yan Zhang. </td></tr>
 <tr><td>240</td><td>Content-Based Video Search over 1 Million Videos with 1 Core in 1 Second. <br/>Shoou-I Yu, Lu Jiang, Zhongwen Xu, Yi Yang and Alexander Hauptmann. </td></tr>
 <tr><td>248</td><td>Bag-of-Fragments: Selecting and encoding video fragments for event detection and recounting. <br/>Pascal Mettes, Jan van Gemert, Spencer Cappallo, Thomas Mensink and Cees Snoek. </td></tr>
-<tr><td>251</td><td>Building A Deep Learning System for Video Classification: An In-depth Study. <br/>Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang and Xiangyang Xue. </td></tr>
- <tr><th colspan="2"><a name="posterss"></a>Short Paper Posters</th></tr> 
+<tr><td>251</td><td>Evaluating Two-Stream CNN for Video Classification. <br/>Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang and Xiangyang Xue. </td></tr>
+ <tr><th colspan="2"><a name="postershort"></a>Short Paper Posters</th></tr> 
 <tr><td>3</td><td>Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients. <br/>Jinhui Chen, Toru Nakashika, Tetsuya Takiguchi and Yasuo Ariki. </td></tr>
 <tr><td>4</td><td>Augmented Feature Fusion for Image Retrieval System. <br/>Yang Zhou, Dan Zeng, Shiliang Zhang and Qi Tian. </td></tr>
 <tr><td>30</td><td>Parallel AP Clustering and Re-ranking for Automatic Image-Text Alignment and Large-Scale Web Image Search. <br/>Jianping Fan. </td></tr>
@@ -167,7 +165,7 @@
 <tr><td>236</td><td>Learning Binary Codes for Hashing via Feature Decomposition. <br/>Xiao-Jiao Mao, Zhen-Fei Ju and Yu-Bin Yang. </td></tr>
 <tr><td>243</td><td>Multimodal Learning with Deep Boltzmann Machine for Emotion Prediction in User Generated Videos. <br/>Lei Pang and Chong-Wah Ngo. </td></tr>
 <tr><td>244</td><td>Improving Automatic Name-Face Association using Celebrity Images on the Web. <br/>Zhineng Chen, Bailan Feng, Chong-Wah Ngo, Caiyan Jia and Xiangsheng Huang. </td></tr>
- <tr><th colspan="2"><a name="postershort"></a>Special Poster Session: Person Search and Verification from Rich Media Data</th></tr>
+ <tr><th colspan="2"><a name="posterss"></a>Special Poster Session: Person Search and Verification from Rich Media Data</th></tr>
 <tr><td>96</td><td>End-to-End Photo-Sketch Generation via Fully Convolutional Representation Learning. <br/>Liliang Zhang, Liang Lin, Xian Wu, Shengyong Ding and Lei Zhang. </td></tr>
 <tr><td>166</td><td>Teaching Video Analytics Based on Human Behavior Mining. <br/>Jinxian Qin, Hong Lu, Yaqian Zhou and Heqing Ya. </td></tr>
 <tr><td>254</td><td>Multi-view Face Detection Using Deep Convolutional Neural Networks. <br/>Sachin Sudhakar Farfade, Mohammad Saberian and Li-Jia Li. </td></tr>
