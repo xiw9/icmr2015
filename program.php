@@ -17,21 +17,20 @@
             <h1 class="panel-title">Program</h1>
           </div>
           <div class="panel-body" >
-            <h3>Program at a glance</h3>
-<table class="table table-hover table-bordered ">
-<tr class="info"><th>Venue</th><th>Fudan University</th><th>International Convention Center</th><th>International Convention Center</th><th>International Convention Center</th></tr>
- <tr><td>Date</td><td>June 23 Tuesday</td><td>June 24 Wednesday</td><td>June 25 Thursday</td><td>June 26 Friday</td></tr>
- <tr><td>&nbsp;</td><td>Day 0: </td><td>Day 1: </td><td>Day 2: </td><td>Day 3: Main Conference &</td></tr>
- <tr><td>&nbsp;</td><td>Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Practitioner Day</td></tr>
+            <p>Program at a glance</p>
+<table class="table-program table table-hover table-bordered  ">
+<tr class="info"><th>Venue</th><th>Fudan University</th><th colspan="3">International Convention Center</th></tr>
+ <tr><td>Date</td><td>June 23 Tuesday (Day 0)</td><td>June 24 Wednesday (Day 1)</td><td>June 25 Thursday (Day 2)</td><td>June 26 Friday (Day 3)</td></tr>
+ <tr><td>&nbsp;</td><td>Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Main Conference & Practitioner Day</td></tr>
  <tr><td>08:30am</td><td>&nbsp;</td><td>Registration</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>08:45am</td><td>Registration</td><td>Welcome and Introduction</td><td>Registration</td><td>Registration</td></tr>
  <tr><td>09:00am</td><td>TBA</td><td>Keynote 1</td><td>Keynote 2</td><td>Keynote 3 </td></tr>
  <tr><td>09:20am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>09:40am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>10:00am</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>10:20am</td><td>&nbsp;</td><td>Oral 1: Image Retrieval</td><td>Oral 4: Analytical Methods for MR</td><td>Invited Talks from </td></tr>
- <tr><td>10:40am</td><td>&nbsp;</td><td>5 papers </td><td>5 papers</td><td>Chinese Internet Industry</td></tr>
- <tr><td>11:00am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>TBA</td></tr>
+ <tr><td>10:20am</td><td>&nbsp;</td><td>Oral 1: Image Retrieval</td><td>Oral 4: Analytical Methods for MR</td><td>Invited Talks from Chinese Internet Industry</td></tr>
+ <tr><td>10:40am</td><td>&nbsp;</td><td>5 papers </td><td>5 papers</td><td>TBA</td></tr>
+ <tr><td>11:00am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>11:20am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>11:40am</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>12:00pm</td><td>&nbsp;</td><td>Lunch</td><td>Lunch</td><td>Lunch</td></tr>
@@ -44,8 +43,8 @@
  <tr><td>2:20pm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>2:40pm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>3:00pm</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>3:20pm</td><td>&nbsp;</td><td>Oral 3: Concepts for MR</td><td>Panel Discussion</td><td>Full Paper Posters &</td></tr>
- <tr><td>3:40pm</td><td>&nbsp;</td><td>4 papers</td><td>TBA</td><td>Special Poster Session</td></tr>
+ <tr><td>3:20pm</td><td>&nbsp;</td><td>Oral 3: Concepts for MR</td><td>Panel Discussion</td><td>Full Paper Posters & Special Poster Session</td></tr>
+ <tr><td>3:40pm</td><td>&nbsp;</td><td>4 papers</td><td>TBA</td><td>&nbsp;</td></tr>
  <tr><td>4:00pm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>4:20pm</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>4:40pm</td><td>&nbsp;</td><td>Short Paper Posters & Demos</td><td>Special Oral Session</td><td>&nbsp;</td></tr>
