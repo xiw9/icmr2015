@@ -193,7 +193,7 @@
     </div>
     <hr class="featurette-divider">
 <a href="#" class="back-to-top" style="display: inline;">
-<i class="fa fa-arrow-circle-up"></i>
+<i class="fa fa-arrow-up"></i>
 </a>
   </div><!-- /.container -->
   <?php include 'php/footer.php' ?>
