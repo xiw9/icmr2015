@@ -119,7 +119,6 @@
 <tr><td>240</td><td>Content-Based Video Search over 1 Million Videos with 1 Core in 1 Second. <br/>Shoou-I Yu, Lu Jiang, Zhongwen Xu, Yi Yang and Alexander Hauptmann. </td></tr>
 <tr><td>248</td><td>Bag-of-Fragments: Selecting and encoding video fragments for event detection and recounting. <br/>Pascal Mettes, Jan van Gemert, Spencer Cappallo, Thomas Mensink and Cees Snoek. </td></tr>
 <tr><td>251</td><td>Building A Deep Learning System for Video Classification: An In-depth Study. <br/>Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang and Xiangyang Xue. </td></tr>
-
  <tr><th colspan="2"><a name="posterss"></a>Short Paper Posters</th></tr> 
 <tr><td>3</td><td>Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients. <br/>Jinhui Chen, Toru Nakashika, Tetsuya Takiguchi and Yasuo Ariki. </td></tr>
 <tr><td>4</td><td>Augmented Feature Fusion for Image Retrieval System. <br/>Yang Zhou, Dan Zeng, Shiliang Zhang and Qi Tian. </td></tr>
