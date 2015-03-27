@@ -93,7 +93,7 @@
  <tr><td>179</td><td>Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections. <br/>Lei Meng and Chunyan Miao. </td></tr>
  <tr><td>217</td><td>Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation. <br/>Yingjie Xia, Qianqian Zhu and Wei Wei. </td></tr>
  <tr><td>223</td><td>Harvesting Multiple Sources for User Profile Learning: a Big Data Study. <br/>Aleksandr Farseev, Mohammad Akbari and Tat-Seng Chua. </td></tr>
- <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters (Oral papers will also be in this session)</th></tr>
+ <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters</th></tr>
 <tr><td>1</td><td>A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval. <br/>Wei-Ta Chu and Feng-Chi Chang. </td></tr>
 <tr><td>18</td><td>Describing Images with Hierarchical Concepts and Object Class Localization. <br/>Yahong Han and Guang Li. </td></tr>
 <tr><td>23</td><td>Supervised Multi-scale Locality Sensitive Hashing. <br/>Li Weng, I-Hong Jhuo, Miaojing Shi, Meng Sun, Wen-Huang Cheng and Laurent Amsaleg. </td></tr>
@@ -191,7 +191,29 @@
       </div>
     </div>
     <hr class="featurette-divider">
+<a href="#" class="back-to-top" style="display: inline;">
+<i class="fa fa-arrow-circle-up"></i>
+</a>
   </div><!-- /.container -->
   <?php include 'php/footer.php' ?>
+<script>
+jQuery(document).ready(function() {
+    var offset = 250;
+    var duration = 300;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+        }
+    });
+
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
 </body>
 </html>
