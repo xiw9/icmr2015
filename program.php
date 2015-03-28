@@ -28,7 +28,7 @@
  <tr><td>09:20am</td><td>&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>09:40am</td><td>&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>10:00am</td><td>&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>10:20am</td><td>&nbsp;</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for Multimedia Retrieval</a></td><td class="warning">Invited Talks from Chinese Internet Industry</td></tr>
+ <tr><td>10:20am</td><td>&nbsp;</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for<br/>Multimedia Retrieval</a></td><td class="warning">Invited Talks from Chinese Internet Industry</td></tr>
  <tr><td>10:40am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">Details TBA</td></tr>
  <tr><td>11:00am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:20am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
