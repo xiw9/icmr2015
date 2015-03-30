@@ -111,7 +111,7 @@
 <tr><td>161</td><td>Exploiting Spatial Relationship between Scenes for Hierarchical Video Geotagging. <br/>Yifang Yin, Luming Zhang and Roger Zimmermann. </td></tr>
 <tr><td>178</td><td>USING VIEWER’S FACIAL EXPRESSION AND HEART RATE FOR SPORTS VIDEO HIGHLIGHTS DETECTION. <br/>Prithwi Chakraborty, Ligang Zhang, Dian Tjondronegoro and Vinod Chandran. </td></tr>
 <tr><td>189</td><td>A Deep Neural Network for Modeling Music. <br/>Pengjing Zhang, Xiaoqing Zheng, Wenqiang Zhang, Siyan Li, Sheng Qian, Wenqi He, Shangtong Zhang and Ziyuan Wang. </td></tr>
-<tr><td>201</td><td>Robust Seed Detection and Growing with Deep Convolutional Features for Scene Text Detection. <br/>Hailiang Xu and Feng Su. </td></tr>
+<tr><td>201</td><td>Robust Seed Localization and Growing with Deep Convolutional Features for Scene Text Detection. <br/>Hailiang Xu and Feng Su. </td></tr>
 <tr><td>214</td><td>Swap Retrieval: Retrieving images of cats when the query shows a dog. <br/>Amir Ghodrati, Xu Jia, Marco Pedersoli and Tinne Tuytelaars. </td></tr>
 <tr><td>224</td><td>Graph Learning on K Nearest Neighbours for Automatic Image Annotation. <br/>Feng Su and Like Xue. </td></tr>
 <tr><td>227</td><td>Scalable organization of collections of motion capture data via quantitative and qualitative analysis. <br/>Songle Chen, Sun Zhengxing and Yan Zhang. </td></tr>
