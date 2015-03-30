@@ -50,7 +50,7 @@
  <tr><td>6:00pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>6:20pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td>Conference Close</td></tr>
  <tr><td>6:40pm</td><td>&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
- <tr height="50"><td>7:00pm<br/>--late</td><td>&nbsp;</td><td>Reception: <br/>International Convention Center</td><td>Banquet: <br/>venue TBA</td><td>&nbsp;</td></tr>
+ <tr height="50"><td>7:00pm<br/>--late</td><td>&nbsp;</td><td>Reception: <br/>International Convention Center</td><td>Banquet: <br/>Venue TBA</td><td>&nbsp;</td></tr>
 </table>
 <hr>
 
