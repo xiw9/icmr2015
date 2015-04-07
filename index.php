@@ -82,7 +82,7 @@
           <p class="text-center">
           <img src="img/sponsor-tencent.png" style="height: 45px; padding-right: 20px;">
           <img src="img/sponsor-samsung.png" style="height: 65px; padding-right: 20px;">
-          <img src="img/sponsor-google.png" style="height: 70px;">
+          <img src="img/sponsor-google.png" style="height: 55px;">
           <img src="img/sponsor-visenze.png" style="height: 100px;">
           
           </p>
