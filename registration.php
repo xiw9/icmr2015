@@ -38,11 +38,11 @@
 </table>
 
 <h3>Date and Location</h3>
-<p>Tuesday, June 23, 2015<br />
+<p><b>Tuesday, June 23, 2015</b><br />
 Fudan University<br />
 220 Handan Rd, Shanghai, China<br />
 +86 21 6564 2222 </p>
-<p>Wednesday, June 24, 2015 &#8211; Friday, June 26, 2015<br/>
+<p><b>Wednesday, June 24, 2015 &#8211; Friday, June 26, 2015</b><br/>
 Shanghai International Convention Center <br/>
 2727 Binjiang Ave, Pudong, Shanghai, China <br/>
 +86 21 5037 0000</p>
