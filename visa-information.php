@@ -29,7 +29,7 @@
 <li>Also: <strong>your birthday, gender, and passport number</strong>.</li>
 </ul>
 <h3>Official Visa Support Letter</h3>
-<p>This is issued by the Foreign Affair Office of Fudan University (the official sponsoring host institution of WSDM 2015), which is a formal official visa support letter. In case where the visa application policy is rather restrictive at the Chinese embassy/consulate in your region/country, we suggest you choose this method. And please send your request email to ??? (<a href="mailto:???@???.com">???@???.com</a>) as early as possible, since we need more time to process this type of letters. If you think you need a copy of the official visa support letter, please include the following information in the email:</p>
+<p>This is issued by the Foreign Affair Office of Fudan University (the official sponsoring host institution of ICMR 2015), which is a formal official visa support letter. In case where the visa application policy is rather restrictive at the Chinese embassy/consulate in your region/country, we suggest you choose this method. And please send your request email to ??? (<a href="mailto:???@???.com">???@???.com</a>) as early as possible, since we need more time to process this type of letters. If you think you need a copy of the official visa support letter, please include the following information in the email:</p>
 <ul>
 <li>Your name (as it appears on your passport) and mailing address;</li>
 <li>A copy of the first page (that includes your photo and passport number ) of your passport;</li>

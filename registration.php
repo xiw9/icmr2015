@@ -20,17 +20,17 @@
 
 
 <table class="table table-bordered">
-<tr><th>Early Birds (On or before May 19, 2015)</th>
+<tr class="info"><th>Early Birds (On or before May 19, 2015)</th>
 <th>ACM Member</th><th>Non-ACM Member</th><th>Student Member</th></tr>
 <tr><td>Main Conference</td><td>$600.00</td><td>$700.00</td><td>$300.00</td></tr>
 <tr><td>Workshop</td><td>$150.00</td><td>$200.00</td><td>$100.00</td></tr>
 <tr><td>Tutorial</td><td>$150.00</td><td>$200.00</td><td>$100.00</td></tr>
-<tr><th>Regular (During Dec 20, 2014 and Jan 30, 2015)</th>
+<tr class="info"><th>Regular (During Dec 20, 2014 and Jan 30, 2015)</th>
 <th>ACM Member</th><th>Non-ACM Member</th><th>Student Member</th></tr>
 <tr><td>Main Conference</td><td>$600.00</td><td>$700.00</td><td>$300.00</td></tr>
 <tr><td>Workshop</td><td>$150.00</td><td>$200.00</td><td>$100.00</td></tr>
 <tr><td>Tutorial</td><td>$150.00</td><td>$200.00</td><td>$100.00</td></tr>
-<tr><th>On-site</th>
+<tr class="info"><th>On-site</th>
 <th>ACM Member</th><th>Non-ACM Member</th><th>Student Member</th></tr>
 <tr><td>Main Conference</td><td>$600.00</td><td>$700.00</td><td>$300.00</td></tr>
 <tr><td>Workshop</td><td>$150.00</td><td>$200.00</td><td>$100.00</td></tr>
