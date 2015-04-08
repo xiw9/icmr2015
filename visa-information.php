@@ -17,7 +17,6 @@
             <h1 class="panel-title">Visa Information</h1>
           </div>
           <div class="panel-body" >
-<h3>Visa Information</h3>
 <p>For those who need a visa to travel in China, we can issue an <strong>invitation letter</strong> or a <strong>visa support letter</strong> for your visa application. Visa application process varies at the Chinese embassies/consulates in different countries, and the requirements may even vary for your different personal situations. Please consult with the Chinese embassy/consulate where you are going to apply for the visa, if possible.</p>
 <h3>Invitation Letter</h3>
 <p>This is issued by the conference organization committee, which is an ordinary conference invitation letter. This is a quick and easy method, and the experiences indicate that this is good enough for most situations and most locations for applying for the visa. If you have completed the registration, you may request this invitation letter by sending an email to ??? (<a href="mailto:???@???.com">???@???.com</a>), including the following information:</p>
