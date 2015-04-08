@@ -17,7 +17,7 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-
+<p style="text-align: center;">Online registration will be closed at 23:59, Jun 22, 2015. Please <a href="https://www.regonline.com/acmicmr2015">register now!</a></p>
 <p style="text-align: center;"><a href="#prc-notice"><b>中国参会人员注册前请先看注意事项</b></a></p>
 
 <table class="table table-bordered">
