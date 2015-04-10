@@ -87,7 +87,7 @@
 		  <p><a href="http://homepage.fudan.edu.cn/chengjin/en/">Cheng Jin</a>, Fudan University, China</p>
 		  <hr>
 		  <h4>Web Chair</h4>
-		  <p>Xi Wang (xwang10 [at] fudan.edu.cn), Fudan University, China</p>
+		  <p><a href="mailto:xwang10@fudan.edu.cn">Xi Wang</a>, Fudan University, China</p>
 		
 	    </div>
 	  </div>
