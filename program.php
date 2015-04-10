@@ -147,7 +147,7 @@
 <tr><td>140</td><td>EMIF: Towards a Scalable and Effective Indexing Framework for Large Scale Music Retrieval. <br/>Shen Jialie, Mei Tao, Dacheng Tao, Xuelong Li and Yong Rui. </td></tr>
 <tr><td>142</td><td>Specific Person Retrieval via Incomplete Text Description. <br/>Mang Ye, Chao Liang, Zheng Wang, Qingming Leng, Jun Chen and Jun Liu. </td></tr>
 <tr><td>146</td><td>Combining generic and specific information for cross-modal retrieval. <br/>Thi Quynh Nhi Tran, Hervé Le Borgne and Michel Crucianu. </td></tr>
-<tr><td>148</td><td>3D Sketch-Based 3D Model Retrieval. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Mario Gutierrez, Safiyah Sadiq, Bradley Strylowski, Scott Forster and Natacha Feola. </td></tr>
+<tr><td>148</td><td>3D Sketch-Based 3D Model Retrieval. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Bradley Strylowski, Mario Gutierrez, Safiyah Sadiq, Scott Forster and Natacha Feola, Travis Bugerin. </td></tr>
 <tr><td>151</td><td>Boosting Prediction of Geo-location for Web Images Through Integrating Multiple Knowledge Sources. <br/>Hao Kuang, Shiai Zhu and Abdulmotaleb El Saddik. </td></tr>
 <tr><td>162</td><td>Expression Recognition from Visible Images with the Help of Thermal Images. <br/>Xiaoxiao Shi, Shangfei Wang and Yachen Zhu. </td></tr>
 <tr><td>164</td><td>Multi-facet Learning using Deep Convolutional Neural Network for Person-Related Categories in Photos. <br/>Liangliang Cao, Zhicheng Yan and John R. Smith. </td></tr>
@@ -171,7 +171,7 @@
 <tr><td>254</td><td>Multi-view Face Detection Using Deep Convolutional Neural Networks. <br/>Sachin Sudhakar Farfade, Mohammad Saberian and Li-Jia Li. </td></tr>
  <tr><th colspan="2"><a name="demo"></a>Demos</th></tr> 
 <tr><td>100</td><td>Music Positioning and Annotation For Television Videos. <br/>Gang Yang, Jieping Xu and Xirong Li. </td></tr>
-<tr><td>149</td><td>KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Mario Gutierrez, Safiyah Sadiq, Bradley Strylowski, Scott Forster and Natacha Feola. </td></tr>
+<tr><td>149</td><td>KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Bradley Strylowski, Mario Gutierrez, Safiyah Sadiq, Scott Forster and Natacha Feola, Travis Bugerin. </td></tr>
 <tr><td>153</td><td>An Improved System For Real-Time Scene Text Recognition. <br/>Haojin Yang, Cheng Wang, Xiaoyin Che, Sheng Luo and Christoph Meinel. </td></tr>
 <tr><td>198</td><td>DigInPix: visual named-entities identification in images and videos. <br/>Pierre Letessier, Nicolas Hervé, Alexis Joly, Hakim Nabi, Mathieu Derval and Olivier Buisson. </td></tr>
 <tr><td>256</td><td>Mobile Media Thumbnailing. <br/>Yingying Chen, Jinqiao Wang, Jing Liu and Hanqing Lu. </td></tr>
