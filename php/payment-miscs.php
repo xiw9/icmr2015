@@ -28,9 +28,9 @@ $transtype = "0001";
 //接口版本号，境内支付为 20070129，必填
 $version = "20070129";
 //页面返回地址(您服务器上可访问的URL)，最长80位，当用户完成支付后，银行页面会自动跳转到该页面，并POST订单结果信息，可选
-$pagereturl = 'http://www.icmr2015.org/checkout_result';
+$pagereturl = 'http://www.icmr2015.org/callback';
 //后台返回地址(您服务器上可访问的URL)，最长80位，当用户完成支付后，我方服务器会POST订单结果信息到该页面，必填
-$bgreturl ='http://www.icmr2015.org/checkout_result';
+$bgreturl ='http://www.icmr2015.org/callback';
 //$bgreturl = 'http://'.$_SERVER['HTTP_HOST'].__ROOT__.'/index.php?m=Payment&a=Chinapay';
 /************************
 	页面返回地址和后台返回地址的区别：
@@ -41,7 +41,7 @@ $bgreturl ='http://www.icmr2015.org/checkout_result';
 $gateid = "";
 //备注，最长60位，交易成功后会原样返回，可用于额外的订单跟踪等，可选
 
-$priv1 = $reg_longid."|".$email."|".$price;
+$priv1 = $email."|".$reg_id."|".$price;
 
 //按次序组合订单信息为待签名串
 $plain = $merid . $ordid . $transamt . $curyid . $transdate . $transtype . $priv1;

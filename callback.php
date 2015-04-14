@@ -5,8 +5,7 @@
   <title>Registration | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
-  <?php include 'php/register-miscs.php' ?>
-  <?php include 'php/payment-miscs.php' ?>
+  <?php include 'php/callback-miscs.php' ?>
   <?php include 'php/navbar.php' ?>
   <div class="ord-header">
     <img class="img-responsive" src="img/header.jpg" alt="Scenery of Shanghai">
@@ -23,23 +22,14 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
               <table class="table table-striped">
-                <tr><td>Registration ID:</td><td><?php echo($reg_longid);?></td></tr>
-                <tr><td>Name:</td><td><?php echo($first_name." ".  $last_name); ?></td></tr>
+                <tr><td>Registration ID:</td><td><?php echo($orderno);?></td></tr>
                 <tr><td>Email: </td><td><?php echo($email); ?></td></tr>
-                <tr><td>Registration Type: </td><td><?php echo($reg_type_str); ?></td></tr>
-                <tr><td>Member Type: </td><td><?php echo($member_type_str); ?></td></tr>
-                <tr><td>Price: </td><td><b>$<?php echo($price); ?> USD</b></td></tr>
+                <tr><td>Payment: </td><td>$<?php echo($priceusd); ?> USD</td></tr>
+                <tr><td>Result: </td><td><?php echo($success); ?></td></tr>
               </table>
-              <form action="http://payment-test.ChinaPay.com/pay/TransGet" METHOD="post">
-                <?php echo($def_url); ?>
-                <button type="submit" class="btn btn-info">Checkout</button>
-              </form>
-
             </div>
             <div class="col-md-2"></div>
             </div>
-
-
           </div>
         </div>  
       </div>
@@ -48,7 +38,7 @@
       </div>
     </div>
     <hr class="featurette-divider">
-  </div>
+  </div><!-- /.container -->
   <?php include 'php/footer.php' ?>
 </body>
 </html>
