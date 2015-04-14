@@ -46,7 +46,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       if (mysqli_num_rows($result) > 0) {
           $row = mysqli_fetch_assoc($result);
           $date = date("YmdGis", strtotime($row["date"]));
-          $reg_longid=sprintf("%s%d",$date,$reg_id%10);
+          $reg_longid=sprintf("%s%2d",$date,$reg_id%100);
+
+          if (strcmp($email, $row["email"]) !==0){
+            die("Mysql Error");
+          }
+          if ($reg_type>0 && $reg_type <4 && $member_type>0 && $member_type<4){
+            $price=$price_array[$reg_type-1][$member_type-1];
+          }else{
+            die("Mysql Error");
+          }
+
           $reg_type=$row["reg_type"];
           switch ($reg_type) {
             case 1:
@@ -73,14 +83,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               break;
             $reg_type_str = "Error";
           }
-          if ($reg_type>0 && $reg_type <4 && $member_type>0 && $member_type<4){
-            $price=$price_array[$reg_type-1][$member_type-1];
-          }else{
-            die("Mysql Error");
-          }
-          if (strcmp($email, $row["email"]) !==0){
-            die("Mysql Error");
-          }
+
       } else {
           die("Mysql Error");
       }
