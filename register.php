@@ -82,7 +82,7 @@
     <label for="paper">Paper ID (Optional)</label>
     <input type="text" class="form-control" name="paper" placeholder="icmr073, icmr231s">
   </div>
-  <button type="submit" class="btn btn-info">Checkout</button>
+  <button type="submit" class="btn btn-info">Next</button>
 </form>            
           </div>
         </div>  

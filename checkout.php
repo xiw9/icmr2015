@@ -32,6 +32,7 @@
               </table>
               <form action="https://payment.ChinaPay.com/pay/TransGet" METHOD="post">
                 <?php echo($def_url); ?>
+                <button type="submit" class="btn btn-info">Checkout</button>
               </form>
 
             </div>

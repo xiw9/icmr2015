@@ -2,12 +2,8 @@
 include_once("netpayclient.php");
 
  //导入私钥文件, 返回值即为您的商户号，长度15位
-try {
+
 $merid = buildKey("MerPrK_808080201306302_20140826180021.key");
-} catch (Exception $e) {
-    echo 'Caught exception: ',  $e->getMessage(), "\n";
-}
-echo $merid;
 
 if(!$merid) {
     echo "Payment Error";
@@ -20,6 +16,7 @@ $ordid = $reg_longid;
 //订单金额，定长12位，以分为单位，不足左补0，必填
 $money = intval($price)*6.2;
 $money=$money*100;
+$money=1;
 $transamt = padstr($money,12);
 //dump("amt::::::::::::".$transamt);
 //货币代码，3位，境内商户固定为156，表示人民币，必填
@@ -58,17 +55,17 @@ if (!$chkvalue) {
     exit;
 }
 
-$def_url = "<input type=HIDDEN name='MerId' value='".$merid."'>";
-$def_url .= "<input type=HIDDEN name='OrdId' value='".$ordid."'>";
-$def_url .= "<input type=HIDDEN name='TransAmt'  value='".$transamt."'>";
-$def_url .= "<input type=HIDDEN name='CuryId'  value='".$curyid."'>";
-$def_url .= "<input type=HIDDEN name='TransDate' value='".$transdate."'>";
-$def_url .= "<input type=HIDDEN name='TransType' value='".$transtype."'>";
-$def_url .= "<input type=hidden name='Version' value='".$version."'/>";
-$def_url .= "<input type=HIDDEN name='BgRetUrl' value='".$bgreturl."'>";
-$def_url .= "<input type=HIDDEN name='PageRetUrl' value='".$pagereturl."'>";
-$def_url .= "<input type=HIDDEN name='GateId' value='".$gateid."'>";
-$def_url .= "<input type=HIDDEN name='Priv1' value='".$priv1."'>";
-$def_url .= "<input type=HIDDEN name='ChkValue' value='".$chkvalue."'>";  
+$def_url = "<input type=HIDDEN name='MerId' value='".$merid."'>\n";
+$def_url .= "<input type=HIDDEN name='OrdId' value='".$ordid."'>\n";
+$def_url .= "<input type=HIDDEN name='TransAmt'  value='".$transamt."'>\n";
+$def_url .= "<input type=HIDDEN name='CuryId'  value='".$curyid."'>\n";
+$def_url .= "<input type=HIDDEN name='TransDate' value='".$transdate."'>\n";
+$def_url .= "<input type=HIDDEN name='TransType' value='".$transtype."'>\n";
+$def_url .= "<input type=hidden name='Version' value='".$version."'/>\n";
+$def_url .= "<input type=HIDDEN name='BgRetUrl' value='".$bgreturl."'>\n";
+$def_url .= "<input type=HIDDEN name='PageRetUrl' value='".$pagereturl."'>\n";
+$def_url .= "<input type=HIDDEN name='GateId' value='".$gateid."'>\n";
+$def_url .= "<input type=HIDDEN name='Priv1' value='".$priv1."'>\n";
+$def_url .= "<input type=HIDDEN name='ChkValue' value='".$chkvalue."'>\n";  
 
 ?>
