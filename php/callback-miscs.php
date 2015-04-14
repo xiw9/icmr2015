@@ -41,4 +41,47 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 }
 
+function send_email(){
+
+$url = 'https://api.sendgrid.com/';
+$date = date_timestamp_get(date_create());
+
+$params = array(
+    'api_user'  => $sendgrid_user,
+    'api_key'   => $sendgrid_pass,
+    'to'        => $email,
+    'subject'   => 'Receipt for Your Payment to ICMR 2015',
+    'html'      => sprintf("
+    <p>Dear %s,</p>
+    <p>We received a payment of $%s USD at %s.</p>
+    <p>Your Registration ID is %s.</p>
+    <p>Thanks.</p>
+    ", $email, date_format($date, 'Y-m-d H:i:s') $priceusd, $orderno),
+    'from'      => 'admin@icmr2015.org',
+  );
+
+
+$request =  $url.'api/mail.send.json';
+
+// Generate curl request
+$session = curl_init($request);
+// Tell curl to use HTTP POST
+curl_setopt ($session, CURLOPT_POST, true);
+// Tell curl that this is the body of the POST
+curl_setopt ($session, CURLOPT_POSTFIELDS, $params);
+// Tell curl not to return headers, but do return the response
+curl_setopt($session, CURLOPT_HEADER, false);
+// Tell PHP not to use SSLv3 (instead opting for TLS)
+curl_setopt($session, CURLOPT_SSLVERSION, CURL_SSLVERSION_TLSv1_2);
+curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
+
+// obtain response
+$response = curl_exec($session);
+curl_close($session);
+
+// print everything out
+//print_r($response);
+
+}
+
 ?>
