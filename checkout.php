@@ -23,8 +23,7 @@
             <p>Registration ID: <?php echo($reg_longid); ?></p>
             <p>Name: <?php echo($first_name.$last_name); ?></p>
             <p>Email: <?php echo($email); ?></p>
-            <p>Registration Type:  <?php case($reg_type) {case 1: echo("Main Conference"); break; case 2: echo("Workshops"); break; case 3: echo("Tutorials"); break; echo("Error, please try again.");} ?></p>
-            <p>Member Type: <?php case($member_type) {case 1: echo("ACM Member"); break; case 2: echo("Non-ACM Member"); break; case 3: echo("Student"); break; echo("Error, please try again.");} ?></p>
+
 
           </div>
         </div>  
