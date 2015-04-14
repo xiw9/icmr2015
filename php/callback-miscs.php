@@ -35,13 +35,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
+			send_email(sprintf("
+			    <p>Dear %s,</p>
+			    <p>We received a payment of $%s USD at %s.</p>
+			    <p>Your Registration ID is %s.</p>
+			    <p>Thanks.</p>
+			    ", $email, date_format($date, 'Y-m-d H:i:s') $priceusd, $orderno));
 		}
 		mysqli_close($conn);
 	}
 
 }
 
-function send_email(){
+function send_email($html){
 
 $url = 'https://api.sendgrid.com/';
 $date = date_timestamp_get(date_create());
@@ -51,12 +57,7 @@ $params = array(
     'api_key'   => $sendgrid_pass,
     'to'        => $email,
     'subject'   => 'Receipt for Your Payment to ICMR 2015',
-    'html'      => sprintf("
-    <p>Dear %s,</p>
-    <p>We received a payment of $%s USD at %s.</p>
-    <p>Your Registration ID is %s.</p>
-    <p>Thanks.</p>
-    ", $email, date_format($date, 'Y-m-d H:i:s') $priceusd, $orderno),
+    'html'      => $html,
     'from'      => 'admin@icmr2015.org',
   );
 
