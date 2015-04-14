@@ -24,7 +24,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$email = $data1[0];
 	$reg_id = intval($data1[1]);
 	$priceusd = intval($data1[2]);
-	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
+	$plain = $merid . $orderno . $amount . $currencycode . $transdate . $transtype . $status . $checkvalue;
+	//$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
+	$flag  =  verify($plain, $checkvalue);
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
 	echo ".....".$flag;
 	if($flag && ($status == '1001')){
