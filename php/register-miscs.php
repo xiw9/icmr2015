@@ -35,12 +35,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $reg_id=0;
   if (mysqli_query($conn, $sql)) {
       $reg_id=mysqli_insert_id($conn);
-      $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` 
-      FROM `icmr2015`.`registration` WHERE `id`='%d'", $reg_id);
+      $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` FROM `icmr2015`.`registration` WHERE `id`='%d'", $reg_id);
       $result = mysqli_query($conn, $sql);
       if (mysqli_num_rows($result) > 0) {
           $row = mysqli_fetch_assoc($result);
           $date = date("YmdGis", strtotime($row["date"]));
+          $reg_longid=sprintf("%s%d",$date,$reg_id%10);
+          $reg_type=$row["reg_type"];
+          $member_type=$row["member_type"];
           if (strcmp($email, $row["email"]) !==0){
             die("Mysql Error");
           }
