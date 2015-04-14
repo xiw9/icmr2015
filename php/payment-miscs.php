@@ -14,9 +14,7 @@ if(!$merid) {
 //生成订单号，定长16位，任意数字组合，一天内不允许重复，本例采用当前时间戳，必填
 $ordid = $reg_longid;
 //订单金额，定长12位，以分为单位，不足左补0，必填
-$money = intval($price)*6.2;
-$money=$money*100;
-$money=1;
+$money = intval($price)*625;
 $transamt = padstr($money,12);
 //dump("amt::::::::::::".$transamt);
 //货币代码，3位，境内商户固定为156，表示人民币，必填
@@ -42,7 +40,7 @@ $bgreturl ='http://www.icmr2015.org/checkout_result';
 $gateid = "";
 //备注，最长60位，交易成功后会原样返回，可用于额外的订单跟踪等，可选
 
-$priv1 = $email."|".$reg_longid."|".$price;
+$priv1 = $reg_longid."|".$email."|".$price;
 
 //按次序组合订单信息为待签名串
 $plain = $merid . $ordid . $transamt . $curyid . $transdate . $transtype . $priv1;
