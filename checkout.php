@@ -5,6 +5,7 @@
   <title>Registration | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
+  
   <?php include 'php/register-miscs.php' ?>
   <?php include 'php/navbar.php' ?>
   <div class="ord-header">

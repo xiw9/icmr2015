@@ -8,18 +8,18 @@ $member_id = $paper = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-  $email = test_input($_POST["email"]);
-  $first_name = test_input($_POST["first_name"]);
-  $last_name = test_input($_POST["last_name"]);
-  $institution = test_input($_POST["institution"]);
-  $address = test_input($_POST["address"]);
-  $city = test_input($_POST["city"]);
-  $country = test_input($_POST["country"]);
-  $phone = test_input($_POST["phone"]);
-  $reg_type = intval(test_input($_POST["reg_type"]));
-  $member_type = intval(test_input($_POST["member_type"]));
-  $member_id = test_input($_POST["member_id"]);
-  $paper = test_input($_POST["paper"]);
+  $email = mysql_real_escape_string($_POST["email"]);
+  $first_name = mysql_real_escape_string($_POST["first_name"]);
+  $last_name = mysql_real_escape_string($_POST["last_name"]);
+  $institution = mysql_real_escape_string($_POST["institution"]);
+  $address = mysql_real_escape_string($_POST["address"]);
+  $city = mysql_real_escape_string($_POST["city"]);
+  $country = mysql_real_escape_string($_POST["country"]);
+  $phone = mysql_real_escape_string($_POST["phone"]);
+  $reg_type = intval(mysql_real_escape_string($_POST["reg_type"]));
+  $member_type = intval(mysql_real_escape_string($_POST["member_type"]));
+  $member_id = mysql_real_escape_string($_POST["member_id"]);
+  $paper = mysql_real_escape_string($_POST["paper"]);
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   if ($conn->connect_error) {
@@ -57,9 +57,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 }
 
-function test_input($data) {
-  $data = mysql_real_escape_string($data);
-  return $data;
-}
 
 ?>
