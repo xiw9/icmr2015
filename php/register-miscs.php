@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   if ($conn->connect_error) {
-      die("Connection failed: " . $conn->connect_error);
+      die("Mysql Error");
   } 
 
   $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`email`, `first_name`, `last_name`, 
@@ -35,6 +35,21 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $reg_id=0;
   if (mysqli_query($conn, $sql)) {
       $reg_id=mysqli_insert_id($conn);
+      $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` 
+      FROM `icmr2015`.`registration` WHERE `id`='%d'", $reg_id);
+      $result = mysqli_query($conn, $sql);
+      if (mysqli_num_rows($result) > 0) {
+          $row = mysqli_fetch_assoc($result);
+          $date = date("YmdGis", strtotime($row["date"]));
+          if (strcmp($email, $row["email"]) !==0){
+            die("Mysql Error");
+          }
+      } else {
+          die("Mysql Error");
+      }
+
+
+
   } else {
       echo "Error: " . $sql . "<br>" . mysqli_error($conn);
   }
