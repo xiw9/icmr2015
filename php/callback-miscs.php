@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
-			send_email(sprintf("
+			send_email($email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received a payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 }
 
-function send_email($html){
+function send_email($email,$html){
 
 $url = 'https://api.sendgrid.com/';
 $date = date_timestamp_get(date_create());
@@ -73,7 +73,7 @@ curl_setopt ($session, CURLOPT_POSTFIELDS, $params);
 // Tell curl not to return headers, but do return the response
 curl_setopt($session, CURLOPT_HEADER, false);
 // Tell PHP not to use SSLv3 (instead opting for TLS)
-curl_setopt($session, CURLOPT_SSLVERSION, CURL_SSLVERSION_TLSv1_2);
+//curl_setopt($session, CURLOPT_SSLVERSION, CURL_SSLVERSION_TLSv1_2);
 curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
 
 // obtain response
