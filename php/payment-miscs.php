@@ -18,7 +18,7 @@ if(!$merid) {
 $ordid = $reg_longid;
 //订单金额，定长12位，以分为单位，不足左补0，必填
 $money = intval($price)*625;
-$money = 3;
+$money = 50;
 $transamt = padstr($money,12);
 //dump("amt::::::::::::".$transamt);
 //货币代码，3位，境内商户固定为156，表示人民币，必填
