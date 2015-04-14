@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   if ($conn->connect_error) {
-      die("Mysql Error");
+      echo("Mysql Connection Error");
   } 
 
   $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`email`, `first_name`, `last_name`, 
@@ -44,16 +44,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $reg_type=$row["reg_type"];
           $member_type=$row["member_type"];
           if (strcmp($email, $row["email"]) !==0){
-            die("Mysql Error");
+            echo("Mysql Error");
           }
       } else {
-          die("Mysql Error");
+          echo("Mysql Error");
       }
-
-
-
   } else {
-      echo "Error: " . $sql . "<br>" . mysqli_error($conn);
+      echo("Mysql Error");
   }
   mysqli_close($conn);
 
