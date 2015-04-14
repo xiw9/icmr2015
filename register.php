@@ -11,8 +11,14 @@ function validateForm() {
         alert("Email must be filled out.");
         return false;
     }
-    var y = document.forms["register"]["member_type"].value;
+    var x = document.forms["register"]["first_name"].value;
+    var y = document.forms["register"]["last_name"].value;
+    if (x == null || x == ""||y == null || y == "") {
+        alert("Name must be filled out.");
+        return false;
+    }
     var x = document.forms["register"]["member_id"].value;
+    var y = document.forms["register"]["member_type"].value;
     if ((y==1  || y==3) && (x == null || x == "")) {
         alert("ACM ID or Student ID must be filled out.");
         return false;
