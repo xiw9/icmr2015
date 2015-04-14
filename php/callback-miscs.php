@@ -1,5 +1,5 @@
 <?php
-include("register.config.php");
+include_once("register.config.php");
 include_once("netpayclient.php");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
-			send_email($email,sprintf("
+			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received a payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 }
 
-function send_email($email,$html){
+function send_email($sendgrid_user,$sendgrid_pass,$email,$html){
 
 $url = 'https://api.sendgrid.com/';
 
