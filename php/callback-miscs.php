@@ -1,5 +1,5 @@
 <?php
-include_once("register.config.php");
+include("register.config.php");
 include_once("netpayclient.php");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -49,7 +49,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 function send_email($email,$html){
 
-include_once("register.config.php");
 $url = 'https://api.sendgrid.com/';
 
 $params = array(
