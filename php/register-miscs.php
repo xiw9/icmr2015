@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $result = mysqli_query($conn, $sql);
       if (mysqli_num_rows($result) > 0) {
           $row = mysqli_fetch_assoc($result);
-          $date = date("YmdGIS", strtotime($row["date"]));
+          $date = date("YmdHis", strtotime($row["date"]));
           $reg_longid=sprintf("%s%'.02d",$date,$reg_id%100);
 
           if (strcmp($email, $row["email"]) !==0){
