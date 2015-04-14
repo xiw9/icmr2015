@@ -19,8 +19,8 @@
           </div>
           <div class="panel-body" >
             <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
               <table class="table table-striped">
                 <tr><td>Registration ID:</td><td><?php echo($reg_longid);?></td></tr>
                 <tr><td>Name:</td><td<?php echo($first_name." ".  $last_name); ?>></td></tr>
@@ -30,7 +30,7 @@
                 <tr><td>Price: </td><td><?php echo($price); ?></td></tr>
               </table>
             </div>
-            <div class="col-md-4"></div>
+            <div class="col-md-2"></div>
             </div>
 
 
