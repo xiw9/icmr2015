@@ -55,8 +55,7 @@ if (!$chkvalue) {
     exit;
 }
 
-$def_url  = '<body onload="form_run()"><body><form id="form1" style="text-align:center;" method=post action="https://payment.chinapay.com/pay/TransGet" >';
-$def_url .= "<input type=HIDDEN name='MerId' value='".$merid."'>";
+$def_url = "<input type=HIDDEN name='MerId' value='".$merid."'>";
 $def_url .= "<input type=HIDDEN name='OrdId' value='".$ordid."'>";
 $def_url .= "<input type=HIDDEN name='TransAmt'  value='".$transamt."'>";
 $def_url .= "<input type=HIDDEN name='CuryId'  value='".$curyid."'>";
@@ -68,8 +67,5 @@ $def_url .= "<input type=HIDDEN name='PageRetUrl' value='".$pagereturl."'>";
 $def_url .= "<input type=HIDDEN name='GateId' value='".$gateid."'>";
 $def_url .= "<input type=HIDDEN name='Priv1' value='".$priv1."'>";
 $def_url .= "<input type=HIDDEN name='ChkValue' value='".$chkvalue."'>";  
-//$def_url .= "<input type='submit' class='paybutton' value='pay'>";
-$def_url .= "</form> <script language='JavaScript' type='text/JavaScript'> function form_run(){document.getElementById('form1').submit(); }
-</script> </body>";
 
 ?>
