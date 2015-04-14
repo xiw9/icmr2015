@@ -17,7 +17,7 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-<form method="post" action="checkout">
+<form name="register" method="post" action="checkout" onsubmit="return validateForm()">
   <div class="form-group">
     <label for="email">Email address</label>
     <input type="email" class="form-control" name="email" placeholder="john.smith@gmail.com">
@@ -94,5 +94,22 @@
     <hr class="featurette-divider">
   </div><!-- /.container -->
   <?php include 'php/footer.php' ?>
+
+<script type="text/javascript">
+function validateForm() {
+    var x = document.forms["register"]["email"].value;
+    if (x == null || x == "") {
+        alert("Email must be filled out.");
+        return false;
+    }
+    var y = document.forms["register"]["member_type"].value;
+    var x = document.forms["register"]["member_type"].value;
+    if ((y==1  || y==3) && (x == null || x == "") {
+        alert("ACM ID or Student ID must be filled out.");
+        return false;
+    }
+}
+</script>
+
 </body>
 </html>
