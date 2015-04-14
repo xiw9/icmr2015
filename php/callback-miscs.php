@@ -35,13 +35,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
-			$date = date_timestamp_get(date_create());
 			send_email($email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received a payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
 			    <p>Thanks.</p>
-			    ", $email, date_format($date, 'Y-m-d H:i:s'), $priceusd, $orderno));
+			    ", $email, time('Y-m-d H:i:s'), $priceusd, $orderno));
 		}
 		mysqli_close($conn);
 	}
