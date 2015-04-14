@@ -37,9 +37,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			$success="Success!";
 			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
 			    <p>Dear %s,</p>
-			    <p>We received a payment of $%s USD at %s.</p>
+			    <p>We received your payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
-			    <p>Thanks.</p>
+			    <p>Best Regards.</p>
 			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno));
 		}
 		mysqli_close($conn);
@@ -75,8 +75,6 @@ $mail->Body    = $html;
 if(!$mail->send()) {
     echo 'Message could not be sent.';
     echo 'Mailer Error: ' . $mail->ErrorInfo;
-} else {
-    echo 'Message has been sent';
 }
 
 }
