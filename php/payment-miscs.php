@@ -1,15 +1,16 @@
 <?php
 include_once("netpayclient.php");
+include_once("netpayclient_config.php");
+
 echo "...";
  //导入私钥文件, 返回值即为您的商户号，长度15位
 $merid = buildKey("MerPrK_808080201306302_20140826180021.key");
-
+echo $merid;
 
 if(!$merid) {
     echo "Payment Error";
     exit;
 } 
-echo $merid;
 
 //$merid = "808080201306302";
 //生成订单号，定长16位，任意数字组合，一天内不允许重复，本例采用当前时间戳，必填
