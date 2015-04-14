@@ -35,6 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
+			$date = date_timestamp_get(date_create());
 			send_email($email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received a payment of $%s USD at %s.</p>
@@ -49,8 +50,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 function send_email($email,$html){
 
+include_once("register.config.php");
 $url = 'https://api.sendgrid.com/';
-$date = date_timestamp_get(date_create());
 
 $params = array(
     'api_user'  => $sendgrid_user,
