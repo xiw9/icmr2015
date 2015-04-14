@@ -26,12 +26,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       echo("Mysql Connection Error");
   } 
 
-  $sql = sprintf("INSERT INTO `icmr2015`.`registration` (email, first_name, last_name, 
+  $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`email`, `first_name`, `last_name`, 
     `institution`, `address`, `city`, `country`, `phone`, `member_type`, `member_id`, `reg_type`, `paper`) 
   VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
     $email, $first_name, $last_name, $institution, $address, $city, $country, $phone, $member_type, 
     $member_id, $reg_type, $paper);
-
+  echo($sql);
   $reg_id=0;
   $reg_longid="";
   if (mysqli_query($conn, $sql)) {
