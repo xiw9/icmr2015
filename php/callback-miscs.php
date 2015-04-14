@@ -26,9 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$priceusd = intval($data1[2]);
 	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
-	echo ".....".$flag;
 	if($flag && ($status == '1001')){
-		echo ".....".$flag;
 		$conn = new mysqli($servername, $username, $password, $dbname);
 		if ($conn->connect_error) {
 		  die("Mysql Connection Error");
