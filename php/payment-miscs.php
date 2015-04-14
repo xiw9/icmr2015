@@ -3,8 +3,10 @@ include_once("netpayclient.php");
 
  //导入私钥文件, 返回值即为您的商户号，长度15位
 
-//$merid = buildKey("MerPrK_808080201306302_20140826180021.key");
-$merid = buildKey("MerPrk.key");
+$merid = buildKey("MerPrK_808080201306302_20140826180021.key");
+
+//for test
+//$merid = buildKey("MerPrk.key");
 
 if(!$merid) {
     echo "Payment Error";
@@ -16,6 +18,7 @@ if(!$merid) {
 $ordid = $reg_longid;
 //订单金额，定长12位，以分为单位，不足左补0，必填
 $money = intval($price)*625;
+$money = 3;
 $transamt = padstr($money,12);
 //dump("amt::::::::::::".$transamt);
 //货币代码，3位，境内商户固定为156，表示人民币，必填
