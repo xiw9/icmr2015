@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			    <p>We received a payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
 			    <p>Thanks.</p>
-			    ", $email, time('Y-m-d H:i:s'), $priceusd, $orderno));
+			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno));
 		}
 		mysqli_close($conn);
 	}
@@ -49,38 +49,35 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 function send_email($sendgrid_user,$sendgrid_pass,$email,$html){
 
-$url = 'https://api.sendgrid.com/';
+require 'phpMailer/PHPMailerAutoload.php';
 
-echo $sendgrid_user.$html;
-$params = array(
-    'api_user'  => $sendgrid_user,
-    'api_key'   => $sendgrid_pass,
-    'to'        => $email,
-    'subject'   => 'Receipt for Your Payment to ICMR 2015',
-    'html'      => $html,
-    'from'      => 'admin@icmr2015.org',
-  );
+$mail = new PHPMailer;
 
+//$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
-$request =  $url.'api/mail.send.json';
+$mail->isSMTP();                                      // Set mailer to use SMTP
+$mail->Host = 'smtp.sendgrid.net';  // Specify main and backup SMTP servers
+$mail->SMTPAuth = true;                               // Enable SMTP authentication
+$mail->Username = $sendgrid_user;                 // SMTP username
+$mail->Password = $sendgrid_pass;                           // SMTP password
+$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+$mail->Port = 587;                                    // TCP port to connect to
 
-// Generate curl request
-$session = curl_init($request);
-// Tell curl to use HTTP POST
-curl_setopt ($session, CURLOPT_POST, true);
-// Tell curl that this is the body of the POST
-curl_setopt ($session, CURLOPT_POSTFIELDS, $params);
-// Tell curl not to return headers, but do return the response
-curl_setopt($session, CURLOPT_HEADER, false);
-// Tell PHP not to use SSLv3 (instead opting for TLS)
-curl_setopt($session, CURLOPT_RETURNTRANSFER, true);
+$mail->From = 'admin@icmr2015.org';
+$mail->FromName = 'ICMR 2015';
+$mail->addAddress($email);    
+$mail->addReplyTo('xwang10@fudan.edu.cn', 'ICMR 2015 Web Chair');
 
-// obtain response
-$response = curl_exec($session);
-curl_close($session);
+$mail->isHTML(true); 
+$mail->Subject = 'Receipt for Your Payment to ICMR 2015';
+$mail->Body    = $html;
 
-// print everything out
-print_r($response);
+if(!$mail->send()) {
+    echo 'Message could not be sent.';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+} else {
+    echo 'Message has been sent';
+}
 
 }
 
