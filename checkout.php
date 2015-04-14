@@ -18,12 +18,21 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-            <p>Registration ID: <?php echo($reg_longid); ?></p>
-            <p>Name: <?php echo($first_name." ".  $last_name); ?></p>
-            <p>Email: <?php echo($email); ?></p>
-            <p>Registration Type: <?php echo($reg_type_str); ?></p>
-            <p>Member Type: <?php echo($member_type_str); ?></p>
-            <p>Price: <b>$<?php echo($price);?></b></p>
+            <div class="row">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+              <table class="table table-striped">
+                <tr><td>Registration ID:</td><td><?php echo($reg_longid);?></td></tr>
+                <tr><td>Name:</td><td<?php echo($first_name." ".  $last_name); ?>></td></tr>
+                <tr><td>Email: </td><td><?php echo($email); ?></td></tr>
+                <tr><td>Registration Type: </td><td><?php echo($reg_type_str); ?></td></tr>
+                <tr><td>Member Type: </td><td><?php echo($member_type_str); ?></td></tr>
+                <tr><td>Price: </td><td><?php echo($price); ?></td></tr>
+              </table>
+            </div>
+            <div class="col-md-4"></div>
+            </div>
+
 
           </div>
         </div>  
