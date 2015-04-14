@@ -19,11 +19,11 @@
           </div>
           <div class="panel-body" >
             <p>Registration ID: <?php echo($reg_longid); ?></p>
-            <p>Name: <?php echo($first_name.$last_name); ?></p>
+            <p>Name: <?php echo($first_name." ".  $last_name); ?></p>
             <p>Email: <?php echo($email); ?></p>
             <p>Registration Type: <?php echo($reg_type_str); ?></p>
             <p>Member Type: <?php echo($member_type_str); ?></p>
-            
+            <p>Price: <b>$<?php echo($price);?></b></p>
 
           </div>
         </div>  

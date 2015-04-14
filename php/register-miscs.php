@@ -1,5 +1,11 @@
 <?php
 include_once("register.config.php");
+$price_array = array(
+  array(650.0,750.0,425.0),
+  array(170.0,280.0,85.0),
+  array(170.0,280.0,85.0)
+  );
+
 
 $email = $first_name = $last_name = "";
 $institution = $address = $city = $country = $phone = "";
@@ -10,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   if ($conn->connect_error) {
-      echo("Mysql Connection Error");
+      die("Mysql Connection Error");
   } 
 
   $email = mysqli_real_escape_string($conn, $_POST["email"]);
@@ -31,7 +37,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
     $email, $first_name, $last_name, $institution, $address, $city, $country, $phone, $member_type, 
     $member_id, $reg_type, $paper);
-  echo($sql);
   $reg_id=0;
   $reg_longid="";
   if (mysqli_query($conn, $sql)) {
@@ -68,14 +73,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               break;
             $reg_type_str = "Error";
           }
+          if ($reg_type>0 && $reg_type <4 && $member_type>0 && $member_type<4){
+            $price=$price_array[$reg_type-1][$member_type-1];
+          }else{
+            die("Mysql Error");
+          }
           if (strcmp($email, $row["email"]) !==0){
-            echo("Mysql Error");
+            die("Mysql Error");
           }
       } else {
-          echo("Mysql Error");
+          die("Mysql Error");
       }
   } else {
-      echo("Mysql Error");
+      die("Mysql Error");
   }
   mysqli_close($conn);
 
