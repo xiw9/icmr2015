@@ -51,6 +51,7 @@ function send_email($sendgrid_user,$sendgrid_pass,$email,$html){
 
 $url = 'https://api.sendgrid.com/';
 
+echo $sendgrid_user.$html;
 $params = array(
     'api_user'  => $sendgrid_user,
     'api_key'   => $sendgrid_pass,
