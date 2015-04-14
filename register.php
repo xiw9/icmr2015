@@ -12,7 +12,7 @@ function validateForm() {
         return false;
     }
     var y = document.forms["register"]["member_type"].value;
-    var x = document.forms["register"]["member_type"].value;
+    var x = document.forms["register"]["member_id"].value;
     if ((y==1  || y==3) && (x == null || x == "")) {
         alert("ACM ID or Student ID must be filled out.");
         return false;
