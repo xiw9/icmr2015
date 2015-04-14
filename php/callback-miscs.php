@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			    <p>We received a payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
 			    <p>Thanks.</p>
-			    ", $email, date_format($date, 'Y-m-d H:i:s') $priceusd, $orderno));
+			    ", $email, date_format($date, 'Y-m-d H:i:s'), $priceusd, $orderno));
 		}
 		mysqli_close($conn);
 	}
