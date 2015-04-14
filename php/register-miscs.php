@@ -3,7 +3,7 @@ include_once("register.config.php");
 
 $email = $first_name = $last_name = "";
 $institution = $address = $city = $country = $phone = "";
-$reg_type = $member_type = 0
+$reg_type = $member_type = 0;
 $member_id = $paper = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -26,9 +26,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       die("Connection failed: " . $conn->connect_error);
   } 
 
-  $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`id`, `email`, `first_name`, `last_name`, 
+  $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`email`, `first_name`, `last_name`, 
     `institution`, `address`, `city`, `country`, `phone`, `member_type`, `member_id`, `reg_type`, `paper`) 
-  VALUES (NULL, '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
+  VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
     $email, $first_name, $last_name, $institution, $address, $city, $country, $phone, $member_type, 
     $member_id, $reg_type, $paper);
 
