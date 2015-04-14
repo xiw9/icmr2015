@@ -6,7 +6,6 @@
 </head>
 <body>
   <?php include 'php/register-miscs.php' ?>
-  <?php include 'php/payment-miscs.php' ?>
   <?php include 'php/navbar.php' ?>
   <div class="ord-header">
     <img class="img-responsive" src="img/header.jpg" alt="Scenery of Shanghai">
@@ -30,7 +29,7 @@
                 <tr><td>Member Type: </td><td><?php echo($member_type_str); ?></td></tr>
                 <tr><td>Price: </td><td><b>$<?php echo($price); ?> USD</b></td></tr>
               </table>
-              <form action="https://payment.ChinaPay.com/pay/TransGet" METHOD="post">
+              <form action="http://payment-test.ChinaPay.com/pay/TransGet" METHOD="post">
                 <?php echo($def_url); ?>
                 <button type="submit" class="btn btn-info">Checkout</button>
               </form>

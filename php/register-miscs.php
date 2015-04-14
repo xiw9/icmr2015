@@ -83,7 +83,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               break;
             $reg_type_str = "Error";
           }
-
+          include 'payment-miscs.php';
       } else {
           die("Mysql Error");
       }
