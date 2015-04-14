@@ -43,7 +43,31 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $date = date("YmdGis", strtotime($row["date"]));
           $reg_longid=sprintf("%s%d",$date,$reg_id%10);
           $reg_type=$row["reg_type"];
-          $member_type=$row["member_type"];
+          switch ($reg_type) {
+            case 1:
+              $reg_type_str = "Main Conference";
+              break;
+            case 2:
+              $reg_type_str = "Workshops";
+              break;             
+            case 3:
+              $reg_type_str = "Tutorials";
+              break;
+            $reg_type_str = "Error";
+          }
+         $member_type=$row["member_type"];
+          switch ($member_type) {
+            case 1:
+              $member_type_str = "ACM Member";
+              break;
+            case 2:
+              $member_type_str = "Non-ACM Member";
+              break;             
+            case 3:
+              $member_type_str = "Student";
+              break;
+            $reg_type_str = "Error";
+          }
           if (strcmp($email, $row["email"]) !==0){
             echo("Mysql Error");
           }

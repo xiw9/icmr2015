@@ -5,7 +5,6 @@
   <title>Registration | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
-  <?php echo($_POST["email"]);?>
   <?php include 'php/register-miscs.php' ?>
   <?php include 'php/navbar.php' ?>
   <div class="ord-header">
@@ -22,6 +21,10 @@
             <p>Registration ID: <?php echo($reg_longid); ?></p>
             <p>Name: <?php echo($first_name.$last_name); ?></p>
             <p>Email: <?php echo($email); ?></p>
+            <p>Registration Type: <?php echo($reg_type_str); ?></p>
+            <p>Member Type: <?php echo($member_type_str); ?></p>
+            
+
           </div>
         </div>  
       </div>
