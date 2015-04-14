@@ -3,7 +3,7 @@ include_once("netpayclient.php");
 
  //导入私钥文件, 返回值即为您的商户号，长度15位
 
-$merid = buildKey("MerPrK_808080201306302_20140826180021.key");
+//$merid = buildKey("MerPrK_808080201306302_20140826180021.key");
 $merid = buildKey("MerPrk.key");
 
 if(!$merid) {
