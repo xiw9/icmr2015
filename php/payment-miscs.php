@@ -10,7 +10,7 @@ if(!$merid) {
     echo "Payment Error";
     exit;
 } 
-
+echo $merid;
 //$merid = "808080201306302";
 //生成订单号，定长16位，任意数字组合，一天内不允许重复，本例采用当前时间戳，必填
 $ordid = $reg_longid;
