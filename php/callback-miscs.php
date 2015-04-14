@@ -7,6 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$pgid = buildKey("PgPubk.key");
 	if(!$pgid) {
 		echo "Payment Error";
+		exit;
 	} 
 
 	$merid = $_POST["merid"];
@@ -23,7 +24,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$email = $data1[0];
 	$reg_id = intval($data1[1]);
 	$priceusd = intval($data1[2]);
-
 	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
 	echo ".....".$flag;
