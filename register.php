@@ -17,7 +17,7 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-<form>
+<form method="post" action="checkout">
   <div class="form-group">
     <label for="email">Email address</label>
     <input type="email" class="form-control" id="email" placeholder="john.smith@gmail.com">
@@ -43,15 +43,15 @@
     <input type="text" class="form-control" id="city" placeholder="Shanghai">
   </div>
   <div class="form-group">
-    <label for="nationality">Country</label>
-    <input type="text" class="form-control" id="nationality" placeholder="China">
+    <label for="country">Country</label>
+    <input type="text" class="form-control" id="country" placeholder="China">
   </div>
   <div class="form-group">
     <label for="phone">Phone</label>
     <input type="text" class="form-control" id="phone" placeholder="+86 21 6564 2222">
   </div>
   <div class="form-group">
-    <label for="phone">Registration Type</label>
+    <label for="phone">Registration Type: </label>
       <label class="radio-inline">
         <input type="radio" name="reg_type" id="reg_type1" value="1" checked> Main Conference (including workshops and tutorials) 
       </label>
@@ -63,7 +63,7 @@
       </label>
   </div>
   <div class="form-group">
-    <label for="phone">Member Type</label>
+    <label for="phone">Member Type: </label>
       <label class="radio-inline">
         <input type="radio" name="member_type" id="member_type1" value="1" checked> ACM Member
       </label>
@@ -75,10 +75,14 @@
       </label>
   </div>
   <div class="form-group">
-    <label for="paper1">Paper ID (Optional)</label>
+    <label for="member_id">Member ID (Optional if selected Non-ACM Member before)</label>
+    <input type="text" class="form-control" id="member_id" placeholder="">
+  </div>
+  <div class="form-group">
+    <label for="paper">Paper ID (Optional)</label>
     <input type="text" class="form-control" id="paper" placeholder="icmr073, icmr231s">
   </div>
-  <button type="submit" class="btn btn-default">Checkout</button>
+  <button type="submit" class="btn btn-info">Checkout</button>
 </form>            
           </div>
         </div>  
