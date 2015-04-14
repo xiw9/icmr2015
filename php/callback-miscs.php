@@ -5,7 +5,6 @@ include_once("netpayclient.php");
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 	$pgid = buildKey("PgPubk.key");
-	echo $pgid;
 	if(!$pgid) {
 		echo "Payment Error";
 	} 
@@ -26,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$priceusd = intval($data1[2]);
 
 	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
-
+echo $flag;
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
 	if($flag && ($status == '1001')){
 		$conn = new mysqli($servername, $username, $password, $dbname);
