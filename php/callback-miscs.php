@@ -5,9 +5,9 @@ include_once("netpayclient.php");
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 	$pgid = buildKey("PgPubk.key");
-
+	echo $pgid;
 	if(!$pgid) {
-		die "Payment Error";
+		echo "Payment Error";
 	} 
 
 	$merid = $_POST["merid"];
