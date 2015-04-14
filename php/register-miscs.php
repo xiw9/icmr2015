@@ -33,6 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $member_id, $reg_type, $paper);
 
   $reg_id=0;
+  $reg_longid="";
   if (mysqli_query($conn, $sql)) {
       $reg_id=mysqli_insert_id($conn);
       $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` FROM `icmr2015`.`registration` WHERE `id`='%d'", $reg_id);
