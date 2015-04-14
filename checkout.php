@@ -31,7 +31,7 @@
                 <tr><td>Price: </td><td><b>$<?php echo($price); ?></b></td></tr>
               </table>
               <form action="https://payment.ChinaPay.com/pay/TransGet" METHOD="post">
-                <input type=hidden name="MerId" value="<?php echo($merid);?>"/>
+                <input type=hidden name="MerId" value=""/>
 
               </form>
 
