@@ -8,18 +8,18 @@ $member_id = $paper = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-  $email = mysql_real_escape_string($_POST["email"]);
-  $first_name = mysql_real_escape_string($_POST["first_name"]);
-  $last_name = mysql_real_escape_string($_POST["last_name"]);
-  $institution = mysql_real_escape_string($_POST["institution"]);
-  $address = mysql_real_escape_string($_POST["address"]);
-  $city = mysql_real_escape_string($_POST["city"]);
-  $country = mysql_real_escape_string($_POST["country"]);
-  $phone = mysql_real_escape_string($_POST["phone"]);
-  $reg_type = intval(mysql_real_escape_string($_POST["reg_type"]));
-  $member_type = intval(mysql_real_escape_string($_POST["member_type"]));
-  $member_id = mysql_real_escape_string($_POST["member_id"]);
-  $paper = mysql_real_escape_string($_POST["paper"]);
+  $email = mysqli_real_escape_string($_POST["email"]);
+  $first_name = mysqli_real_escape_string($_POST["first_name"]);
+  $last_name = mysqli_real_escape_string($_POST["last_name"]);
+  $institution = mysqli_real_escape_string($_POST["institution"]);
+  $address = mysqli_real_escape_string($_POST["address"]);
+  $city = mysqli_real_escape_string($_POST["city"]);
+  $country = mysqli_real_escape_string($_POST["country"]);
+  $phone = mysqli_real_escape_string($_POST["phone"]);
+  $reg_type = intval(mysqli_real_escape_string($_POST["reg_type"]));
+  $member_type = intval(mysqli_real_escape_string($_POST["member_type"]));
+  $member_id = mysqli_real_escape_string($_POST["member_id"]);
+  $paper = mysqli_real_escape_string($_POST["paper"]);
 
   $conn = new mysqli($servername, $username, $password, $dbname);
   if ($conn->connect_error) {
