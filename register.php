@@ -41,7 +41,7 @@ function validateForm() {
           </div>
           <div class="panel-body" >
 <div class="well">
-<p>Note: the payment system only supports Microsoft IE. We realized that this may cause trouble for some participants but do not have other better options. Please try to find a Windows computer to process the payment. If you cannot find one, please send an email to <a href="mailto:acmicmr2015@gmail.com">acmicmr2015@gmail.com</a>. We could provide a bank account to transfer the fee. </p>
+<p>Note: the payment system only supports Microsoft IE. We realized that this may cause trouble for some participants but do not have other better option. Please try to find a Windows computer to process the payment. If you cannot find one, please finish this form and send an email with your registration id to <a href="mailto:acmicmr2015@gmail.com">acmicmr2015@gmail.com</a>. We could provide a bank account to transfer the fee. </p>
 </div>
 <form name="register" method="post" action="checkout" onsubmit="return validateForm()">
   <div class="form-group">
