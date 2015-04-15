@@ -4,7 +4,7 @@ include_once("netpayclient.php");
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$pgid = buildKey("PgPubk.key");
-	//$pgid = buildKey("PgPubk-test.key");
+	$pgid = buildKey("PgPubk-test.key");
 	if(!$pgid) {
 		echo "Payment Error";
 		exit;
@@ -37,14 +37,24 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
 			if ($_GET["b"]=='0'){
-			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
-			    <p>Dear %s,</p>
-			    <p>We received your payment of $%s USD at %s.</p>
-			    <p>Your Registration ID is %s.</p>
-			    <p>The Paper ID is %s.</p>
-			    <p>Best Regards.</p>
-			    <p><small>For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
-			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno, $paper));
+				if ($paper!=='' && $paper!==' '){
+					send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
+				    <p>Dear %s,</p>
+				    <p>We received your payment of $%s USD at %s.</p>
+				    <p>Your Registration ID is %s.</p>
+				    <p>The Paper ID is %s.</p>
+				    <p>Best Regards.</p>
+				    <p><small>For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
+				    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno, $paper));
+				}else{
+					send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
+				    <p>Dear %s,</p>
+				    <p>We received your payment of $%s USD at %s.</p>
+				    <p>Your Registration ID is %s.</p>
+				    <p>Best Regards.</p>
+				    <p><small>For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
+				    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno));					
+				}
 			}
 
 		}
