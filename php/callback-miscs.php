@@ -23,7 +23,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$data1 = explode("|", $priv1);
 	$email = $data1[0];
 	$reg_id = intval($data1[1]);
-	$priceusd = intval($data1[2]);
+	$paper = intval($data1[2]);
+	$priceusd = intval($data1[3]);
 	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
 	if($flag && ($status == '1001')){
@@ -40,8 +41,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			    <p>Dear %s,</p>
 			    <p>We received your payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
+			    <p>The Paper ID is %s.</p>
 			    <p>Best Regards.</p>
-			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno));
+			    <p><small>Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
+			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno, $paper));
 			}
 
 		}
@@ -59,16 +62,17 @@ $mail = new PHPMailer;
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
+$mail->Host = 'smtp.sendgrid.net';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = $sendgrid_user;                 // SMTP username
 $mail->Password = $sendgrid_pass;                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 
-$mail->From = 'acmicmr2015@gmail.com';
-$mail->FromName = 'ICMR 2015';
-$mail->addAddress($email);    
+$mail->From = 'noreply@icmr2015.org';
+$mail->FromName = 'ICMR 2015 Register Systenm';
+$mail->addAddress($email);   
+$mail->addReplyTo('acmicmr2015@gmail.com', 'ICMR 2015 Finance Chair'); 
 
 $mail->isHTML(true); 
 $mail->Subject = 'Receipt for Your Payment to ICMR 2015';
