@@ -17,6 +17,14 @@
             <li><a href="/">Home</a></li>
             <li><a href="program">Program</a></li>
             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attending<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="visa-information">Visa Information</a></li>
+                <li><a href="conference_venue">Conference Venues</a></li>
+                <li><a href="about_shanghai">About Shanghai</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li class="dropdown-submenu">
@@ -51,13 +59,7 @@
               </ul>
             </li>
             <li><a href="organization">Organization</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Venue<span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="conference_venue">Conference Venues</a></li>
-                <li><a href="about_shanghai">About Shanghai</a></li>
-              </ul>
-            </li>
+
           </ul>
         </div>
       </div>
