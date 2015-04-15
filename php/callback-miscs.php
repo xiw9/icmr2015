@@ -36,16 +36,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
-			//if ($_GET["b"]=='0'){
+			if ($_GET["b"]=='0'){
 			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received your payment of $%s USD at %s.</p>
 			    <p>Your Registration ID is %s.</p>
 			    <p>The Paper ID is %s.</p>
 			    <p>Best Regards.</p>
-			    <p><small>Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
+			    <p><small>For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
 			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno, $paper));
-			//}
+			}
 
 		}
 		mysqli_close($conn);
