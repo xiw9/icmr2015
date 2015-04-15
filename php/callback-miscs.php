@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		} 
 		$sql = sprintf("INSERT INTO `icmr2015`.`transaction` (`registration_id`, `transaction_id`, `amount`, `usd`) 
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
-		if (mysqli_query($conn, $sql) && $_GET["b"]!=='0') {
+		if (mysqli_query($conn, $sql) && $_GET["b"]=='0') {
 			$success="Success!";
 			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
 			    <p>Dear %s,</p>
