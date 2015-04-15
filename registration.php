@@ -59,7 +59,7 @@
 <li>There is a full refund minus a $100 fee if you cancel on or before Jun 10, 2015.</li>
 <li>Refunds will not be offered after Jun 10, 2015.</li>
 </ul>
-<p>To cancel a registration, please log into the registration system and follow the cancellation guide.<br />
+<p>To cancel a registration, please email <a href="mailto:???@???.???">???@???.???</a> and include the registration ID and the email address. <br />
 
 <a id="prc-notice" name="prc-notice"></a></p>
 <h3>中国国内参会人员注册事项</h3>
