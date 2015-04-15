@@ -17,7 +17,7 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-<p style="text-align: center;">Online registration will be closed at 23:59, Jun 22, 2015. Please <a href="https://www.regonline.com/acmicmr2015">register now!</a></p>
+<p style="text-align: center;">Online registration will be closed at 23:59, Jun 22, 2015. Please <a href="http://www.icmr2015.org/register">register now!</a></p>
 <p style="text-align: center;"><a href="#prc-notice"><b>中国参会人员注册前请先看注意事项</b></a></p>
 
 <table class="table table-bordered">
@@ -70,7 +70,7 @@
 备注留言：姓名+注册号(Registration no.)+ICMR 2015</p>
 <p>请您在办理完汇款手续后，将<br />
 1) 汇款凭证（注明汇款单位或汇款人姓名）扫描件<br />
-2) 注册号 (Registration no.) 及注册人邮箱地址<br />
+2) 注册号 (Registration ID) 及注册人邮箱地址<br />
 发送到<a href="mailto:meeting@citssh.com">meeting@citssh.com</a> (或传真到021-63532801)，并同时发送至<a href="mailto:???@???.???">???@???.???</a>，以便核对。</p>
 
           </div>
