@@ -104,6 +104,7 @@ function validateForm() {
   <div class="form-group">
     <label for="paper">Paper ID (Optional)</label>
     <select class="form-control" name="paper">
+      <option> </option>
       <option>icmr001</option>
       <option>icmr003s</option>
       <option>icmr004s</option>
