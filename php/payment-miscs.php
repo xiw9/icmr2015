@@ -33,7 +33,7 @@ $version = "20070129";
 //页面返回地址(您服务器上可访问的URL)，最长80位，当用户完成支付后，银行页面会自动跳转到该页面，并POST订单结果信息，可选
 $pagereturl = 'http://www.icmr2015.org/callback';
 //后台返回地址(您服务器上可访问的URL)，最长80位，当用户完成支付后，我方服务器会POST订单结果信息到该页面，必填
-$bgreturl ='http://www.icmr2015.org/callback';
+$bgreturl ='http://www.icmr2015.org/callback?b=0';
 //$bgreturl = 'http://'.$_SERVER['HTTP_HOST'].__ROOT__.'/index.php?m=Payment&a=Chinapay';
 /************************
 	页面返回地址和后台返回地址的区别：
