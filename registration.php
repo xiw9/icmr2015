@@ -17,10 +17,10 @@
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
-<div>
-<p class="bg-primary">Online registration will be closed at 23:59, Jun 22, 2015. Please <a href="http://www.icmr2015.org/register"><button type="button" class="btn btn-success">Register Now!</button></a></p>
-</div>
+<div class="well">
+<h4>Online registration will be closed at 23:59, Jun 22, 2015. Please <a href="http://www.icmr2015.org/register"><button type="button" class="btn btn-success">Register Now!</button></a></h4>
 <p><a href="#prc-notice">中国参会人员注册前请先看注意事项</a></p>
+</div>
 
 <table class="table table-bordered">
 <tr class="info"><th>Early Birds (On or before May 10, 2015)</th>
