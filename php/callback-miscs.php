@@ -70,7 +70,7 @@ $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, 
 $mail->Port = 587;                                    // TCP port to connect to
 
 $mail->From = 'noreply@icmr2015.org';
-$mail->FromName = 'ICMR 2015 Register Systenm';
+$mail->FromName = 'ICMR 2015 Registration System';
 $mail->addAddress($email);   
 $mail->addReplyTo('acmicmr2015@gmail.com', 'ICMR 2015 Finance Chair'); 
 
