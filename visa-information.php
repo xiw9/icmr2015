@@ -32,10 +32,10 @@
 <ul>
 <li>Your name (as it appears on your passport) and mailing address;</li>
 <li>A copy of the first page (that includes your photo and passport number ) of your passport;</li>
-<li>The location of the Chinese consulate to which you will submit your visa application;</li>
+<li>The location of the Chinese consulate where you will submit your visa application;</li>
 <li>If you are an author of a paper accepted for the conference or a workshop, please provide the workshop name (if relevant), paper ID and the title;</li>
 <li>Your ICMR 2015 registration number;</li>
-<li>Include email address.</li>
+<li>Your email address.</li>
 </ul>
           </div>
         </div>  

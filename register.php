@@ -40,6 +40,9 @@ function validateForm() {
             <h1 class="panel-title">Registration</h1>
           </div>
           <div class="panel-body" >
+<div class="well">
+<p>Note: the payment system only supports Microsoft IE. We realized that this may cause trouble for some participants but do not have other better options. Please try to find a Windows computer to process the payment. If you cannot find one, please send an email to acmicmr2015@gmail.com. We could provide a bank account to transfer the fee. </p>
+</div>
 <form name="register" method="post" action="checkout" onsubmit="return validateForm()">
   <div class="form-group">
     <label for="email">Email address</label>
