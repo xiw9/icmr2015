@@ -59,17 +59,16 @@ $mail = new PHPMailer;
 //$mail->SMTPDebug = 3;                               // Enable verbose debug output
 
 $mail->isSMTP();                                      // Set mailer to use SMTP
-$mail->Host = 'smtp.sendgrid.net';  // Specify main and backup SMTP servers
+$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = $sendgrid_user;                 // SMTP username
 $mail->Password = $sendgrid_pass;                           // SMTP password
 $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587;                                    // TCP port to connect to
 
-$mail->From = 'admin@icmr2015.org';
+$mail->From = 'acmicmr2015@gmail.com';
 $mail->FromName = 'ICMR 2015';
 $mail->addAddress($email);    
-$mail->addReplyTo('xwang10@fudan.edu.cn', 'ICMR 2015 Web Chair');
 
 $mail->isHTML(true); 
 $mail->Subject = 'Receipt for Your Payment to ICMR 2015';
