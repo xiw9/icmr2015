@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$data1 = explode("|", $priv1);
 	$email = $data1[0];
 	$reg_id = intval($data1[1]);
-	$paper = intval($data1[2]);
+	$paper = $data1[2];
 	$priceusd = intval($data1[3]);
 	$flag = verifyTransResponse($merid, $orderno, $amount, $currencycode, $transdate, $transtype, $status, $checkvalue);
 	$success="Failure, please contact xwang10@fudan.edu.cn!";
@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
-			if ($_GET["b"]=='0'){
+			//if ($_GET["b"]=='0'){
 			send_email($sendgrid_user,$sendgrid_pass,$email,sprintf("
 			    <p>Dear %s,</p>
 			    <p>We received your payment of $%s USD at %s.</p>
@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 			    <p>Best Regards.</p>
 			    <p><small>Please do not reply to this email. This mailbox is not monitored and you will not receive a response. For assistance, please email <a href='mailto:acmicmr2015@gmail.com'>acmicmr2015@gmail.com</a> directly.</small></p>
 			    ", $email, $priceusd, date('Y-m-d H:i:s',time()), $orderno, $paper));
-			}
+			//}
 
 		}
 		mysqli_close($conn);
