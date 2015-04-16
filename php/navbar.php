@@ -19,6 +19,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attending<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
+                <li><a href="registration">Registration</a></li>
                 <li><a href="visa-information">Visa Information</a></li>
                 <li><a href="conference_venue">Conference Venues</a></li>
                 <li><a href="about_shanghai">About Shanghai</a></li>
