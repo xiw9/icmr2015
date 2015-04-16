@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $member_id = mysqli_real_escape_string($conn, $_POST["member_id"]);
   $paper = mysqli_real_escape_string($conn, $_POST["paper"]);
 
-  $sql = sprintf("INSERT INTO `icmr2015`.`registration` (`email`, `first_name`, `last_name`, 
+  $sql = sprintf("INSERT INTO `registration` (`email`, `first_name`, `last_name`, 
     `institution`, `address`, `city`, `country`, `phone`, `member_type`, `member_id`, `reg_type`, `paper`) 
   VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
     $email, $first_name, $last_name, $institution, $address, $city, $country, $phone, $member_type, 
@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $reg_longid="";
   if (mysqli_query($conn, $sql)) {
       $reg_id=mysqli_insert_id($conn);
-      $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` FROM `icmr2015`.`registration` WHERE `id`='%d'", $reg_id);
+      $sql = sprintf("SELECT `id`, `date`, `email`, `member_type`, `reg_type` FROM `registration` WHERE `id`='%d'", $reg_id);
       $result = mysqli_query($conn, $sql);
       if (mysqli_num_rows($result) > 0) {
           $row = mysqli_fetch_assoc($result);

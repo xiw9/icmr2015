@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		if ($conn->connect_error) {
 		  die("Mysql Connection Error");
 		} 
-		$sql = sprintf("INSERT INTO `icmr2015`.`transaction` (`registration_id`, `transaction_id`, `amount`, `usd`) 
+		$sql = sprintf("INSERT INTO `transaction` (`registration_id`, `transaction_id`, `amount`, `usd`) 
 			VALUES ('%s', '%s', '%s' , '%s')",  $reg_id, $orderno, $amount, $priceusd);
 		if (mysqli_query($conn, $sql)) {
 			$success="Success!";
