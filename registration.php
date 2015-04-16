@@ -43,7 +43,7 @@
 
 <h3>Registration Policy</h3>
 <ul>
-<li>Each paper needs to be covered by a full registration. Multiple papers (e.g., full, short, demo) will each need a corresponding full registration. <b>Note that student registrations are NOT considered as full registrations.</b></li>
+<li>Each paper will need to be covered by a full registration. Multiple papers (e.g., full, short, demo) will each need a corresponding full registration. <b>Note that student registrations are NOT considered as full registrations.</b></li>
 <li>For ACM Member registration, you will need to provide your valid ACM membership number on the next page.</li>
 <li>For student registration, you MUST be a full-time student at the time of the conference in June 2015 (not the time of paper submission). To verify your student status, please present your student ID at the registration desk when picking up your badge at the conference.</li>
 </li>
