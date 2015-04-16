@@ -87,11 +87,11 @@ function validateForm() {
     <input type="text" class="form-control" name="member_id">
   </div>
   <div class="form-group">
-    <label for="reg_type">Extra Payment (Integer, in USD, 1 USD = 6.2 CNY)</label>
+    <label for="reg_type">Extra Payment (Integer, in USD)</label>
     <input type="text" class="form-control" name="reg_type">
   </div>
   <div class="form-group">
-    <label for="paper">Purpose</label>
+    <label for="paper">Purpose (In english, less than 100 chars)</label>
     <input type="text" class="form-control" name="paper" maxlength="100">
   </div>
   <button type="submit" class="btn btn-info">Next</button>
