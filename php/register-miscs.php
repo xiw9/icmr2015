@@ -32,6 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $member_id = mysqli_real_escape_string($conn, $_POST["member_id"]);
   $paper = mysqli_real_escape_string($conn, $_POST["paper"]);
 
+
   $sql = sprintf("INSERT INTO `registration` (`email`, `first_name`, `last_name`, 
     `institution`, `address`, `city`, `country`, `phone`, `member_type`, `member_id`, `reg_type`, `paper`) 
   VALUES ('%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%d', '%s', '%d', '%s')",
@@ -47,6 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $row = mysqli_fetch_assoc($result);
           $date = date("YmdHis", strtotime($row["date"]));
           $reg_longid=sprintf("%s%'.02d",$date,$reg_id%100);
+          $paper=substr($paper,10);
 
           if (strcmp($email, $row["email"]) !==0){
             die("Mysql Error");
@@ -54,7 +56,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           if ($reg_type>0 && $reg_type <4 && $member_type>0 && $member_type<4){
             $price=$price_array[$reg_type-1][$member_type-1];
           }else{
-            die("Mysql Error");
+            if ($reg_type>10 && $reg_type<1000){
+              $price=$reg_type;
+            }else{
+              die("Mysql Error");
+            }
           }
 
           $reg_type=$row["reg_type"];
