@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $row = mysqli_fetch_assoc($result);
           $date = date("YmdHis", strtotime($row["date"]));
           $reg_longid=sprintf("%s%'.02d",$date,$reg_id%100);
-          $paper=substr($paper,10);
+          $paper=substr($paper,0,10);
 
           if (strcmp($email, $row["email"]) !==0){
             die("Mysql Error");
