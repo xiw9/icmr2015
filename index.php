@@ -47,7 +47,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[04/16/2015] <a href="registration">Registration</a> site is online. Click <a href="visa-information">here</a> for visa information.</p>
+            <p>[04/16/2015] <a href="registration">Registration site</a> is online. Click <a href="visa-information">here</a> for visa information.</p>
             <p>[03/30/2015] The <a href="program">conference program</a> is available.<p>
             <p>[03/15/2015] <a href="accepted_papers">List of accepted full, short, demo and special session papers</a>.</p>
             <p>[01/24/2015] Brave New Idea, Demo and Doctoral Symposium deadline extended to <b>Feb. 15, 2015</b>.</p>
