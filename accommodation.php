@@ -17,14 +17,6 @@
             <h1 class="panel-title">Accommodation</h1>
           </div>
           <div class="panel-body" >
-            <h3>Public Transportation</h3>
-            <p>From Pudong/Hongqiao Airport to International Convention Center and nearby hotels:</p>
-            <ul>
-              <li>Take taxi (about 160 CNY).</li>
-              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station.</li>
-            </ul>
-
-            <h3>Accommodation Options</h3>
             <table class="table table-striped">
               <tr><th>Hotel</th><th>Location</th><th>Phone</th><th></th></tr>
               <tr><td>Oriental Riverside Hotel Shanghai (special rates)</td><td>2727 Binjiang Avenue, Pudong</td><td>+8621-50370000</td><td>★★★★★</td></tr>
@@ -38,6 +30,12 @@
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-428122/" target="_blank">Home Inn (Shanghai Nanjing Road Pedestrian Street of Shanxi Road)</a></td><td>218 South Shanxi Road, Huangpu</td><td>+8621-33665999</td><td>★★</td></tr>
             </table>
             <p>For more options, please refer to <a href="http://english.ctrip.com/hotels/map?city=2&checkin=06-21-2015&checkout=06-27-2015&hotelname=&searchboxArg=t&optionId=426312&optionType=globalhotel_hotellang&display=Oriental%20Riverside%20Bund%20View%20Hotel%2C%20Shanghai%2C%20China&markland=">Ctrip online travel agency</a>.</p>
+            <h3>Public Transportation</h3>
+            <p>From Pudong/Hongqiao Airport to International Convention Center and nearby hotels:</p>
+            <ul>
+              <li>Take taxi (about 160 CNY).</li>
+              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station.</li>
+            </ul>
           </div>
         </div>  
       </div>
