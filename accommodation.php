@@ -17,6 +17,14 @@
             <h1 class="panel-title">Accommodation</h1>
           </div>
           <div class="panel-body" >
+            <h3>Public Transportation</h3>
+            <p>From Pudong/Hongqiao Airport to International Convention Center and nearby hotels:</p>
+            <ul>
+              <li>Take taxi (about 160 CNY).</li>
+              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station.</li>
+            </ul>
+
+            <h3>Accommodation Options</h3>
             <table class="table table-striped">
               <tr><th>Hotel</th><th>Location</th><th>Phone</th><th></th></tr>
               <tr><td>Oriental Riverside Hotel Shanghai (special rates)</td><td>2727 Binjiang Avenue, Pudong</td><td>+8621-50370000</td><td>★★★★★</td></tr>
