@@ -17,24 +17,6 @@
             <h1 class="panel-title">Accommodation</h1>
           </div>
           <div class="panel-body" >
-            <h3>Public Transportation</h3>
-            <p>From Pudong/Hongqiao Airport to International Convention Center:</p>
-            <ul>
-              <li>Take taxi (about 160 CNY).</li>
-              <li>Take Shanghai metro line No. 2.</li>
-            </ul>
-            <p>From Pudong Airport (PVG) to Fudan University:</p>
-            <ul>
-              <li>Take taxi (about 170 CNY).</li>
-              <li>Take Maglev Hi-Speed Train to Long Yang Road Station (50 CNY). Then take taxi (about 60 CNY).</li>
-              <li>Take Airport Bus Line 4, get off at Wu Jiao Chang Station (20 CNY). Then walk about 10 minutes.</li>
-            </ul>
-            <p>From Hongqiao Airport (SHA) to Fudan University:</p>
-            <ul>
-              <li>Take taxi (about 95 CNY).</li>
-              <li>Take Shanghai metro line No. 10 to Jiangwan Stadium Station (5 CNY). Then walk about 10 minutes.</li>
-            </ul>
-            <hr>
             <h3>Accommodation Options</h3>
             <table class="table table-striped">
               <tr><th>Hotel</th><th>Location</th><th>Phone</th><th></th></tr>
