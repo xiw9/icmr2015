@@ -17,7 +17,7 @@
             <h1 class="panel-title">Accommodation</h1>
           </div>
           <div class="panel-body" >
-            <h3>Local Public Transportation</h3>
+            <h3>Public Transportation</h3>
             <p>From Pudong/Hongqiao Airport to International Convention Center:</p>
             <ul>
               <li>Take taxi (about 160 CNY).</li>
