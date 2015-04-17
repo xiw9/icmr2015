@@ -30,7 +30,7 @@
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-419388/" target="_blank">Motel 168 (Shanghai Bund Nanjing Road Pedestrian Street)</a></td><td>50 Ningbo Road, Huangpu</td><td>+8621-51793333</td><td>★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-428122/" target="_blank">Home Inn (Shanghai Nanjing Road Pedestrian Street of Shanxi Road)</a></td><td>218 South Shanxi Road, Huangpu</td><td>+8621-33665999</td><td>★★</td></tr>
             </table>
-            <p>For more options, please refer to <a href="http://english.ctrip.com/hotels/map?city=2&checkin=06-21-2015&checkout=06-27-2015&hotelname=&searchboxArg=t&optionId=426312&optionType=globalhotel_hotellang&display=Oriental%20Riverside%20Bund%20View%20Hotel%2C%20Shanghai%2C%20China&markland=">Ctrip</a>.</p>
+            <p>For more options, please refer to <a href="http://english.ctrip.com/hotels/map?city=2&checkin=06-21-2015&checkout=06-27-2015&hotelname=&searchboxArg=t&optionId=426312&optionType=globalhotel_hotellang&display=Oriental%20Riverside%20Bund%20View%20Hotel%2C%20Shanghai%2C%20China&markland=">Ctrip online travel agency</a>.</p>
           </div>
         </div>  
       </div>
