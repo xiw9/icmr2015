@@ -101,7 +101,7 @@ function validateForm() {
       </label>
   </div>
   <div class="form-group">
-    <label for="member_id">Member ID (Optional if selected Non-ACM Member before)</label>
+    <label for="member_id">Member ID (Optional if selected Non-ACM Member)</label>
     <input type="text" class="form-control" name="member_id">
   </div>
   <div class="form-group">
