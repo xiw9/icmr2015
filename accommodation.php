@@ -19,7 +19,7 @@
           <div class="panel-body" >
             <table class="table table-striped">
               <tr><th>Hotel</th><th>Location</th><th>Phone</th><th></th></tr>
-              <tr><td>Oriental Riverside Hotel Shanghai (special rates)</td><td>2727 Binjiang Avenue, Pudong</td><td>+8621-50370000</td><td>★★★★★</td></tr>
+              <tr><td><a href="http://acmicmr2015.shicc.net/en/index.aspx">Oriental Riverside Hotel Shanghai (special rates)</a></td><td>2727 Binjiang Avenue, Pudong</td><td>+8621-50370000</td><td>★★★★★</td></tr>
               <tr><td>Pudong Shangri-La Shanghai (special rates)</td><td>33 Fucheng Road, Pudong</td><td>+8621-68828888</td><td>★★★★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-346412/" target="_blank">The Ritz-Carlton Shanghai, Pudong</a></td><td>8 Century Avenue, Pudong</td><td>+8621-20201888</td><td>★★★★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-425821/" target="_blank">Grand Kempinski Hotel Shanghai</a></td><td>Lujiazui Ring Road 1288, Pudong</td><td>+8621-38678888</td><td>★★★★★</td></tr>
