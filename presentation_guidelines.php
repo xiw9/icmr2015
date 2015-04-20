@@ -32,7 +32,7 @@
             <h3>Poster Presentations</h3>
             <p>Each paper in a poster session will be provided with a board (size will be announced later)</a>. 
               The poster board size is a hard limit, overflow space cannot be guaranteed.</p>
-            <p><b>A presenting author is expected to be available in front of the poster for the entire duration of the poster session!</b></p>
+            <p>A presenting author is expected to be available in front of the poster for the entire duration of the poster session.</p>
             <h3>Demo Presentations</h3>
             <p>Each demonstrator will be provided with a table (size TBA), a power outlet (220V), and wireless internet access. 
               If your demo has special requirements that exceed this, please contact the Demo Chairs as soon as possible.</p>
