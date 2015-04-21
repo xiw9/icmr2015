@@ -20,7 +20,7 @@
             <table class="table table-striped">
               <tr><th>Hotel</th><th>Location</th><th>Phone</th><th></th></tr>
               <tr><td><a href="http://acmicmr2015.shicc.net/en/index.aspx" target="_blank">Oriental Riverside Hotel Shanghai (special daily rate: 900 CNY, ≈150 USD)</a></td><td>2727 Binjiang Avenue, Pudong</td><td>+8621-50370000</td><td>★★★★★</td></tr>
-              <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-373052/" target="_blank">Pudong Shangri-La Shanghai</a></td><td>33 Fucheng Road, Pudong</td><td>+8621-68828888</td><td>★★★★★</td></tr>
+              <tr><td><a href="http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLPU&group_code=FUD160615&check_in=20150622&check_out=20150626" target="_blank">Pudong Shangri-La Shanghai</a></td><td>33 Fucheng Road, Pudong</td><td>+8621-68828888</td><td>★★★★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-346412/" target="_blank">The Ritz-Carlton Shanghai, Pudong</a></td><td>8 Century Avenue, Pudong</td><td>+8621-20201888</td><td>★★★★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-425821/" target="_blank">Grand Kempinski Hotel Shanghai</a></td><td>Lujiazui Ring Road 1288, Pudong</td><td>+8621-38678888</td><td>★★★★★</td></tr>
               <tr><td><a href="http://english.ctrip.com/hotels/shanghai-hotel-detail-444194/" target="_blank">Shanghai Baron Business Hotel</a></td><td>105-1 Fuzhou Road,Huangpu</td><td>+8621-31012330</td><td>★★★★</td></tr>
