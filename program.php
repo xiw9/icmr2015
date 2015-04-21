@@ -65,7 +65,7 @@
  <tr><td>51</td><td>DeepIndex for Accurate and Efficient Image Retrieval. <br/>Yu Liu and Michael S. Lew. </td></tr>
  <tr><td>127</td><td>Effective, Efficient, and Scalable Unsupervised Distance Learning in Image Retrieval Tasks. <br/>Lucas Valem, Daniel C. G. Pedronette, Ricardo Torres, Edson Borin and Jurandy Almeida. </td></tr>
  <tr><td>138</td><td>Twin Feature and Similarity Maximal Matching for Image Retrieval. <br/>Lei Wang, Hanli Wang and Fengkuangtian Zhu. </td></tr>
- <tr><td>173</td><td>Fusing Pointwise and Pairwise Labels for Supporting Personalized Image Retrieval.<br/>Lin Chen and Baoxin Li.</td></tr>
+ <tr><td>173</td><td>Fusing Pointwise and Pairwise Labels for Supporting User-adaptive Image Retrieval<br/>Lin Chen, Peng Zhang, Baoxin Li.</td></tr>
  <tr><th colspan="2"><a name="oral2"></a>Oral 2: Person and Objects</th></tr>
  <tr><td>71</td><td>Facial Action Unit Classification with Hidden Knowledge under Incomplete Annotation. <br/>Jun Wang, Shangfei Wang and Qiang Ji.</td></tr>
  <tr><td>118</td><td>Extracting 3D Trajectories of Objects from 2D Videos using Particle Filter. <br/>Zeyd Boukhers, Kimiaki Shirahama, Frédéric Li and Marcin Grzegorzek. </td></tr>
