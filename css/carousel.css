@@ -23,6 +23,9 @@ span.glyphicon-chevron-up {
     color: #fff;
 }
 @media (min-width: 768px) {
+  iframe{
+    width: 300px;
+  }
   .homepage .panel{
     height: 250px;
   }
@@ -32,6 +35,9 @@ span.glyphicon-chevron-up {
 }
 
 @media (min-width: 992px) {
+  iframe{
+    width: 500px;
+  }
   .homepage .panel{
     height: 290px;
   }
@@ -41,6 +47,9 @@ span.glyphicon-chevron-up {
 }
 
 @media (min-width: 1200px) {
+  iframe{
+    width: 800px;
+  }
   .homepage .panel{
     height: 250px;
   }
