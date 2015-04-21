@@ -24,7 +24,7 @@ span.glyphicon-chevron-up {
 }
 @media (min-width: 768px) {
   iframe{
-    width: 300px;
+    width: 500px;
   }
   .homepage .panel{
     height: 250px;
@@ -36,7 +36,7 @@ span.glyphicon-chevron-up {
 
 @media (min-width: 992px) {
   iframe{
-    width: 500px;
+    width: 600px;
   }
   .homepage .panel{
     height: 290px;
