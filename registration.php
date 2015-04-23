@@ -29,7 +29,7 @@
 <tr><td>Main Conference (including workshops and tutorials)</td><td>$650.00</td><td>$750.00</td><td>$425.00</td></tr>
 <tr><td>Workshops</td><td>$170.00</td><td>$280.00</td><td>$85.00</td></tr>
 <tr><td>Tutorials</td><td>$170.00</td><td>$280.00</td><td>$85.00</td></tr>
-<tr class="info"><th>Regular (During May 20, 2014 and June 22, 2015)</th>
+<tr class="info"><th>Regular (During May 10, 2014 and June 22, 2015)</th>
 <th>ACM Member</th><th>Non-ACM Member</th><th>Student Member</th></tr>
 <tr><td>Main Conference (including workshops and tutorials)</td><td>$735.00</td><td>$890.00</td><td>$495.00</td></tr>
 <tr><td>Workshops</td><td>$220.00</td><td>$330.00</td><td>$135.00</td></tr>
