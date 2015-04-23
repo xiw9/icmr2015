@@ -26,7 +26,7 @@
               Therefore authors are advised to prepare a 15-minute talk and leave time for questions at the end.</p>
             <p>Presenters are requested to be present at the podium at least 15 minutes before the start of their session and 
               introduce themselves to the session chair as soon as they arrive. 
-              All oral session rooms are equipped with PC projectors with a standard VGA connector. 
+              The room is equipped with PC projectors with a standard VGA connector. 
               Presenters are requested to bring their own PC for the presentation. 
               We strongly recommend presenters to check the compatibility of their PC and the projector before the session starts. </p>
             <h3>Poster Presentations</h3>
@@ -34,7 +34,7 @@
               The poster board size is a hard limit, overflow space cannot be guaranteed.</p>
             <p>A presenting author is expected to be available in front of the poster for the entire duration of the poster session.</p>
             <h3>Demo Presentations</h3>
-            <p>Each demonstrator will be provided with a table (size TBA), a power outlet (220V), and wireless internet access. 
+            <p>Each demonstrator will be provided with a table, a power outlet (220V), and wireless internet access. 
               If your demo has special requirements that exceed this, please contact the Demo Chairs as soon as possible.</p>
             <p>Each demo should be set-up before the session (e.g., during the coffee break) and removed after the session. 
               Demonstrators must be in the demo space and present their demonstrations during the session-time.</p>
