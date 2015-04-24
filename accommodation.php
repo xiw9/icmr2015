@@ -34,7 +34,8 @@
             <p>From Pudong/Hongqiao Airport:</p>
             <ul>
               <li>Take taxi (about 160 CNY).</li>
-              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station. 
+              <li>Take Shanghai metro line No. 2,
+                <br/>For those hotels located in Pudong New District, please get off at Lujiazui Station, 
                 <br/>For those hotels located in Huangpu District, please get off at East Nanjing Road Station.</li>
             </ul>
           </div>
