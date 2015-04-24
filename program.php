@@ -34,8 +34,8 @@
  <tr><td>11:20am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:40am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr height="70">
-  <td><tr>12:00pm<br/>--<br/>1:00pm</tr><tr>1:00pm<br/>--<br/>1:40pm</tr></td>
-  <td><tr></tr><tr>Lunch (on your own)</tr></td>
+  <td><tr><td>12:00pm<br/>--<br/>1:00pm</td></tr><tr><td>1:00pm<br/>--<br/>1:40pm</td></tr></td>
+  <td><tr><td></td></tr><tr><td>Lunch (on your own)</td></tr></td>
   <td>Lunch</td><td>Lunch</td><td>Lunch</td></tr>
  <tr><td>1:40pm</td><td>&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
  <tr><td>2:00pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
