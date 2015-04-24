@@ -59,7 +59,7 @@
       <div class="col-md-4">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h3 class="panel-title">Venues</h3>
+            <h3 class="panel-title">Venue</h3>
           </div>
           <div class="panel-body">
             <p><a href="conference_venue">Shanghai International Convention Center</a><br>

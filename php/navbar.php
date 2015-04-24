@@ -21,6 +21,8 @@
               <ul class="dropdown-menu" role="menu">
                 <li><a href="registration">Registration</a></li>
                 <li><a href="visa-information">Visa Information</a></li>
+                <li><a href="accommodation">Accommodation</a></li>
+                <li><a href="presentation_guidelines">Presentation Guidelines</a></li>
                 <li><a href="conference_venue">Conference Venue</a></li>
                 <li><a href="about_shanghai">About Shanghai</a></li>
               </ul>
@@ -32,11 +34,8 @@
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Authors<span class="caret"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Contributions<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li class="dropdown-submenu">
-                  <a tabindex="-1" href="#">Call for Contributions</a>
-                <ul class="dropdown-menu">
                   <li><a href="call_for_paper">Full Papers</a></li>
                   <li><a href="call_for_short_paper">Short Papers</a></li>
                   <li><a href="call_for_brave_new_idea">Brave New Idea Papers</a></li>
@@ -52,8 +51,6 @@
                     </ul>
                   </li>
                   <li><a href="call_for_tutorial_proposals">Tutorial Proposals</a></li>
-                </ul>
-              </li>
                 <li><a href="submission_instructions">Submission Instructions</a></li>
               </ul>
             </li>

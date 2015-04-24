@@ -29,7 +29,12 @@
             <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Shanghai%20International%20Conference%20Center%20Natatorium%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
             </p>   
           </div>
-       
+          <h3>Public Transportation</h3>
+          <p>From Pudong/Hongqiao Airport:</p>
+          <ul>
+            <li>Take taxi (about 160 CNY).</li>
+            <li>Take Shanghai metro line No. 2, get off at Lujiazui Station.</li>
+          </ul>      
         </div>  
       </div>
       <div class="col-md-3">
