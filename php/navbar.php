@@ -34,6 +34,13 @@
               </ul>
             </li>
             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tutorials<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="tutorial_social_multimedia_computing">Social Multimedia Computing</a></li>
+                <li><a href="tutorial_multimedia_quality_modeling">Multimedia Quality Modeling: Theories and Applications</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Call for Contributions<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                   <li><a href="call_for_paper">Full Papers</a></li>
