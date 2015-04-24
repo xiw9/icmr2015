@@ -19,7 +19,7 @@
           </div>
           <div class="panel-body" >
 <table class="table-program table table-bordered  ">
-<tr class="info"><th>Venue</th><th colspan="4" class="text-center">International Convention Center</th></tr>
+<tr class="info"><th>Venue</th><th colspan="4" class="text-center">Shanghai International Convention Center</th></tr>
  <tr><td>Date</td><td>June 23 Tuesday</td><td>June 24 Wednesday</td><td>June 25 Thursday</td><td>June 26 Friday</td></tr>
  <tr><td>&nbsp;</td><td>Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Main Conference & Practitioner Day</td></tr>
  <tr><td>08:30am</td><td>&nbsp;</td><td>Registration</td><td>&nbsp;</td><td>&nbsp;</td></tr>
@@ -33,7 +33,10 @@
  <tr><td>11:00am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:20am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:40am</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
- <tr height="50"><td>12:00pm<br/>--<br/>1:40pm</td><td>&nbsp;</td><td>Lunch</td><td>Lunch</td><td>Lunch</td></tr>
+ <tr height="70">
+  <td><tr>12:00pm<br/>--<br/>1:00pm</tr><tr>1:00pm<br/>--<br/>1:40pm</tr></td>
+  <td><tr></tr><tr>Lunch (on your own)</tr></td>
+  <td>Lunch</td><td>Lunch</td><td>Lunch</td></tr>
  <tr><td>1:40pm</td><td>&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
  <tr><td>2:00pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:20pm</td><td>&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>

@@ -64,7 +64,7 @@
           <div class="panel-body">
             <p><a href="conference_venue">Shanghai International Convention Center</a><br>
               2727 Binjiang Ave, Pudong, Shanghai</p>
-            <p><img src="img/conference_center-thin.jpg" class="img-responsive"></p>
+            <p><img src="img/conference_center-thin.jpg" class="img-responsive" style="max-height:130px;"></p>
           </div>
         </div>
       </div>
