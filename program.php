@@ -28,20 +28,20 @@
  <tr><td>09:20am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>09:40am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>10:00am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>10:20am</td><td colspan="2">Coffee Break</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for<br/>Multimedia Retrieval</a></td><td class="warning">Invited Talks from Chinese Internet Industry</td></tr>
+ <tr><td>10:20am</td><td class="info" colspan="2">Coffee Break</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for<br/>Multimedia Retrieval</a></td><td class="warning">Invited Talks from Chinese Internet Industry</td></tr>
  <tr><td>10:40am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">Details TBA</td></tr>
  <tr><td>11:00am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:20am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:40am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr height="40"><td>12:00pm<br/>--<br/>1:00pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td>Lunch: International Convention Center</td><td>Lunch: International Convention Center</td><td>Lunch: International Convention Center</td></tr>
- <tr height="30"><td>1:00pm<br/>--<br/>1:40pm</td><tdcolspan="2">Lunch: on your own</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr height="30"><td>1:00pm<br/>--<br/>1:40pm</td><td colspan="2">Lunch: on your own</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>1:40pm</td><td>&nbsp;</td><td>&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
  <tr><td>2:00pm</td><td>&nbsp;</td><td></td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:20pm</td><td class="info">Tutorial 2: Multimedia Quality Modeling</td><td class="info">Tutorial 1: Social Multimedia Computing</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:40pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>3:00pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
  <tr><td>3:20pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
- <tr><td>3:40pm</td><td colspan="2">Coffee Break </td><td class="success">&nbsp;</td><td class="info">Details TBA</td><td class="danger">&nbsp;</td></tr>
+ <tr><td>3:40pm</td><td class="info" colspan="2">Coffee Break </td><td class="success">&nbsp;</td><td class="info">Details TBA</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:00pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:20pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:40pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="danger"><a href="#postershort">Short Paper Posters</a> & <a href="#demo">Demos</a></td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
