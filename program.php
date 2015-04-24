@@ -34,7 +34,7 @@
  <tr><td>11:20am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:40am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr height="40"><td>12:00pm<br/>--<br/>1:00pm</td><td class="success ">&nbsp;</td><td class="info">&nbsp;</td><td>Lunch: <br/>International Convention Center</td><td>Lunch: <br/>International Convention Center</td><td>Lunch: <br/>International Convention Center</td></tr>
- <tr height="30"><td>1:00pm<br/>--<br/>1:40pm</td><td colspan="2">Lunch: on your own</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr height="30"><td>1:00pm<br/>--<br/>1:40pm</td><td colspan="2">Lunch: on your own</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>1:40pm</td><td colspan="2">&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
  <tr><td>2:00pm</td><td colspan="2">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:20pm</td><td class="success"><a href="tutorial_multimedia_quality_modeling">Tutorial 2</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1</a></td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
