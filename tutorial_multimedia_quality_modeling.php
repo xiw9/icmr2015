@@ -62,7 +62,7 @@ the Guest editor for nine international journals. He served as the PC
 members of international conferences such as ACM Multimedia, 
 ICME, and ICMR. He is the associate editor of Neurocomputing and
 KSII Transactions on Internet and Information Systems.</p>
-<p><b>Yi Yang</b> is a Senior lecture of Computer Science with the Centre for
+<p><b>Yi Yang</b> is a Senior lecturer of Computer Science with the Centre for
 Quantum Computation & Intelligent Systems, University of Technology, 
 Sydney. Prior to that, he was a postdoc research fellow with the school of 
 computer science, Carnegie Mellon University. He received the PhD 

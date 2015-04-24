@@ -24,7 +24,7 @@
  <tr><td>&nbsp;</td><td colspan="2">Tutorials & Workshops</td><td>Main Conference</td><td>Main Conference</td><td>Main Conference & Practitioner Day</td></tr>
  <tr><td>08:30am</td><td colspan="2">&nbsp;</td><td>Registration</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>08:45am</td><td colspan="2">Registration</td><td>Welcome and Introduction</td><td>Registration</td><td>Registration</td></tr>
- <tr><td>09:00am</td><td class="info"><a href="http://mklab.iti.gr/emr2015/" target="_blank">Workshop: EMR 2015</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1: Social Multimedia Computing</a></td><td class="warning">Keynote 1</td><td class="warning">Keynote 2</td><td class="warning">Keynote 3 </td></tr>
+ <tr><td>09:00am</td><td class="info"><a href="http://mklab.iti.gr/emr2015/" target="_blank">EMR Workshop</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1</a></td><td class="warning">Keynote 1</td><td class="warning">Keynote 2</td><td class="warning">Keynote 3 </td></tr>
  <tr><td>09:20am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>09:40am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>10:00am</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
@@ -37,7 +37,7 @@
  <tr height="30"><td>1:00pm<br/>--<br/>1:40pm</td><td colspan="2">Lunch: on your own</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr><td>1:40pm</td><td colspan="2">&nbsp;</td><td class="success"><a href="#oral2">Oral 2: Person and Objects</a></td><td class="success"><a href="#best">Best Paper Session</a></td><td class="success"><a href="#oral5">Oral 5: Photo Applications</a></td></tr>
  <tr><td>2:00pm</td><td colspan="2">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
- <tr><td>2:20pm</td><td class="info"><a href="tutorial_multimedia_quality_modeling">Tutorial 2: Multimedia Quality Modeling</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1: Social Multimedia Computing</a></td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
+ <tr><td>2:20pm</td><td class="info"><a href="tutorial_multimedia_quality_modeling">Tutorial 2</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1</a></td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:40pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>3:00pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
  <tr><td>3:20pm</td><td class="info">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
