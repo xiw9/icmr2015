@@ -30,7 +30,7 @@
               Presenters are requested to bring their own PC for the presentation. 
               We strongly recommend presenters to check the compatibility of their PC and the projector before the session starts. </p>
             <h3>Poster Presentations</h3>
-            <p>Each paper in a poster session will be provided with a board (180cm x 150cm)</a>. 
+            <p>Each paper in a poster session will be provided with a board (180cm width x 150cm height)</a>. 
               The poster board size is a hard limit, overflow space cannot be guaranteed.</p>
             <p>A presenting author is expected to be available in front of the poster for the entire duration of the poster session.</p>
             <h3>Demo Presentations</h3>
