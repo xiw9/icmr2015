@@ -21,8 +21,14 @@
               <ul class="dropdown-menu" role="menu">
                 <li><a href="registration">Registration</a></li>
                 <li><a href="visa-information">Visa Information</a></li>
-                <li><a href="conference_venue">Conference Venues</a></li>
+                <li><a href="conference_venue">Conference Venue</a></li>
                 <li><a href="about_shanghai">About Shanghai</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshop<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="http://mklab.iti.gr/emr2015/" target="_blank">Environmental Multimedia Retrieval</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -49,14 +55,6 @@
                 </ul>
               </li>
                 <li><a href="submission_instructions">Submission Instructions</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Workshops<span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://media.cs.tsinghua.edu.cn/~multimedia/CCCMR/" target="_blank">Content-, Context- and Crowd-based Multimedia Recommendation</a></li>
-                <li><a href="http://mklab.iti.gr/emr2015/" target="_blank">Environmental Multimedia Retrieval</a></li>
-                <li><a href="PAMUR2015">Personality and Affect in Multimedia Retrieval</a></li>
               </ul>
             </li>
             <li><a href="organization">Organization</a></li>

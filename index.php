@@ -62,12 +62,9 @@
             <h3 class="panel-title">Venues</h3>
           </div>
           <div class="panel-body">
-            <p><a href="conference_venue#convention">Shanghai International Convention Center</a><br>
-              2727 Binjiang Ave, Pudong, Shanghai<br>
-              Main conference</p>
-            <p><a href="conference_venue#fudan">Fudan University</a><br>
-              220 Handan Rd, Yangpu, Shanghai<br>
-             Tutorials and workshops</p>
+            <p><a href="conference_venue">Shanghai International Convention Center</a><br>
+              2727 Binjiang Ave, Pudong, Shanghai</p>
+            <p><img src="img/conference_center.jpg" class="img-responsive"></p>
           </div>
         </div>
       </div>

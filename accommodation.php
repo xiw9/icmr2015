@@ -31,10 +31,11 @@
             </table>
             <p>For more options, please refer to <a href="http://english.ctrip.com/hotels/map?city=2&checkin=06-21-2015&checkout=06-27-2015&hotelname=&searchboxArg=t&optionId=426312&optionType=globalhotel_hotellang&display=Oriental%20Riverside%20Bund%20View%20Hotel%2C%20Shanghai%2C%20China&markland=">Ctrip online travel agency</a>.</p>
             <h3>Public Transportation</h3>
-            <p>From Pudong/Hongqiao Airport to International Convention Center:</p>
+            <p>From Pudong/Hongqiao Airport:</p>
             <ul>
               <li>Take taxi (about 160 CNY).</li>
-              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station. <br/>For those hotels located in Huangpu District, please get off at East Nanjing Road Station.</li>
+              <li>Take Shanghai metro line No. 2, get off at Lujiazui Station. 
+                <br/>For those hotels located in Huangpu District, please get off at East Nanjing Road Station.</li>
             </ul>
           </div>
         </div>  

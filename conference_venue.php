@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <?php include 'php/header.php' ?>
-  <title>Conference Venues | ACM ICMR 2015 | Shanghai, China</title>
+  <title>Conference Venue | ACM ICMR 2015 | Shanghai, China</title>
 </head>
 <body>
   <?php include 'php/navbar.php' ?>
@@ -14,7 +14,7 @@
       <div class="col-md-9">
         <div class="panel panel-primary">
           <div class="panel-heading">
-            <h1 class="panel-title">Conference Venues</h1>
+            <h1 class="panel-title">Conference Venue</h1>
           </div>
           <div class="panel-body" >
             <a name="convention"></a>
@@ -27,18 +27,7 @@
             <h4>Location</h4>
             <p>
             <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Shanghai%20International%20Conference%20Center%20Natatorium%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
-            </p>
-            <hr>
-            <a name="fudan"></a>
-            <h3>Fudan University</h3>
-            <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/fudan.jpg" style="width:300px" alt="Fudan University">
-            </div>
-            <p><a href="http://en.wikipedia.org/wiki/Fudan_University">Fudan University</a> was established in 1905 as Fudan Public School. It was the first institution of higher education to be founded by a Chinese person, renowned modern educator Ma Xiangbo. It is one of the oldest and most selective universities in China. The campus is laid out as a main area consisting of the Handan Campus (conference venue) and Jiangwan New Campus areas, along with two side campuses, Fenglin Campus and Zhangjiang Campus (where CS school locates). Over the past hundred years, the school has made outstanding contributions to the country by developing talent, innovating in science and technology, carrying forward civilization, and serving society. </p>          
-            <h4>Location</h4>
-            <p>
-            <iframe width="800" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed/v1/place?q=Fudan%20University%2C%20Shanghai&key=AIzaSyBM7KfIyIlr4GU6QL3gduVCYRhDpzolvOQ"></iframe>
-            </p>     
+            </p>   
           </div>
        
         </div>  
