@@ -74,6 +74,9 @@
 		  <p><a href="http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/">Peng Cui</a>, Tsinghua University, China</p>
 		  <p><a href="http://www.cs.cityu.edu.hk/~wuxiao/">Xiao Wu</a>, Southwest Jiaotong University, China</p>
 		  <hr>
+		  <h4>Student Grant Chair</h4>
+		  <p>Meng Wang, Hefei University of Technology, China</p>
+		  <hr>
 		  <h4>Publication Chairs</h4>
 		  <p><a href="http://staff.science.uva.nl/~xirong/index.php?n=Main.Biography">Xirong Li</a>, Renmin University, China</p>
 		  <p><a href="http://homepage.fudan.edu.cn/xdzhou/en/bio/">Xiangdong Zhou</a>, Fudan University, China</p>

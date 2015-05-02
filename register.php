@@ -221,6 +221,12 @@ function validateForm() {
       <option>icmr258d</option>
       <option>icmr260d</option>
       <option>icmr261d</option>
+      <option>emr01</option>
+      <option>emr02</option>
+      <option>emr03</option>
+      <option>emr04</option>
+      <option>emr05</option>
+      <option>emr06</option>
     </select>
   </div>
   <button type="submit" class="btn btn-info">Next</button>
