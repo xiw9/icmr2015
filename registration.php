@@ -18,7 +18,8 @@
           </div>
           <div class="panel-body" >
 <div class="well">
-<p class="text-center"><a href="http://www.icmr2015.org/register"><button type="button" class="btn btn-success">Register Now!</button></a></p>
+<p class="text-center"><a href=""><button type="button" class="btn btn-success">Temporary Down, will be back soon: )</button></a></p>
+
 <p class="text-center"><small>Online registration will be closed at 23:59, Jun 22, 2015.</small></p>
 <p class="text-center"><a href="#prc-notice">中国参会人员注册前请先看注意事项</a></p>
 </div>

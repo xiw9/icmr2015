@@ -6,7 +6,7 @@ include_once("netpayclient.php");
 $merid = buildKey("MerPrK_808080201306302_20140826180021.key");
 
 //for test
-//$merid = buildKey("MerPrk.key");
+$merid = buildKey("MerPrk.key");
 
 if(!$merid) {
     echo "Payment Error";
