@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             if ($reg_type>10 && $reg_type<1000){
               $price=$reg_type;
             }else{
-              if($reg_type==-1){
+              if($reg_type==100000){
                 $price=0.1
               }else{
                 die("Mysql Error");
