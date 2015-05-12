@@ -1,9 +1,9 @@
 <?php
 include_once("register.config.php");
 $price_array = array(
-  array(650.0,750.0,425.0),
-  array(170.0,280.0,85.0),
-  array(170.0,280.0,85.0)
+  array(735.0,890.0,495.0),
+  array(220.0,330.0,135.0),
+  array(220.0,330.0,136.0)
   );
 
 
