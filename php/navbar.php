@@ -23,6 +23,7 @@
                 <li><a href="visa-information">Visa Information</a></li>
                 <li><a href="accommodation">Accommodation</a></li>
                 <li><a href="presentation_guidelines">Presentation Guidelines</a></li>
+                <li><a href="student_grants">Student Grants</a></li>
                 <li><a href="conference_venue">Conference Venue</a></li>
                 <li><a href="about_shanghai">About Shanghai</a></li>
               </ul>
