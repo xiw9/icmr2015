@@ -78,10 +78,10 @@
         </div>
         <div>
           <p class="text-center">
-          <img src="img/sponsor-tencent.png" style="height: 45px; padding-right: 20px;">
-          <img src="img/sponsor-samsung.png" style="height: 65px; padding-right: 20px;">
-          <img src="img/sponsor-google.png" style="height: 45px; padding-right: 20px;">
-          <img src="img/sponsor-visenze.png" style="height: 45px; padding-bottom: 10px;">
+          <a href="http://www.tencent.com/en-us/" target="_blank"><img src="img/sponsor-tencent.png" style="height: 45px; padding-right: 20px;"></a>
+          <a href="http://www.samsung.com/" target="_blank"><img src="img/sponsor-samsung.png" style="height: 65px; padding-right: 20px;"></a>
+          <a href="https://www.google.com/" target="_blank"><img src="img/sponsor-google.png" style="height: 45px; padding-right: 20px;"></a>
+          <a href="https://www.visenze.com/" target="_blank"><img src="img/sponsor-visenze.png" style="height: 45px; padding-bottom: 10px;"></a>
           
           </p>
           <p class="text-center">
