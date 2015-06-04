@@ -15,7 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/sky.css" id="theme">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
 
 		<!--[if lt IE 9]>
 		<script src="lib/js/html5shiv.js"></script>
@@ -23,31 +23,37 @@
 	</head>
 
 	<body>
-
 		<div class="reveal">
 			<div class="slides">
-				<section >
+				<section data-background-transition="zoom">
 					<h1>ACM ICMR 2015</h1>
 					<h3>June 23-26, Shanghai, China</h3>
+					<img src="../img/conference_center.jpg" style="width: 700px; background: rgba(255, 255, 255, 1);  border: 0px; box-shadow: 0 0 0px rgba(0, 0, 0, 0);">
 					<p>Shanghai International Convention Center</p>
 					<p>2727 Binjiang Ave, Pudong, Shanghai</p>
 				</section>
 
-				<section data-background="rgba(216, 250, 210, 0.3)" data-background-transition="zoom">
+				<section data-background-transition="zoom">
 					<h2>Introduction</h2>
+					<p style="text-align: left;">
+						Effectively and efficiently retrieving information based on user needs is one of the most exciting areas in multimedia research.
+					</p>
 					<p style="text-align: left;">
 						The Annual ACM International Conference on Multimedia Retrieval (ICMR) offers a great opportunity for exchanging leading-edge multimedia retrieval ideas among researchers, practitioners and other potential users of multimedia retrieval systems.
 					</p>
+					<p style="text-align: left;">
+						This annual conference, which puts together the long-lasting experiences of the former ACM CIVR and ACM MIR series, was set up in 2011 to illuminate the state of the arts in multimedia (text, image, video and audio) retrieval. 
+					</p>
 				</section>
 
-				<section>
-				<section data-background="rgba(210, 250, 244, 0.3)" data-background-transition="zoom">
+				<section data-background-transition="zoom">
 					<h2>Program</h2>
 					<p style="text-align: left;">
 						The ICMR 2015 will be held between June 23rd 2015 and June 26th 2015 at the Shanghai International Convention Center.
 					</p>
+
 				</section>
-				<section data-background="rgba(210, 216, 250, 0.3)" data-background-transition="zoom">
+				<section  data-background-transition="zoom">
 					<h2>Day 1</h2>
 					<h3>Tutorials & Workshop</h3>
 					<ul>
@@ -56,7 +62,7 @@
 						<li>Tutorial on Multimedia Quality Modeling: Theories and Applications</li>
 					</ul>
 				</section>
-				<section data-background="rgba(244, 210, 250, 0.3)" data-background-transition="zoom">
+				<section  data-background-transition="zoom">
 					<h2>Day 2 & 3 & 4</h2>
 					<h3>Main Conference</h3>
 					<ul>
@@ -74,41 +80,38 @@
 						<li>Demo Session</li>
 					</ul>
 				</section>
-				<section data-background="rgba(250, 210, 216, 0.3)" data-background-transition="zoom">
+				<section data-background-transition="zoom">
 					<h2>Day 4</h2>
 					<h3>Practitioner Day</h3>
 					<ul>
 						<li>Invited Talks from Chinese Internet Industry</li>
 					</ul>
 				</section>
-				</section>
 
-				<section>
-				<section data-background="rgba(250, 244, 210, 0.3)" data-background-transition="zoom">
+				<section  data-background-transition="zoom">
 					<h2>Keynote 1</h2>
 					<p>
 						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
 					</p>
 				</section>
 
-				<section data-background="rgba(216, 250, 210, 0.3)" data-background-transition="zoom">
+				<section data-background-transition="zoom">
 					<h2>Keynote 2</h2>
 					<p>
 						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
 					</p>
 				</section>
 
-				<section data-background="rgba(210, 250, 244, 0.3)" data-background-transition="zoom">
+				<section  data-background-transition="zoom">
 					<h2>Keynote 3</h2>
 					<p>
 						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
 					</p>
 				</section>	
-				</section>			
 
-				<section data-background="rgba(210, 216, 250, 0.3)" data-background-transition="zoom">
+				<section data-background-transition="zoom">
 					<h2>Sponsors</h2>
-                	<img src="img/sponsors.png" style="width: 800px; background: rgba(255, 255, 255, 0);  border: 0px; box-shadow: 0 0 0px rgba(0, 0, 0, 0);">
+                	<img src="img/sponsors.png" style="width: 800px; background: rgba(255, 255, 255, 0.3);  border: 0px; box-shadow: 0 0 0px rgba(0, 0, 0, 0);">
 				</section>
 
 				<section data-background-transition="zoom">
@@ -130,10 +133,12 @@
 			// Full list of configuration options available at:
 			// https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
-				controls: true,
+				controls: false,
 				progress: true,
-				history: true,
+				history: false,
 				center: true,
+				parallaxBackgroundImage: 'img/bg.jpg',
+				parallaxBackgroundSize: '2100px 900px',
 
 				transition: 'convex', // none/fade/slide/convex/concave/zoom
 
