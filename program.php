@@ -59,51 +59,51 @@
 
 <table class="table-program table table-hover table-bordered">
  <tr><th colspan="2"><a name="best"></a>Best Paper Session 
-  <br/> Session Chairs: Cees Snoek</th></tr>
+  <br/> Session Chair: Cees Snoek</th></tr>
  <tr><td>15</td><td>Image Classification and Retrieval are ONE. <br/>Lingxi Xie, Richang Hong, Bo Zhang and Qi Tian.</td></tr>
  <tr><td>74</td><td>Social Event Mining in Large Photo Collections. <br/>Maia Zaharieva, Matthias Zeppelzauer, Manfred Del Fabro and Daniel Schopfhauser.</td></tr>
  <tr><td>136</td><td>Unified YouTube Video Recommendation via Cross-network Collaboration. <br/>Ming Yan, Jitao Sang and Changsheng Xu.</td></tr>
  <tr><td>241</td><td>Bridging the Ultimate Semantic Gap: A Semantic Search Engine for Internet Videos. <br/>Lu Jiang, Shoou-I Yu, Deyu Meng, Teruko Mitamura and Alex Hauptmann.</td></tr>
  <tr><th colspan="2"><a name="oral1"></a>Oral 1: Image Retrieval 
-  <br/> Session Chairs: Joao Magalhaes</th></tr>
+  <br/> Session Chair: Qi Tian</th></tr>
  <tr><td>29</td><td>Fast Democratic Aggregation and Query Fusion for Image Search. <br/>Zhanning Gao, Jianru Xue, Wengang Zhou, Shanmin Pang and Qi Tian. </td></tr>
  <tr><td>51</td><td>DeepIndex for Accurate and Efficient Image Retrieval. <br/>Yu Liu and Michael S. Lew. </td></tr>
  <tr><td>127</td><td>Effective, Efficient, and Scalable Unsupervised Distance Learning in Image Retrieval Tasks. <br/>Lucas Valem, Daniel C. G. Pedronette, Ricardo Torres, Edson Borin and Jurandy Almeida. </td></tr>
  <tr><td>138</td><td>Twin Feature and Similarity Maximal Matching for Image Retrieval. <br/>Lei Wang, Hanli Wang and Fengkuangtian Zhu. </td></tr>
  <tr><td>173</td><td>Fusing Pointwise and Pairwise Labels for Supporting User-adaptive Image Retrieval<br/>Lin Chen, Peng Zhang, Baoxin Li.</td></tr>
  <tr><th colspan="2"><a name="oral2"></a>Oral 2: Person and Objects
-  <br/> Session Chairs: Rita Cucchiara</th></tr>
+  <br/> Session Chair: Rita Cucchiara</th></tr>
  <tr><td>71</td><td>Facial Action Unit Classification with Hidden Knowledge under Incomplete Annotation. <br/>Jun Wang, Shangfei Wang and Qiang Ji.</td></tr>
  <tr><td>118</td><td>Extracting 3D Trajectories of Objects from 2D Videos using Particle Filter. <br/>Zeyd Boukhers, Kimiaki Shirahama, Frédéric Li and Marcin Grzegorzek. </td></tr>
  <tr><td>123</td><td>Space-time histograms and their application to person re-identification in TV shows. <br/>Rémi Auguste, Jean Martinet and Pierre Tirilly. </td></tr>
  <tr><td>131</td><td>Temporal-Order Preserved Dynamic Quantization for Human Action Recognition from Multimodal Sensor Streams. <br/>Jun Ye, Guo-Jun Qi and Kien Hua. </td></tr>
  <tr><th colspan="2"><a name="oral3"></a>Oral 3: Concepts
- <br/> Session Chairs: Alan Smeaton</th></tr>
+ <br/> Session Chair: Alan Smeaton</th></tr>
  <tr><td>49</td><td>Fine-Grained Image Categorization by Localizing Tiny Object Parts from Unannotated Images. <br/>Luming Zhang, Yi Yang and Roger Zimmermann. </td></tr>
  <tr><td>83</td><td>Robust and Discriminative Concept Factorization for Image Representation. <br/>Yuchen Guo and Guiguang Ding. </td></tr>
  <tr><td>246</td><td>Encoding Concept Prototypes for Video Event Detection and Summarization. <br/>Masoud Mazloom, Amirhossein Habibian, Dong Liu, Cees Snoek and Shih-Fu Chang. </td></tr>
  <tr><td>247</td><td>Discovering Semantic Vocabularies for Cross-Media Retrieval. <br/>Amirhossein Habibian, Thomas Mensink and Cees Snoek. </td></tr>
  <tr><th colspan="2"><a name="oral4"></a>Oral 4: Analytical Methods for Multimedia Retrieval
- <br/> Session Chairs: Michele Merler</th></tr>
+ <br/> Session Chair: Michele Merler</th></tr>
  <tr><td>26</td><td>Nonnegative Sparse Neighborhood Propagation. <br/>Zhao Zhang, Mingbo Zhao, Li Zhang and Li Fanzhang. </td></tr>
  <tr><td>58</td><td>Hierarchical Encoding of Binary Descriptors for Image Matching. <br/>Zhendong Mao, Yongdong Zhang and Qi Tian. </td></tr>
  <tr><td>111</td><td>Kernelizing Spatially Consistent Visual Matches for Fine-Grained Classification. <br/>Valentin Leveau, Alexis Joly, Olivier Buisson and Patrick Valduriez.</td></tr>
  <tr><td>202</td><td>High-Dimensional Indexing by Sparse Approximation. <br/>Pedro Borges, André Mourão and Joao Magalhaes. </td></tr>
  <tr><td>222</td><td>Diffusion-on-Manifold Aggregation of Local Features for Shape-based 3D Model Retrieval. <br/>Takahiko Furuya and Ryutarou Ohbuchi. </td></tr>
  <tr><th colspan="2"><a name="oral5"></a>Oral 5: Photo Applications
- <br/> Session Chairs: Benoit Huet</th></tr>
+ <br/> Session Chair: Benoit Huet</th></tr>
  <tr><td>33</td><td>Bundling Centre For Landmark Image Discovery. <br/>Qian Zhang and Guoping Qiu. </td></tr>
  <tr><td>213</td><td>To Keep or not to Keep: An Expectation-oriented Photo Selection Method for Personal Photo Collections. <br/>Andrea Ceroni, Vassilios Solachidis, Claudia Niederée, Olga Papadopoulou, Nattiya Kanhabua and Vasileios Mezaris. </td></tr>
  <tr><td>249</td><td>Latent Factors of Visual Popularity Prediction. <br/>Spencer Cappallo, Thomas Mensink and Cees Snoek. </td></tr>
  <tr><td>253</td><td>Visual Event Summarization on Social Media using Topic Modelling and Graph-based Ranking Algorithms. <br/>Manos Schinas, Symeon Papadopoulos, Yiannis Kompatsiaris and Pericles Mitkas. </td></tr>
  <tr><th colspan="2"><a name="special"></a>Special Oral Session: Weakly Supervised Learning for Big Multimedia Data Analysis
- <br/> Session Chairs: Luming Zhang</th></tr>
+ <br/> Session Chair: Luming Zhang</th></tr>
  <tr><td>128</td><td>Attribute Guided Dictionary Learning. <br/>Wei Wang, Yan Yan and Nicu Sebe</td></tr>
  <tr><td>179</td><td>Online Multi-modal Co-indexing and Retrieval for Weakly Supervised Web Image Collections. <br/>Lei Meng and Chunyan Miao. </td></tr>
  <tr><td>217</td><td>Weakly Supervised Random Forest for Multi-Label Image Clustering and Segmentation. <br/>Yingjie Xia, Qianqian Zhu and Wei Wei. </td></tr>
  <tr><td>223</td><td>Harvesting Multiple Sources for User Profile Learning: a Big Data Study. <br/>Aleksandr Farseev, Mohammad Akbari and Tat-Seng Chua. </td></tr>
  <tr><th colspan="2"><a name="posterfull"></a>Full Paper Posters (note that all the oral papers above will also be presented in the full paper poster session)
-  <br/> Session Chairs: Nicu Sebe</th></tr>
+  <br/> Session Chair: Nicu Sebe</th></tr>
 <tr><td>1</td><td>A Privacy-Preserving Bipartite Graph Matching Framework for Multimedia Analysis and Retrieval. <br/>Wei-Ta Chu and Feng-Chi Chang. </td></tr>
 <tr><td>18</td><td>Describing Images with Hierarchical Concepts and Object Class Localization. <br/>Yahong Han and Guang Li. </td></tr>
 <tr><td>23</td><td>Supervised Multi-scale Locality Sensitive Hashing. <br/>Li Weng, I-Hong Jhuo, Miaojing Shi, Meng Sun, Wen-Huang Cheng and Laurent Amsaleg. </td></tr>
@@ -130,7 +130,7 @@
 <tr><td>248</td><td>Bag-of-Fragments: Selecting and encoding video fragments for event detection and recounting. <br/>Pascal Mettes, Jan van Gemert, Spencer Cappallo, Thomas Mensink and Cees Snoek. </td></tr>
 <tr><td>251</td><td>Evaluating Two-Stream CNN for Video Classification. <br/>Hao Ye, Zuxuan Wu, Rui-Wei Zhao, Xi Wang, Yu-Gang Jiang and Xiangyang Xue. </td></tr>
  <tr><th colspan="2"><a name="postershort"></a>Short Paper Posters
-  <br/> Session Chairs: Marcel Worring</th></tr>
+  <br/> Session Chair: Marcel Worring</th></tr>
 <tr><td>3</td><td>Content-based Image Retrieval Using Rotation-invariant Histograms of Oriented Gradients. <br/>Jinhui Chen, Toru Nakashika, Tetsuya Takiguchi and Yasuo Ariki. </td></tr>
 <tr><td>4</td><td>Augmented Feature Fusion for Image Retrieval System. <br/>Yang Zhou, Dan Zeng, Shiliang Zhang and Qi Tian. </td></tr>
 <tr><td>30</td><td>Parallel AP Clustering and Re-ranking for Automatic Image-Text Alignment and Large-Scale Web Image Search. <br/>Jianping Fan. </td></tr>
@@ -178,12 +178,12 @@
 <tr><td>243</td><td>Multimodal Learning with Deep Boltzmann Machine for Emotion Prediction in User Generated Videos. <br/>Lei Pang and Chong-Wah Ngo. </td></tr>
 <tr><td>244</td><td>Improving Automatic Name-Face Association using Celebrity Images on the Web. <br/>Zhineng Chen, Bailan Feng, Chong-Wah Ngo, Caiyan Jia and Xiangsheng Huang. </td></tr>
  <tr><th colspan="2"><a name="posterss"></a>Special Poster Session: Person Search and Verification from Rich Media Data
-    <br/> Session Chairs: Nicu Sebe</th></tr>
+    <br/> Session Chair: Nicu Sebe</th></tr>
 <tr><td>96</td><td>End-to-End Photo-Sketch Generation via Fully Convolutional Representation Learning. <br/>Liliang Zhang, Liang Lin, Xian Wu, Shengyong Ding and Lei Zhang. </td></tr>
 <tr><td>166</td><td>Teaching Video Analytics Based on Human Behavior Mining. <br/>Jinxian Qin, Hong Lu, Yaqian Zhou and Heqing Ya. </td></tr>
 <tr><td>254</td><td>Multi-view Face Detection Using Deep Convolutional Neural Networks. <br/>Sachin Sudhakar Farfade, Mohammad Saberian and Li-Jia Li. </td></tr>
  <tr><th colspan="2"><a name="demo"></a>Demos
-    <br/> Session Chairs: Marcel Worring</th></tr>
+    <br/> Session Chair: Marcel Worring</th></tr>
 <tr><td>100</td><td>Music Positioning and Annotation For Television Videos. <br/>Gang Yang, Jieping Xu and Xirong Li. </td></tr>
 <tr><td>149</td><td>KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Bradley Strylowski, Mario Gutierrez, Safiyah Sadiq, Scott Forster and Natacha Feola, Travis Bugerin. </td></tr>
 <tr><td>153</td><td>An Improved System For Real-Time Scene Text Recognition. <br/>Haojin Yang, Cheng Wang, Xiaoyin Che, Sheng Luo and Christoph Meinel. </td></tr>
