@@ -16,6 +16,7 @@
           <ul class="nav navbar-nav">
             <li><a href="/">Home</a></li>
             <li><a href="program">Program</a></li>
+            <li><a href="keynote">Keynotes</a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attending<span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">

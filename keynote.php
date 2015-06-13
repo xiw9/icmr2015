@@ -18,10 +18,13 @@
           </div>
           <div class="panel-body" >
             <a name="keynote1"></a>
-            <h3>Keynote 1 (June 24, Wednesday)</h3>
-            <h4>Multimedia Retrieval: Are We Doing it Right?</h4>
+            <h3>Keynote 1: Multimedia Retrieval: Are We Doing it Right?</h3>
+            <h4>June 24, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Tat-Seng Chua (National University of Singapore)</p>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote1.jpg" class="max-width:100px;">
+            </div>
             <h4>Abstract</h4>
             <p>Multimedia has long been associated with visual media by many researchers. While visual media is one of the most challenging medium to deal with, the use of visual analysis alone is often insufficient nor necessary to tackle many real-life problems. The current wisdom seems to suggest that for real-world problem solving, it is necessary to make fuller use of content information including text and audio, and various kinds of contextual information, such as the user’s mobile device settings, social postings, check-in history etc., when available. This, for example, applies to social media and wellness research where a combination of text, visual, audio, health or other sensors, and public data are needed to fully analyze the problem. The second issue is the obser-vation that big multimedia application ideas hardly come from the multimedia research communities. For example, many recent innovative applications in video like contextual advertising, live situational sensing, real-time news gathering, online navigation, wear-able health devices, and personalized healthcare etc. have all come from the commer-cial world. While in research, we seem to barely even start on video research, as ob-served from the technical programs in recent ACM Multimedia and ACM ICMR confer-ences, where only a small fraction of visual papers is about video. This talk discusses issues in these two areas with examples, suggests directions to move forward as a research community, and outlines approaches to make our community more inclusive. The talk, however, will open up more questions than answers.</p>
             <h4>Bio</h4>
@@ -29,10 +32,13 @@
             <p>Dr. Chua is active in the international research community. He has organized and served as program committee member of numerous international conferences in the areas of computer graphics, multimedia and text processing. He is the conference co-chair of ACM Multimedia 2005, ACM CIVR (now ACM ICMR) 2005, ACM SIGIR 2008, and ACM Web Science 2015. He serves in the editorial board of: ACM Transactions of Information Systems (ACM), Foundation and Trends in Information Retrieval (NOW), The Visual Computer (Springer Verlag), and Multimedia Tools and Applications (Kluwer). He is the Chair of steering committee of ICMR (International Conference on Multimedia Retrieval) and Multimedia Modeling conference series; and as member of International Review Panel of a large-scale research project in Europe. He is the co-Founder of two technology startup companies and an independent Director of a publicly listed company in Singapore.</p>
             <hr>
             <a name="keynote2"></a>
-            <h3>Keynote 2 (June 25, Thursday) </h3>
-            <h4>Dense Models from Videos: Can YouTube be the Font of All Knowledge Bases?</h4>
+            <h3>Keynote 2: Dense Models from Videos: Can YouTube be the Font of All Knowledge Bases?</h3>
+            <h4>June 25, Thursday</h4>
             <h4>Presenter</h4>
             <p>Michael Witbrock (Cycorp) </p>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote2.jpg" class="max-width:100px;">
+            </div>
             <h4>Abstract</h4>
             <p>Many recent advances in computer science have been driven by the convergent availability of large numbers of data and of fast machines on which to analyze them. This availability has enabled us to acquire implicit partial models of the underlying gen-erators for the data and apply those models to tasks such as translation, transcription, and image captioning. To date, though, few if any of these models have been dense, in the sense of thoroughly modelling some aspect of the world in way that can facilitate any relevant task. Dense models should support: </p>
             <ul>
@@ -52,18 +58,21 @@
             <p>Michael Witbrock has a PhD in Computer Science from Carnegie Mellon University and a BSc Hons in Psychology from Otago University. He currently is Vice President for Research at Cycorp. Before joining Cycorp, in 2001, to direct its knowledge formation and dialogue processing efforts, he had been Principal Scientist at Terra Lycos, working on integrating statistical and knowledge based approaches to understanding web user behavior, a research scientist at Just Systems Pittsburgh Research Center, working on statistical summarization, and a systems scientist at Carnegie Mellon on the Informedia visual and spoken document information retrieval project. His current research focuses on automated reading to inferentially-productive representations, application of back-ground knowledge to video retrieval and to reasoning about the molecular biology liter-ature, and automatic and semi-automatic knowledge capture and use, more broadly. He is author of numerous publications in areas ranging across computational linguistics, speech modelling and recognition, neural networks, automated inference, automated reading and multimedia information retrieval, and has dabbled in web browser design, genetic design and parallel computer architecture. As well as his technical work, Dr. Witbrock is very interested in entrepreneurship around AI and for social good, and in the social and economic outcomes of advances in AI. He is pursuing that latter interest, inter alia, via AI4Good.org.</p>
             <hr>
             <a name="keynote3"></a>
-            <h3>Keynote 3 (June 26, Wednesday)</h3>
-            <h4>Is Real-World Visual Search Really Coming?</h4>
+            <h3>Keynote 3: Is Real-World Visual Search Really Coming? </h3>
+            <h4>June 26, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Xian-Sheng Hua (Alibaba)</p>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote3.jpg" class="max-width:100px;">
+            </div>
             <h4>Abstract</h4>
             <p>Visual search has been studied for decades since 1990s and it was called “con-tent-based image retrieval” in the beginning. It almost died in the early 21st century and then becomes very hot in recent years mainly due to the rapid development of dis-tributed computing, high-dimensional indexing, deep learning and big data analytical techniques. Many visual search research prototypes and preliminary products are avail-able to the public. However, is real-world visual search really coming? Have we solved all the big technical and non-technical challenges? Are semantic gaps and intention gaps still there, and do they really matters? Are people really using it and why do they want to use it? What are the users expecting? What is the right business model? Which direction that visual search is going towards? What are still missing? In this talk, we will discuss all these questions based on a real-world visual search engine that has a considerable number of users.</p>
             <h4>Bio</h4>
             <p>Dr Xian-Sheng Hua became a Researcher and Senior Director of Alibaba Group in April of 2015, leading the multimedia technology team in the Search Division. Before that, he was a senior researcher of Microsoft Research Redmond since 2013, worked on Web-scale image and video understanding and search, as well as related applications. He was a Principal Research and Development Lead in Multimedia Search for the Mi-crosoft search engine, Bing, since 2011, where he led a team that designed and deliv-ered leading-edge media understanding, indexing and searching features. He joined Microsoft Research Asia in 2001 as a researcher. Since then, his research interests have been in the areas of multimedia search, advertising, understanding, and mining, as well as pattern recognition and machine learning. He has authored or co-authored more than 250 research papers in these areas and has filed more than 90 patents. Dr Hua received his BS in 1996 and PhD in applied mathematics in 2001 from Peking University, Beijing. He served or is now serving as an associate editor of IEEE Transactions on Multimedia, an associate editor of ACM Transactions on Intelligent Systems and Technology, an edi-torial board member of Advances in Multimedia and Multimedia Tools and Applications, and an editor of Scholarpedia (multimedia category). He was vice program chair; work-shop organizer; senior TPC member and area chair; and demonstration, tutorial, and special session chairs and PC member of many more international conferences. He served as a program co-chair for IEEE ICME 2013, ACM Multimedia 2012, and IEEE ICME 2012, as well as on the Technical Directions Board of IEEE Signal Processing Society. He was honored as one of the recipients of the prestigious 2008 MIT Technology Review TR35 Young Innovator Award for his outstanding contributions to video search. He won the Best Paper and Best Demonstration Awards at ACM Multimedia 2007, the Best Poster Award at IEEE International Workshop on Multimedia Signal Processing 2008, the Best Student Paper Award at ACM Conference on Information and Knowledge Man-agement 2009, the Best Paper Award at International Conference on MultiMedia Mod-eling 2010, the best demonstration award at ICME 2014 and best paper award of IEEE Trans. On CSVT in 2014. He was named one of Global Entrepreneur's "Business Elites of People under 40 to Watch" in 2009.</p>
             <hr>
             <a name="keynote4"></a>
-            <h3>Keynote 4 (June 26, Wednesday)</h3>
-            <h4>Trends of Multimedia Research and Application in Tencent Social Network</h4>
+            <h3>Keynote 4: Trends of Multimedia Research and Application in Tencent Social Network</h3>
+            <h4>June 26, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Yongjian Wu (Tencent)</p>
             <h4>Abstract</h4>         
