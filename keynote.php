@@ -23,7 +23,7 @@
             <h4>Presenter</h4>
             <p>Tat-Seng Chua (National University of Singapore)</p>
             <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote1.jpg" class="max-width:100px;">
+            <img class="img-responsive" src="img/keynote1.jpg" style="max-width:100px;">
             </div>
             <h4>Abstract</h4>
             <p>Multimedia has long been associated with visual media by many researchers. While visual media is one of the most challenging medium to deal with, the use of visual analysis alone is often insufficient nor necessary to tackle many real-life problems. The current wisdom seems to suggest that for real-world problem solving, it is necessary to make fuller use of content information including text and audio, and various kinds of contextual information, such as the user’s mobile device settings, social postings, check-in history etc., when available. This, for example, applies to social media and wellness research where a combination of text, visual, audio, health or other sensors, and public data are needed to fully analyze the problem. The second issue is the obser-vation that big multimedia application ideas hardly come from the multimedia research communities. For example, many recent innovative applications in video like contextual advertising, live situational sensing, real-time news gathering, online navigation, wear-able health devices, and personalized healthcare etc. have all come from the commer-cial world. While in research, we seem to barely even start on video research, as ob-served from the technical programs in recent ACM Multimedia and ACM ICMR confer-ences, where only a small fraction of visual papers is about video. This talk discusses issues in these two areas with examples, suggests directions to move forward as a research community, and outlines approaches to make our community more inclusive. The talk, however, will open up more questions than answers.</p>
@@ -37,7 +37,7 @@
             <h4>Presenter</h4>
             <p>Michael Witbrock (Cycorp) </p>
             <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote2.jpg" class="max-width:100px;">
+            <img class="img-responsive" src="img/keynote2.jpg" style="max-width:100px;">
             </div>
             <h4>Abstract</h4>
             <p>Many recent advances in computer science have been driven by the convergent availability of large numbers of data and of fast machines on which to analyze them. This availability has enabled us to acquire implicit partial models of the underlying gen-erators for the data and apply those models to tasks such as translation, transcription, and image captioning. To date, though, few if any of these models have been dense, in the sense of thoroughly modelling some aspect of the world in way that can facilitate any relevant task. Dense models should support: </p>
@@ -63,7 +63,7 @@
             <h4>Presenter</h4>
             <p>Xian-Sheng Hua (Alibaba)</p>
             <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote3.jpg" class="max-width:100px;">
+            <img class="img-responsive" src="img/keynote3.jpg" style="max-width:100px;">
             </div>
             <h4>Abstract</h4>
             <p>Visual search has been studied for decades since 1990s and it was called “con-tent-based image retrieval” in the beginning. It almost died in the early 21st century and then becomes very hot in recent years mainly due to the rapid development of dis-tributed computing, high-dimensional indexing, deep learning and big data analytical techniques. Many visual search research prototypes and preliminary products are avail-able to the public. However, is real-world visual search really coming? Have we solved all the big technical and non-technical challenges? Are semantic gaps and intention gaps still there, and do they really matters? Are people really using it and why do they want to use it? What are the users expecting? What is the right business model? Which direction that visual search is going towards? What are still missing? In this talk, we will discuss all these questions based on a real-world visual search engine that has a considerable number of users.</p>
