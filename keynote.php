@@ -75,6 +75,9 @@
             <h4>June 26, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Yongjian Wu (Tencent)</p>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote4.jpg" style="max-width:200px;">
+            </div>
             <h4>Abstract</h4>         
             <p>On May 1st, 2015, Q-Zone users uploaded 650 million photos in one single day, which creates a new record and shows itself as one of the most influential photo platforms in China internet industry. Besides Q-Zone, there are many other platforms in Tencent with the massive data of multimedia, such as QQ, QQ music, Tencent Map and so on. Basing on these big platforms, BestImage team is one of the research teams in Tencent, who does research on big data of multimedia area and has made outstanding achieve-ments on applying research results into products.</p>
             <p>In this talk, firstly I’ll introduce the development of image processing in both acade-my and industry in these years. Secondly, I’ll introduce the multimedia business devel-opment in Tencent under the background of historical transition from PC internet to mobile internet. Thirdly, I’ll demonstrate the achievements in face and image field, and shows while maintaining our research result in advance, how we find good way to com-bine research and application in company. Fourthly, I’ll demonstrate how the positive interaction of data, technology and application, which plays a significant role in acceler-ating the team's development. In the last but not the least, I’ll introduce future plan for our team.</p>
