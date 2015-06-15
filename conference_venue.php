@@ -35,7 +35,18 @@
             <li>Take Shanghai metro line No. 2, get off at Lujiazui Station.</li>
           </ul> 
           </div>
-     
+          <h3>5th Floor, Yangtze Hall (main conference room) and rooms 5I & 5J (tutorials &workshop). </h3>
+          <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/shicc-5f.JPG">
+          </div>   
+          <h3>1st Floor, Lunch (Riverside Hall)</h3>  
+          <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/shicc-1f.JPG">
+          </div>   
+          <h3>7th Floor, Reception (Pearl Room) and Banquet (Shanghai Min)</h3>
+          <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/shicc-7f.JPG">
+          </div>   
         </div>  
       </div>
       <div class="col-md-3">
