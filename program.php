@@ -52,8 +52,8 @@
  <tr><td>5:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>6:00pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>6:20pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td>Conference Close</td></tr>
- <tr><td>6:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>Banquet: <br/>Shanghai Min Restaurant @ <br/>International Convention Center</td><td>&nbsp;</td></tr>
- <tr height="50"><td>7:00pm<br/>--late</td><td colspan="2">&nbsp;</td><td>Reception: <br/>International Convention Center</td><td></td><td>&nbsp;</td></tr>
+ <tr><td>6:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="info">Banquet: <br/>Shanghai Min Restaurant @ <br/>International Convention Center</td><td>&nbsp;</td></tr>
+ <tr height="50"><td>7:00pm<br/>--late</td><td colspan="2">&nbsp;</td><td class="info">Reception: <br/>International Convention Center</td><td class="info"></td><td>&nbsp;</td></tr>
 </table>
 <hr>
 
