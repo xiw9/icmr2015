@@ -45,14 +45,14 @@
  <tr><td>3:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
  <tr><td>3:40pm</td><td class="success">Coffee Break</td><td class="info">Coffee Break</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:00pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
- <tr><td>4:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
- <tr><td>4:40pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger"><a href="#postershort">Short Paper Posters</a> & <a href="#demo">Demos</a></td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
+ <tr><td>4:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
+ <tr><td>4:40pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger"><a href="#postershort">Short Paper Posters</a> & <a href="#demo">Demos</a></td><td class="success"></td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:00pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>5:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
- <tr><td>5:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="success">&nbsp;</td><td class="danger">&nbsp;</td></tr>
+ <tr><td>5:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>6:00pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td class="danger">&nbsp;</td></tr>
- <tr><td>6:20pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td>&nbsp;</td><td>Conference Close</td></tr>
- <tr><td>6:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="info">Banquet: <br/>Shanghai Min Restaurant @ <br/>International Convention Center</td><td>&nbsp;</td></tr>
+ <tr><td>6:20pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="info">Banquet: <br/>Shanghai Min Restaurant @ <br/>International Convention Center</td><td>Conference Close</td></tr>
+ <tr><td>6:40pm</td><td colspan="2">&nbsp;</td><td class="danger">&nbsp;</td><td class="info"></td><td>&nbsp;</td></tr>
  <tr height="50"><td>7:00pm<br/>--late</td><td colspan="2">&nbsp;</td><td class="info">Reception: <br/>International Convention Center</td><td class="info"></td><td>&nbsp;</td></tr>
 </table>
 <hr>
