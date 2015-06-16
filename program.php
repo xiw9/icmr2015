@@ -18,6 +18,11 @@
             <h1 class="panel-title">Program</h1>
           </div>
           <div class="panel-body" >
+<div class="well">
+<p class="text-center"><small>Program booklet is available.</small></p>
+<p class="text-center"><a href="icmr15-booklet.pdf"><button type="button" class="btn btn-success">Download</button></a></p>
+</div>
+
 <table class="table-program table table-bordered  ">
 <tr class="info"><th>Venue</th><th colspan="5" class="text-center">Shanghai International Convention Center</th></tr>
  <tr><td>Date</td><td colspan="2">June 23 Tuesday</td><td>June 24 Wednesday</td><td>June 25 Thursday</td><td>June 26 Friday</td></tr>
