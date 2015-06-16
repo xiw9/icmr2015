@@ -31,7 +31,7 @@
  <tr><td>10:20am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral1">Oral 1: Image Retrieval</a></td><td class="success"><a href="#oral4">Oral 4: Analytical Methods for<br/>Multimedia Retrieval</a></td><td class="warning"><a href="keynote#keynote4" target="_blank">Keynote 4</a></td></tr>
  <tr><td>10:40am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
  <tr><td>11:00am</td><td class="success">Coffee Break</td><td class="info">Coffee Break</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
- <tr><td>11:20am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">Two Invited Industry Talks</td></tr>
+ <tr><td>11:20am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning"><a href="#industry">Invited Industry Talks</a></td></tr>
  <tr><td>11:40am</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="warning">&nbsp;</td></tr>
   <tr><td>12:00pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td >Lunch: <br/>Riverside Hall @ <br/>1F, International Convention Center</td><td >Lunch: <br/>Riverside Hall @ <br/>1F, International Convention Center</td><td class="warning">&nbsp;</td></tr>
 
@@ -183,7 +183,7 @@
 <tr><td>166</td><td>Teaching Video Analytics Based on Human Behavior Mining. <br/>Jinxian Qin, Hong Lu, Yaqian Zhou and Heqing Ya. </td></tr>
 <tr><td>254</td><td>Multi-view Face Detection Using Deep Convolutional Neural Networks. <br/>Sachin Sudhakar Farfade, Mohammad Saberian and Li-Jia Li. </td></tr>
  <tr><th colspan="2"><a name="demo"></a>Demos
-    <br/> Session Chair: Marcel Worring</th></tr>
+    <br/> Session Chair: Benoit Huet</th></tr>
 <tr><td>100</td><td>Music Positioning and Annotation For Television Videos. <br/>Gang Yang, Jieping Xu and Xirong Li. </td></tr>
 <tr><td>149</td><td>KinectSBR: A Kinect-Assisted 3D Sketch-Based 3D Model Retrieval System. <br/>Bo Li, Yijuan Lu, Azeem Ghumman, Bradley Strylowski, Mario Gutierrez, Safiyah Sadiq, Scott Forster and Natacha Feola, Travis Bugerin. </td></tr>
 <tr><td>153</td><td>An Improved System For Real-Time Scene Text Recognition. <br/>Haojin Yang, Cheng Wang, Xiaoyin Che, Sheng Luo and Christoph Meinel. </td></tr>
@@ -193,7 +193,12 @@
 <tr><td>258</td><td>A Sparse Ensemble Learning System For Efficient Semantic Indexing. <br/>Sheng Tang, Hui Chen, Yu Li, Jun-Bin Xiao and Jin-Tao Li. </td></tr>
 <tr><td>260</td><td>A Multi-Sensory Gesture-Based Occupational Therapy Environment for Controlling Home Appliances. <br/>Ahmed Khan, Syed Osama Hussain, Ahmad Qamar, Dr. Mohamed Abdur Rahman and Saleh Basalamah. </td></tr>
 <tr><td>261</td><td>Incremental Multimodal Query Construction for Video Search. <br/>Shicheng Xu, Huan Li, Xiaojun Chang, Shoou-I Yu, Xingzhong Du, Xuanchong Li, Lu Jiang, Zexi Mao, Zhenzhong Lan, Susanne Burger and Alexander Hauptmann. </td></tr>
-
+<tr><th colspan="2"><a name="industry"></a>Invited Industry Talks
+    <br/> Session Chair: Jialie Shen</th></tr>
+<tr><th colspan="2">Title: From Perception to Intelligence
+    <br/><b>Presenter:</b> Yong Zhao (CTO of DeepGlint)</th></tr>
+<tr><th colspan="2">Title: Frontier of iQiyi's Big Data Practices
+    <br/><b>Presenter:</b> Chen Yang (Chief Architect, iQIYI)</th></tr>
 </table>
 
           </div>
