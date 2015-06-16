@@ -195,10 +195,10 @@
 <tr><td>261</td><td>Incremental Multimodal Query Construction for Video Search. <br/>Shicheng Xu, Huan Li, Xiaojun Chang, Shoou-I Yu, Xingzhong Du, Xuanchong Li, Lu Jiang, Zexi Mao, Zhenzhong Lan, Susanne Burger and Alexander Hauptmann. </td></tr>
 <tr><th colspan="2"><a name="industry"></a>Invited Industry Talks
     <br/> Session Chair: Jialie Shen</th></tr>
-<tr><th colspan="2">Title: From Perception to Intelligence
-    <br/><b>Presenter:</b> Yong Zhao (CTO of DeepGlint)</th></tr>
-<tr><th colspan="2">Title: Frontier of iQiyi's Big Data Practices
-    <br/><b>Presenter:</b> Chen Yang (Chief Architect, iQIYI)</th></tr>
+<tr><td colspan="2">Title: From Perception to Intelligence
+    <br/><b>Presenter:</b> Yong Zhao (CTO of DeepGlint)</td></tr>
+<tr><td colspan="2">Title: Frontier of iQiyi's Big Data Practices
+    <br/><b>Presenter:</b> Chen Yang (Chief Architect, iQIYI)</td></tr>
 </table>
 
           </div>

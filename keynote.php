@@ -22,6 +22,8 @@
             <h4>June 24, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Tat-Seng Chua (National University of Singapore)</p>
+            <h4>Session Chair</h4>
+            <p>Chong-Wah Ngo</p>
             <div class="pull-right" style="margin-left: 20px;">
             <img class="img-responsive" src="img/keynote1.jpg" style="max-width:200px;">
             </div>
@@ -36,6 +38,8 @@
             <h4>June 25, Thursday</h4>
             <h4>Presenter</h4>
             <p>Michael Witbrock (Cycorp) </p>
+            <h4>Session Chair</h4>
+            <p>Alex Hauptmann</p>
             <div class="pull-right" style="margin-left: 20px;">
             <img class="img-responsive" src="img/keynote2.jpg" style="max-width:200px;">
             </div>
@@ -62,6 +66,8 @@
             <h4>June 26, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Xian-Sheng Hua (Alibaba)</p>
+            <h4>Session Chair</h4>
+            <p>Yu-Gang Jiang</p>
             <div class="pull-right" style="margin-left: 20px;">
             <img class="img-responsive" src="img/keynote3.jpg" style="max-width:200px;">
             </div>
@@ -75,6 +81,8 @@
             <h4>June 26, Wednesday</h4>
             <h4>Presenter</h4>
             <p>Yongjian Wu (Tencent)</p>
+            <h4>Session Chair</h4>
+            <p>Yiannis Kompatsiaris</p>
             <div class="pull-right" style="margin-left: 20px;">
             <img class="img-responsive" src="img/keynote4.jpg" style="max-width:200px;">
             </div>
