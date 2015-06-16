@@ -19,7 +19,7 @@
           </div>
           <div class="panel-body" >
 <div class="well">
-<p class="text-center"><small>Program booklet is available.</small></p>
+<p class="text-center">Program booklet is available.</p>
 <p class="text-center"><a href="icmr15-booklet.pdf"><button type="button" class="btn btn-success">Download</button></a></p>
 </div>
 
