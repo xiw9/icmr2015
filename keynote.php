@@ -20,13 +20,14 @@
             <a name="keynote1"></a>
             <h3>Keynote 1: Multimedia Retrieval: Are We Doing it Right?</h3>
             <h4>June 24, Wednesday</h4>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote1.jpg" style="max-width:200px;">
+            </div>
             <h4>Presenter</h4>
             <p>Tat-Seng Chua (National University of Singapore)</p>
             <h4>Session Chair</h4>
             <p>Chong-Wah Ngo</p>
-            <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote1.jpg" style="max-width:200px;">
-            </div>
+
             <h4>Abstract</h4>
             <p>Multimedia has long been associated with visual media by many researchers. While visual media is one of the most challenging medium to deal with, the use of visual analysis alone is often insufficient nor necessary to tackle many real-life problems. The current wisdom seems to suggest that for real-world problem solving, it is necessary to make fuller use of content information including text and audio, and various kinds of contextual information, such as the user’s mobile device settings, social postings, check-in history etc., when available. This, for example, applies to social media and wellness research where a combination of text, visual, audio, health or other sensors, and public data are needed to fully analyze the problem. The second issue is the observation that big multimedia application ideas hardly come from the multimedia research communities. For example, many recent innovative applications in video like contextual advertising, live situational sensing, real-time news gathering, online navigation, wearable health devices, and personalized healthcare etc. have all come from the commercial world. While in research, we seem to barely even start on video research, as observed from the technical programs in recent ACM Multimedia and ACM ICMR conferences, where only a small fraction of visual papers is about video. This talk discusses issues in these two areas with examples, suggests directions to move forward as a research community, and outlines approaches to make our community more inclusive. The talk, however, will open up more questions than answers.</p>
             <h4>Bio</h4>
@@ -36,13 +37,13 @@
             <a name="keynote2"></a>
             <h3>Keynote 2: Dense Models from Videos: Can YouTube be the Font of All Knowledge Bases?</h3>
             <h4>June 25, Thursday</h4>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote2.jpg" style="max-width:200px;">
+            </div>
             <h4>Presenter</h4>
             <p>Michael Witbrock (Cycorp) </p>
             <h4>Session Chair</h4>
             <p>Alex Hauptmann</p>
-            <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote2.jpg" style="max-width:200px;">
-            </div>
             <h4>Abstract</h4>
             <p>Many recent advances in computer science have been driven by the convergent availability of large numbers of data and of fast machines on which to analyze them. This availability has enabled us to acquire implicit partial models of the underlying generators for the data and apply those models to tasks such as translation, transcription, and image captioning. To date, though, few if any of these models have been dense, in the sense of thoroughly modelling some aspect of the world in way that can facilitate any relevant task. Dense models should support: </p>
             <ul>
@@ -64,13 +65,12 @@
             <a name="keynote3"></a>
             <h3>Keynote 3: Is Real-World Visual Search Really Coming? </h3>
             <h4>June 26, Wednesday</h4>
-            <h4>Presenter</h4>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote3.jpg" style="max-width:200px;">
+            </div>            <h4>Presenter</h4>
             <p>Xian-Sheng Hua (Alibaba)</p>
             <h4>Session Chair</h4>
             <p>Yu-Gang Jiang</p>
-            <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote3.jpg" style="max-width:200px;">
-            </div>
             <h4>Abstract</h4>
             <p>Visual search has been studied for decades since 1990s and it was called “content-based image retrieval” in the beginning. It almost died in the early 21st century and then becomes very hot in recent years mainly due to the rapid development of distributed computing, high-dimensional indexing, deep learning and big data analytical techniques. Many visual search research prototypes and preliminary products are available to the public. However, is real-world visual search really coming? Have we solved all the big technical and non-technical challenges? Are semantic gaps and intention gaps still there, and do they really matter? Are people really using it and why do they want to use it? What are the users expecting? What is the right business model? Which direction that visual search is going towards? What are still missing? In this talk, we will discuss all these questions based on a real-world visual search engine that has a considerable number of users.</p>
             <h4>Bio</h4>
@@ -79,13 +79,13 @@
             <a name="keynote4"></a>
             <h3>Keynote 4: Trends of Multimedia Research and Application in Tencent Social Network</h3>
             <h4>June 26, Wednesday</h4>
+            <div class="pull-right" style="margin-left: 20px;">
+            <img class="img-responsive" src="img/keynote4.jpg" style="max-width:200px;">
+            </div>
             <h4>Presenter</h4>
             <p>Yongjian Wu (Tencent)</p>
             <h4>Session Chair</h4>
             <p>Yiannis Kompatsiaris</p>
-            <div class="pull-right" style="margin-left: 20px;">
-            <img class="img-responsive" src="img/keynote4.jpg" style="max-width:200px;">
-            </div>
             <h4>Abstract</h4>         
             <p>On May 1st, 2015, Q-Zone users uploaded 650 million photos in one single day, which creates a new record and shows itself as one of the most influential photo platforms in China internet industry. Besides Q-Zone, there are many other platforms in Tencent with the massive data of multimedia, such as QQ, QQ music, Tencent Map and so on. Basing on these big platforms, BestImage team is one of the research teams in Tencent, who does research on big data of multimedia area and has made outstanding achievements on applying research results into products.</p>
             <p>In this talk, firstly I’ll introduce the development of image processing in both academy and industry in these years. Secondly, I’ll introduce the multimedia business development in Tencent under the background of historical transition from PC internet to mobile internet. Thirdly, I’ll demonstrate the achievements in face and image field, and shows while maintaining our research result in advance, how we find good way to combine research and application in company. Fourthly, I’ll demonstrate how the positive interaction of data, technology and application, which plays a significant role in accelerating the team's development. In the last but not the least, I’ll introduce future plan for our team.</p>
