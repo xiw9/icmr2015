@@ -196,9 +196,9 @@
 <tr><th colspan="2"><a name="industry"></a>Invited Industry Talks
     <br/> Session Chair: Jialie Shen</th></tr>
 <tr><td colspan="2">Title: From Perception to Intelligence
-    <br/><b>Presenter:</b> Yong Zhao (CTO of DeepGlint)</td></tr>
+    <br/>Presenter: Yong Zhao (CTO of DeepGlint)</td></tr>
 <tr><td colspan="2">Title: Frontier of iQiyi's Big Data Practices
-    <br/><b>Presenter:</b> Chen Yang (Chief Architect, iQIYI)</td></tr>
+    <br/>Presenter: Chen Yang (Chief Architect, iQIYI)</td></tr>
 </table>
 
           </div>
