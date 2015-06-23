@@ -47,7 +47,7 @@
  <tr><td>2:20pm</td><td class="success"><a href="tutorial_multimedia_quality_modeling">Tutorial 2</a></td><td class="info"><a href="tutorial_social_multimedia_computing">Tutorial 1</a></td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>2:40pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td><td class="success">&nbsp;</td></tr>
  <tr><td>3:00pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td>Coffee Break</td><td>Coffee Break</td><td>Coffee Break </td></tr>
- <tr><td>3:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info">Panel Discussion</td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
+ <tr><td>3:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success"><a href="#oral3">Oral 3: Concepts</a></td><td class="info"><a href="panel">Panel Discussion</a></td><td class="danger"><a href="#posterfull">Full Paper Posters</a> & <a href="#posterss">Special Poster Session</a></td></tr>
  <tr><td>3:40pm</td><td class="success">Coffee Break</td><td class="info">Coffee Break</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:00pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="danger">&nbsp;</td></tr>
  <tr><td>4:20pm</td><td class="success">&nbsp;</td><td class="info">&nbsp;</td><td class="success">&nbsp;</td><td class="success"><a href="#special">Special Oral Session</a></td><td class="danger">&nbsp;</td></tr>
@@ -204,6 +204,13 @@
     <br/>Presenter: Yong Zhao (CTO of DeepGlint)</td></tr>
 <tr><td colspan="2">Title: Frontier of iQiyi's Big Data Practices
     <br/>Presenter: Chen Yang (Chief Architect, iQIYI)</td></tr>
+<tr><th colspan="2"><a name="panel"></a>Panel Discussion
+    <br/> Panel Facilitator: Alex Hauptmann 
+    <br/> Panelists (tentative): Michael Witbrock, Alan Smeaton, Cees Snoek, Michele Merler</th></tr>
+<tr><td colspan="2">Abstract:
+    <br/>The popularity of smart mobile devices and social networks has resulted in a huge amount of data being shared on the Internet. In addition to YouTube and Flickr, several hugely popular newly emerging sites are largely video-based, including SnapChat and Vine. An increasingly higher proportion of information being shared on Internet is now in images/videos. We are now entering the era of big data for videos. Given the availability of many live, bigger quantity and higher variety of video data, how would this affect the ways we conduct research on video search? What metadata is now available and can be used to improve the analysis and search? Also, what role is there for content analysis if metadata is widely available? Finally, what new novel applications are possible or should be explored to take advantage of this trend?
+    <br/>This panel will examine these issues and discuss directions of video research and applications.</td></tr>
+
 </table>
 
           </div>
