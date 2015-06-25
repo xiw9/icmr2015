@@ -204,7 +204,7 @@
     <br/>Presenter: Yong Zhao (CTO of DeepGlint)</td></tr>
 <tr><td colspan="2">Title: Frontier of iQiyi's Big Data Practices
     <br/>Presenter: Chen Yang (Chief Architect, iQIYI)</td></tr>
-<tr><th colspan="2"><a name="panel"></a>Panel Discussion
+<tr><th colspan="2"><a name="panel"></a>Panel Discussion: Video Search in Big Data Era
     <br/> Panel Facilitator: Alex Hauptmann 
     <br/> Panelists (tentative): Michael Witbrock, Alan Smeaton, Cees Snoek, Michele Merler</th></tr>
 <tr><td colspan="2">Abstract:
