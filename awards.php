@@ -18,17 +18,17 @@
           </div>
           <div class="panel-body" >
 <h3>Best Paper Award</h3>
-<p>Image Classification and Retrieval are ONE</p>
+<p><b>Image Classification and Retrieval are ONE</b></p>
 <p>Lingxi Xie, Richang Hong, Bo Zhang and Qi Tian.</p>
 <hr>
 
 <h3>Best Student Paper Award</h3>
-<p>Unified YouTube Video Recommendation via Cross-network Collaboration</p>
+<p><b>Unified YouTube Video Recommendation via Cross-network Collaboration</b></p>
 <p>Ming Yan, Jitao Sang and Changsheng Xu.</p>
 <hr>
 
 <h3>Best Demo Award</h3>
-<p>Incremental Multimodal Query Construction for Video Search</p>
+<p><b>Incremental Multimodal Query Construction for Video Search</b></p>
 <p>Shicheng Xu, Huan Li, Xiaojun Chang, Shoou-I Yu, Xingzhong Du, Xuanchong Li, Lu Jiang, Zexi Mao, Zhenzhong Lan, Susanne Burger and Alexander Hauptmann.</p>
           </div>
         </div>  
