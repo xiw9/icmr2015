@@ -47,7 +47,7 @@
             <h3 class="panel-title">Recent Updates</h3>
           </div>
           <div class="panel-body">
-            <p>[06/25/2015] <a href="awards">ICMR 2015 paper awards</a> is available.</p>
+            <p>[06/25/2015] <a href="awards">ICMR 2015 paper awards</a>.</p>
             <p>[06/16/2015] <a href="icmr15-booklet.pdf">Program booklet</a> is available.</p>
             <p>[05/17/2015] <a href="student_grants">Student accommodation grants</a> are available (application deadline May 31).</p>
             <p>[04/16/2015] <a href="registration">Registration site</a> is online. Click <a href="visa-information">here</a> for visa information.</p>
